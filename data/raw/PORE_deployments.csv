@@ -1,0 +1,12 @@
+project_id,deployment_id,placename,longitude,latitude,start_date,end_date,bait_type,bait_description,feature_type,feature_type_methodology,camera_id,camera_name,quiet_period,camera_functioning,sensor_height,height_other,sensor_orientation,orientation_other,plot_treatment,plot_treatment_description,detection_distance,subproject_name,subproject_design,event_name,event_description,event_type,recorded_by,remarks
+2006601,BCAM3_SD15_13Mar23,BCAM3,-122.9474,38.03172,2023-01-27 00:00:00,2023-02-27 00:00:00,None,,None,,2087564,FDG10,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM1_SD23_27Jan23,BCAM1,-122.96085,38.02775,2022-12-22 00:00:00,2023-01-27 00:00:00,None,,Trail game,,2087397,EEB3,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM2_SD20_13Mar23,BCAM2,-122.93911,38.03248,2023-01-27 00:00:00,2023-03-13 00:00:00,None,,None,,2067335,FDG1,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM6_SD26_27Jan23,BCAM6,-122.98118,38.01076,2022-12-22 00:00:00,2023-01-27 00:00:00,None,,Trail game,,2087661,EEB6,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM1_SD28_13Mar23,BCAM1,-122.96085,38.02775,2023-01-27 00:00:00,2023-03-10 00:00:00,None,,Trail game,,2087397,EEB3,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM2_SD1_21Dec23,BCAM2,-122.93911,38.03248,2022-12-21 00:00:00,2023-01-27 00:00:00,None,,Other,,2067335,FDG1,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM5_SD16_27Jan23,BCAM5,-122.97708,38.01611,2022-12-22 00:00:00,2023-01-05 00:00:00,None,,Culvert,,2087630,FDG6,30,Camera Hardware Failure,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM4_SD12_13Mar23,BCAM4,-122.97523,38.02161,2023-01-27 00:00:00,2023-03-13 00:00:00,None,,Trail game,,2087608,FDG4,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM6_SD29_13Mar23,BCAM6,-122.98118,38.01076,2023-01-27 00:00:00,2023-03-13 00:00:00,None,,Trail game,,2087661,EEB6,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM4_SD4_27Jan23,BCAM4,-122.97523,38.02161,2022-12-21 00:00:00,2023-01-27 00:00:00,None,,None,,2087608,FDG4,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
+2006601,BCAM3_SD10_27Jan23,BCAM3,-122.9474,38.03172,2022-12-21 00:00:00,2023-01-27 00:00:00,None,,None,,2087564,FDG10,30,Camera Functioning,Knee height,,Parallel,,,,,,,,,,,
