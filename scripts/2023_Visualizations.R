@@ -72,7 +72,7 @@ mammals <- sequences %>%
 
 
 
-ggplot(mammals, aes(x=common_name, y=detection_rate, fill=period))+
+mammal_seasonality_plot <- ggplot(mammals, aes(x=common_name, y=detection_rate, fill=period))+
   geom_bar(stat = "identity", position = 'dodge')+
   theme_few()+
   labs(x="", y="Detection Rate\n(# Images / Trap Night)", fill = "Season")+
@@ -80,6 +80,18 @@ ggplot(mammals, aes(x=common_name, y=detection_rate, fill=period))+
   scale_x_discrete(labels = c("Coyote", "Mule Deer", "Raccoon", "Bobcat", "Other Mammmal"))+
   theme(legend.position = c(.85, .85))
   
-ggsave("output/mammal_seasonality_plot.png", width = 7, height = 5, units = "in")
+ggsave("output/mammal_seasonality_plot.png", mammal_seasonality_plot, width = 7, height = 5, units = "in")
   
-         
+coyote_seasonality_plot <- ggplot(filter(mammals, common_name == "Coyote"),
+                                  aes(x=common_name, y=detection_rate, fill=period))+
+  geom_bar(stat = "identity", position = 'dodge')+
+  theme_few()+
+  labs(x="", y="Detection Rate\n(# Images / Trap Night)", fill = "Season")+
+  scale_fill_manual(values = c(	"#608cf7", "#e89a50"), labels = c("Winter 2023", "Fall 2023"))+
+  scale_x_discrete(labels = c("Coyote", "Mule Deer", "Raccoon", "Bobcat", "Other Mammmal"))+
+  theme(legend.position = c(.75, .85))
+
+
+ggsave("output/coyote_seasonality_plot.png", coyote_seasonality_plot, width = 4, height = 5, units = "in")
+
+   
