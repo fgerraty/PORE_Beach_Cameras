@@ -69,9 +69,6 @@ mammal_detections <- sequences %>%
 #Plot tide heights for species detections
 ggplot(mammal_detections, aes(x=TideHeight))+
   geom_histogram()+
-#  facet_wrap(facets = "common_name", scales = "free_y")+
+  facet_wrap(facets = "common_name", scales = "free_y")+
   theme_few()+
   theme(legend.position = "none")
-
-
-  
