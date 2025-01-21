@@ -33,12 +33,65 @@ SnapshotUSA_2024_Sequences <- read_csv("data/raw/SnapshotUSA_2024_Sequences.csv"
 deployments <- bind_rows(PORE_deployments, 
                          SnapshotUSA_2023_Deployments, 
                          SnapshotUSA_2024_Deployments) %>% 
+  
   #Calculate deployment length (in # days/nights)
-  mutate(deployment_length = floor(interval(start_date, end_date)/days(1)))
+  mutate(deployment_length = floor(interval(start_date, end_date)/days(1))) %>% 
+  
+  #Correct place names from SNAPSHOT USA Projects
+  mutate(placename = case_when(
+    placename == "CA_Beach_PointReyes_Loc1" ~ "BCAM14",
+    placename == "CA_Beach_PointReyes_Loc01" ~ "BCAM14",
+    placename == "CA_Beach_PointReyes_Loc2" ~ "BCAM9",
+    placename == "CA_Beach_PointReyes_Loc02" ~ "BCAM9",
+    #  placename == "CA_Beach_PointReyes_Loc3" ~ "SNAP3",  #No BCAM name for SNAP3 
+    placename == "CA_Beach_PointReyes_Loc4" ~ "BCAM3",
+    placename == "CA_Beach_PointReyes_Loc04" ~ "BCAM3",
+    placename == "CA_Beach_PointReyes_Loc5" ~ "BCAM26",
+    placename == "CA_Beach_PointReyes_Loc05" ~ "BCAM26",
+    placename == "CA_Beach_PointReyes_Loc6" ~ "BCAM1",
+    placename == "CA_Beach_PointReyes_Loc06" ~ "BCAM1",
+    placename == "CA_Beach_PointReyes_Loc7" ~ "BCAM4",
+    placename == "CA_Beach_PointReyes_Loc07" ~ "BCAM4",
+    placename == "CA_Beach_PointReyes_Loc8" ~ "BCAM11",
+    placename == "CA_Beach_PointReyes_Loc08" ~ "BCAM11",
+    placename == "CA_Beach_PointReyes_Loc9" ~ "BCAM13",
+    placename == "CA_Beach_PointReyes_Loc09" ~ "BCAM13",
+    placename == "CA_Beach_PointReyes_Loc10" ~ "BCAM7", 
+    .default = placename))
+
 
 sequences <- rbind(PORE_sequences, 
                    SnapshotUSA_2023_Sequences,
-                   SnapshotUSA_2024_Sequences)
+                   SnapshotUSA_2024_Sequences) %>% 
+  
+  #Add place names to sequences 
+  
+  left_join(., deployments[,c("deployment_id", "placename")]) %>% 
+  
+  
+  #Correct place names from SNAPSHOT USA Projects
+  
+  #Correct place names from SNAPSHOT USA Projects
+  mutate(placename = case_when(
+    placename == "CA_Beach_PointReyes_Loc1" ~ "BCAM14",
+    placename == "CA_Beach_PointReyes_Loc01" ~ "BCAM14",
+    placename == "CA_Beach_PointReyes_Loc2" ~ "BCAM9",
+    placename == "CA_Beach_PointReyes_Loc02" ~ "BCAM9",
+    #  placename == "CA_Beach_PointReyes_Loc3" ~ "SNAP3",  #No BCAM name for SNAP3 
+    placename == "CA_Beach_PointReyes_Loc4" ~ "BCAM3",
+    placename == "CA_Beach_PointReyes_Loc04" ~ "BCAM3",
+    placename == "CA_Beach_PointReyes_Loc5" ~ "BCAM26",
+    placename == "CA_Beach_PointReyes_Loc05" ~ "BCAM26",
+    placename == "CA_Beach_PointReyes_Loc6" ~ "BCAM1",
+    placename == "CA_Beach_PointReyes_Loc06" ~ "BCAM1",
+    placename == "CA_Beach_PointReyes_Loc7" ~ "BCAM4",
+    placename == "CA_Beach_PointReyes_Loc07" ~ "BCAM4",
+    placename == "CA_Beach_PointReyes_Loc8" ~ "BCAM11",
+    placename == "CA_Beach_PointReyes_Loc08" ~ "BCAM11",
+    placename == "CA_Beach_PointReyes_Loc9" ~ "BCAM13",
+    placename == "CA_Beach_PointReyes_Loc09" ~ "BCAM13",
+    placename == "CA_Beach_PointReyes_Loc10" ~ "BCAM7", 
+    .default = placename))
 
 
 # Export clean files -----------------------------------------------------------------
