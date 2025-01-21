@@ -115,3 +115,5 @@ ggplot(filter(mammal_detections), aes(x=relative_tide, fill = TideTrend))+
   facet_wrap(facets = "common_name", scales = "free_y")+
   theme_few()
 
+
+
