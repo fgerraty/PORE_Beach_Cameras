@@ -5,7 +5,9 @@
 # Script 01: Clean and Summarise Datasets ################################
 #-------------------------------------------------------------------------
 
-#Import Raw Data --------------------------------------------------------------
+#################################
+# PART 1: Import Raw Data #######
+#################################
 
 #PORE Beach Camera Project Data
 PORE_deployments <- read_csv("data/raw/PORE_deployments.csv") 
@@ -18,7 +20,7 @@ SnapshotUSA_2023_Sequences <- read_csv("data/raw/SnapshotUSA_2023_Sequences.csv"
   mutate(deployment_id = paste0(deployment_id, "_2023"))
 
 
-#Snapshot USA 2024 Data
+#Snapshot USA 2024 Data (be sure to make deployment names unique between years)
 SnapshotUSA_2024_Deployments <- read_csv("data/raw/SnapshotUSA_2024_Deployments.csv") %>%
   mutate(deployment_id = paste0(deployment_id, "_2024"),
          start_date = mdy_hm(start_date),
@@ -26,9 +28,9 @@ SnapshotUSA_2024_Deployments <- read_csv("data/raw/SnapshotUSA_2024_Deployments.
 SnapshotUSA_2024_Sequences <- read_csv("data/raw/SnapshotUSA_2024_Sequences.csv") %>% 
   mutate(deployment_id = paste0(deployment_id, "_2024"))
 
-# Data Clean -----------------------------------------------------------------
-
-#Make SNAPSHOT USA deployment names unique between years
+###############################################
+# PART 2: Clean and Merge Camera Trap Data ####
+###############################################
 
 deployments <- bind_rows(PORE_deployments, 
                          SnapshotUSA_2023_Deployments, 
@@ -94,7 +96,9 @@ sequences <- rbind(PORE_sequences,
     .default = placename))
 
 
-# Export clean files -----------------------------------------------------------------
+#################################
+# PART 3: Export Clean Files ####
+#################################
 
 write_csv(deployments, "data/processed/deployments.csv")
 write_csv(sequences, "data/processed/sequences.csv")
