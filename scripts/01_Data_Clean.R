@@ -93,7 +93,10 @@ sequences <- rbind(PORE_sequences,
     placename == "CA_Beach_PointReyes_Loc9" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc09" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc10" ~ "BCAM7", 
-    .default = placename))
+    .default = placename),
+    
+    #Ensure all blank photos have a value of 1 in the is_blank column
+    is_blank = if_else(common_name == "Blank", 1,0))
 
 
 #################################
