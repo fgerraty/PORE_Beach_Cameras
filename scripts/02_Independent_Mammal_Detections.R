@@ -85,8 +85,12 @@ independent_mammal_detections <- mammal_seq %>%
     n_sequences = n(), # Number of sequences in the event
     group_size = max(group_size), # Maximum observed group size
     .groups = "drop"
-  )
-
+  ) %>% 
+  
+  #Append month and year to detection
+  rowwise() %>% mutate(
+    year_month = format(event_start, "%Y-%m"),
+    year_week = paste0(isoyear(event_start), "-W", sprintf("%02d", isoweek(event_start))))
 
 
 #Compare filtered and unfiltered data

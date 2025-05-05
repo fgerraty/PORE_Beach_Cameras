@@ -72,8 +72,6 @@ sequences <- rbind(PORE_sequences,
   
   
   #Correct place names from SNAPSHOT USA Projects
-  
-  #Correct place names from SNAPSHOT USA Projects
   mutate(placename = case_when(
     placename == "CA_Beach_PointReyes_Loc1" ~ "BCAM14",
     placename == "CA_Beach_PointReyes_Loc01" ~ "BCAM14",
