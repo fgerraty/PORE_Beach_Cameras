@@ -3,46 +3,12 @@
 # Seasonality Data Exploration ######
 #####################################
 
-independent_mammal_detections <- read_csv("data/processed/independent_mammal_detections.csv")
-monthly_sampling_effort <- read_csv("data/processed/monthly_sampling_effort.csv")
-weekly_sampling_effort <- read_csv("data/processed/weekly_sampling_effort.csv")
 
-
-# Monthly detection summary
-
-summarized_detections_monthly <- independent_mammal_detections %>% 
-  group_by(placename,common_name,year_month) %>% 
-  summarise(n_detections = n(), .groups = "drop") %>% 
-  pivot_wider(names_from = common_name, values_from = n_detections, values_fill = 0) %>% 
-  pivot_longer(cols = c(3:ncol(.)), names_to ="common_name", values_to = "n_detections") %>% 
-  left_join(monthly_sampling_effort, by = join_by(placename, year_month)) %>% 
-  mutate(detection_rate = n_detections/sampling_days) %>% 
-  separate(year_month, into = c("year", "month"), sep = "-", remove = FALSE)
-
-
-summarized_detections_monthly_wide <- summarized_detections %>% 
-  select(-n_detections, -sampling_days) %>% 
-  pivot_wider(names_from = common_name, values_from = detection_rate) %>% 
-  clean_names()
-
-# Weekly detection summary
-
-summarized_detections_weekly <- independent_mammal_detections %>% 
-  group_by(placename,common_name,year_week) %>% 
-  summarise(n_detections = n(), .groups = "drop") %>% 
-  pivot_wider(names_from = common_name, values_from = n_detections, values_fill = 0) %>% 
-  pivot_longer(cols = c(3:ncol(.)), names_to ="common_name", values_to = "n_detections") %>% 
-  left_join(weekly_sampling_effort, by = join_by(placename, year_week)) %>% 
-  mutate(detection_rate = n_detections/sampling_days) %>% 
-  separate(year_week, into = c("year", "week"), sep = "-", remove = FALSE)
-
-
-summarized_detections_weekly_wide <- summarized_detections_weekly %>% 
-  select(-n_detections, -sampling_days) %>% 
-  pivot_wider(names_from = common_name, values_from = detection_rate) %>% 
-  clean_names()
-
-
+#Import data
+summarized_detections_monthly <- read_csv("data/processed/summarized_detections_monthly.csv")   
+summarized_detections_monthly_wide <- read_csv("data/processed/summarized_detections_monthly_wide.csv")   
+summarized_detections_weekly <- read_csv("data/processed/summarized_detections_weekly.csv")   
+summarized_detections_weekly_wide <- read_csv("data/processed/summarized_detections_weekly_wide.csv")   
 
 
 

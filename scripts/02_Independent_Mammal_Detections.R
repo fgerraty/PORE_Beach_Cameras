@@ -22,7 +22,7 @@ sequences <- read.csv("data/processed/sequences.csv") %>%
 
 
 #################################
-# PART 1: Data Preparation ######
+# PART 2: Data Preparation ######
 #################################
 
 mammal_seq <- sequences %>% 
@@ -38,10 +38,6 @@ daily_lookup <- deployments %>%
   unnest(date) %>%
   select(date, placename) %>% 
   distinct()
-
-
-
-
 
 #########################################
 # PART 3: Detect independent events #####
@@ -99,7 +95,7 @@ independent_mammal_detections %>% group_by(common_name) %>% summarize(n())
 
 
 #################################
-# PART X: Export Clean File #####
+# PART 4: Export Clean File #####
 #################################
 
 write_csv(independent_mammal_detections, 

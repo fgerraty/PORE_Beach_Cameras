@@ -97,9 +97,9 @@ sequences <- rbind(PORE_sequences,
     is_blank = if_else(common_name == "Blank", 1,0))
 
 
-#################################
-# PART 3: Export Clean Files ####
-#################################
+######################################
+# PART 3: Export Clean, Raw Files ####
+######################################
 
 write_csv(deployments, "data/processed/deployments.csv")
 write_csv(sequences, "data/processed/sequences.csv")
