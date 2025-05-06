@@ -13,5 +13,16 @@ packages <- c("tidyverse", "lubridate", "rtide", "ggthemes", "overlap", "janitor
 
 pacman::p_load(packages, character.only = TRUE); rm(packages)
 
+
+# Part 2: Customize functions + themes ----------------------------------
+
 #Generate %notin% function (the opposite of %in%)
 `%notin%` <- Negate(`%in%`)
+
+#Generate ggplot theme
+theme_custom <- function() {
+  theme_few() +
+    theme(panel.border = element_rect(linewidth = 2),
+          axis.title = element_text(face = "bold"),
+          legend.title = element_text(face = "bold"))
+}
