@@ -49,12 +49,13 @@ write_csv(monthly_effort,
 write_csv(weekly_effort, 
           "data/processed/weekly_sampling_effort.csv")   
 
+
 #-------------------------------------------------------------------------------
 
 
-###########################################################
-# Import Data to Estimate Detections Per Unit Effort ######
-###########################################################
+###########################################################################
+# Bring Together Detections with Effort and Estimate Detection Rates ######
+###########################################################################
 
 rm(list = ls()) #Clean console
 
@@ -68,6 +69,7 @@ weekly_sampling_effort <- read_csv("data/processed/weekly_sampling_effort.csv")
 ####################
 
 # Monthly detection count summary
+
 summarized_detection_count_monthly <- independent_mammal_detections %>% 
   group_by(placename,common_name,year_month) %>% 
   summarise(n_detections = n(), .groups = "drop") %>% 
@@ -80,6 +82,7 @@ summarized_detection_count_monthly_wide <- summarized_detection_count_monthly %>
   clean_names()
 
 # Weekly detection count summary
+
 summarized_detection_count_weekly <- independent_mammal_detections %>% 
   group_by(placename,common_name,year_week) %>% 
   summarise(n_detections = n(), .groups = "drop") %>% 
@@ -136,7 +139,6 @@ write_csv(summarized_detection_count_weekly,
           "data/processed/summarized_detection_count_weekly.csv")   
 write_csv(summarized_detection_count_weekly_wide, 
           "data/processed/summarized_detection_count_weekly_wide.csv")   
-
 
 #Export detection rate datasets
 write_csv(summarized_detection_rate_monthly, 
