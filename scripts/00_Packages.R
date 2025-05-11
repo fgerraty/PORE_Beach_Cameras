@@ -9,7 +9,7 @@
 # Part 1: Load Packages --------------------------------------------------
 
 # Load packages
-packages <- c("tidyverse", "lubridate", "rtide", "ggthemes", "overlap", "janitor")
+packages <- c("tidyverse", "lubridate", "rtide", "ggthemes", "overlap", "janitor", "piecewiseSEM")
 
 pacman::p_load(packages, character.only = TRUE); rm(packages)
 
@@ -26,3 +26,4 @@ theme_custom <- function() {
           axis.title = element_text(face = "bold"),
           legend.title = element_text(face = "bold"))
 }
+

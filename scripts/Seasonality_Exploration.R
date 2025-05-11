@@ -12,7 +12,10 @@ summarized_detections_weekly_wide <- read_csv("data/processed/summarized_detecti
 
 #Explore plotting
 selected_mammals <- summarized_detections_monthly %>% 
-  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon", "Mule Deer")) %>% 
+  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon",
+                           # "Northern Elephant Seal", 
+                            
+                            "Mule Deer")) %>% 
   group_by(month, common_name) %>% 
   summarise(mean = mean(detection_rate), 
             sd = sd(detection_rate)) 
