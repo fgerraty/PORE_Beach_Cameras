@@ -40,6 +40,7 @@ temp <- summarized_detection_rate_weekly %>%
 
 ggplot(temp, aes(x=week, y=mean, fill = common_name))+
   geom_bar(stat = "identity", position = "dodge")+
-  theme_custom()
+  theme_custom()+
+  theme(axis.text.x = element_text(angle = 90))
 
 
