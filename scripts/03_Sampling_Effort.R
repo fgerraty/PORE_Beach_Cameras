@@ -18,19 +18,23 @@ deployments <- read.csv("data/processed/deployments.csv")
 #Create dataframe for all sampling days, labeled by month and week of year
 sampling_days <- deployments %>%
   rowwise() %>%
-  mutate(dates = list(seq.Date(as.Date(start_date), as.Date(end_date), by = "day"))) %>%
-  unnest(dates) %>%
+  mutate(date = list(seq.Date(as.Date(start_date), as.Date(end_date), by = "day"))) %>%
+  unnest(date) %>%
   mutate(
-    year_month = format(dates, "%Y-%m"),
-    year_week = paste0(isoyear(dates), "-W", sprintf("%02d", isoweek(dates))))
+    year_month = format(date, "%Y-%m"),
+    year_week = paste0(isoyear(date), "-W", sprintf("%02d", isoweek(date))))
 
 # Count sampling days per site per month
 monthly_effort <- sampling_days %>%
+  select(placename, year_month, date) %>% 
+  unique() %>% 
   group_by(placename, year_month) %>%
   summarise(sampling_days = n(), .groups = "drop")
 
 # Count sampling days per site per week
 weekly_effort <- sampling_days %>%
+  select(placename, year_week, date) %>% 
+  unique() %>% 
   group_by(placename, year_week) %>%
   summarise(sampling_days = n(), .groups = "drop")
 

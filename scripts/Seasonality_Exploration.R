@@ -4,14 +4,14 @@
 #####################################
 
 #Import data
-summarized_detections_monthly <- read_csv("data/processed/summarized_detections_monthly.csv")   
-summarized_detections_monthly_wide <- read_csv("data/processed/summarized_detections_monthly_wide.csv")   
-summarized_detections_weekly <- read_csv("data/processed/summarized_detections_weekly.csv")   
-summarized_detections_weekly_wide <- read_csv("data/processed/summarized_detections_weekly_wide.csv")   
+summarized_detection_rate_monthly <- read_csv("data/processed/summarized_detection_rate_monthly.csv")   
+summarized_detection_rate_monthly_wide <- read_csv("data/processed/summarized_detection_rate_monthly_wide.csv")   
+summarized_detection_rate_weekly <- read_csv("data/processed/summarized_detection_rate_weekly.csv")   
+summarized_detection_rate_weekly_wide <- read_csv("data/processed/summarized_detection_rate_weekly_wide.csv")   
 
 
 #Explore plotting
-selected_mammals <- summarized_detections_monthly %>% 
+selected_mammals <- summarized_detection_rate_monthly %>% 
   filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon",
                            # "Northern Elephant Seal", 
                             
@@ -31,7 +31,7 @@ ggplot(selected_mammals, aes(x=month, y=mean, fill = common_name))+
 
 
 #Plot2
-temp <- summarized_detections_weekly %>% 
+temp <- summarized_detection_rate_weekly %>% 
   filter(common_name %in% c("Coyote", "Human", "Northern Elephant Seal")) %>% 
   group_by(week, common_name) %>% 
   summarise(mean = mean(detection_rate), 
@@ -43,7 +43,3 @@ ggplot(temp, aes(x=week, y=mean, fill = common_name))+
   theme_custom()
 
 
-
-ggplot(summarized_detections_monthly_wide, aes(x = coyote, y = northern_raccoon))+
-  geom_point() +
-  geom_smooth(method = "glm")
