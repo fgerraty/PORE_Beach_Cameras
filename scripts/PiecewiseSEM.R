@@ -6,7 +6,7 @@
 #Import data
 summarized_detection_count_weekly_wide <- read_csv("data/processed/summarized_detection_count_weekly_wide.csv") %>% 
   as_tibble() %>% 
-  filter(sampling_days >= 7) #Filter for only complete weeks
+  filter(sampling_days == 7) #Filter for only complete weeks
 
 #Model fitting
 
@@ -49,8 +49,8 @@ deer <- glmmTMB(mule_deer ~ northern_elephant_seal + human + coyote + (1|placena
 summary(deer)
 
 
-#Structural equation model using psem()
+#Structural equation model 
 
-SEM <- psem(human, coyote, bobcat, raccoon, deer, data = summarized_detection_count_weekly_wide)
+pSEM <- psem(human, coyote, bobcat, raccoon, deer, data = summarized_detection_count_weekly_wide)
 
-summary(SEM)
+summary(pSEM)
