@@ -14,13 +14,13 @@ pacman::p_load(packages, character.only = TRUE)
 # Import Point Reyes National Seashore from NPS administrative boundaries
 # Originally downloaded from https://irma.nps.gov/DataStore/Reference/Profile/2224545?lnv=True
 
-PORE <-  st_read("data/raw/Administrative_Boundaries of_National Park_System_Units/nps_boundary.shp") %>% 
+PORE <-  st_read("data/shapefiles/Administrative_Boundaries of_National Park_System_Units/nps_boundary.shp") %>% 
   subset(UNIT_CODE == "PORE")%>% 
   st_transform(crs= "WGS84")
 
 
 #Import california counties shapefile, originally downloaded from https://purl.stanford.edu/jm667wq2232
-counties <- st_read("data/raw/stanford-jm667wq2232-shapefile/jm667wq2232.shp") %>% 
+counties <- st_read("data/shapefiles/stanford-jm667wq2232-shapefile/jm667wq2232.shp") %>% 
   st_make_valid() %>% 
   st_union() 
 
@@ -38,12 +38,21 @@ cam_sites <- read_excel("data/raw/camera_sites.xlsx") %>%
          latitude = as.numeric(latitude))
 
 
+deployments <- read_csv("data/processed/deployments.csv") %>% 
+  select(placename, longitude, latitude) %>% 
+  unique() %>% 
+  mutate(site_type = if_else(placename %in% 
+                             c("BCAM15", "BCAM16", "BCAM17", "BCAM18", "BCAM19", 
+                               "BCAM20", "BCAM21", "BCAM22", "BCAM24", "BCAM25"),
+                             "non-seal", "seal"))
+
+
 #Plot
 
 plot <- ggplot() +
   geom_sf(data = counties, fill="#FAEED9")+
   geom_sf(data=PORE_land, fill = "#D1E3B3")+
-  geom_point(data = cam_sites, 
+  geom_point(data = deployments, 
              mapping = aes(longitude, latitude, color = site_type))+
   coord_sf(crs = st_crs(4326),
            xlim = c(-123.05, -122.8),
@@ -53,11 +62,12 @@ plot <- ggplot() +
   theme(panel.background = element_rect(fill = "#BDE8FE"))+
   scale_x_continuous(breaks=c(-123, -122.9), name = "")+ # Sets the x (longitude) labels 
   scale_y_continuous(breaks = c(38.0, 38.05), name = "")+
-  scale_color_manual(values = c("darkgreen", "#3a86ff", "#F27F0C"), 
-                     labels = c("Non-Rookery", "Non-Rookery\n(Wilderness)", "Rookery"))+
+  scale_color_manual(values = c("darkgreen",  "#F27F0C"), 
+                     labels = c("Non-Rookery", "Rookery"))+
   labs(color = c("Camera Trap\nSite Type"))+
-  theme(legend.position = c(.865, .75),
-        legend.box.background = element_rect(color = "black", linewidth = 1))+
+  theme(legend.position = "inside", 
+        legend.position.inside = c(.865, .75),
+       legend.box.background = element_rect(color = "black", linewidth = 1))+
   # Add scale bar
   annotation_scale(location = "bl", width_hint = 0.2)+
   # Add north arrow
@@ -72,10 +82,5 @@ plot
 
 #Export Map
 
-
-pdf("output/cam_sites.pdf", 
-    width = 7, height = 5)
-
-plot(plot)
-
-dev.off()
+ggsave("output/camera_map.png", plot, 
+       width = 6.5, height = 4, units = "in", dpi = 600)

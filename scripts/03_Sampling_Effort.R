@@ -22,7 +22,7 @@ sampling_days <- deployments %>%
   unnest(date) %>%
   mutate(
     year_month = format(date, "%Y-%m"),
-    year_week = paste0(isoyear(date), "-W", sprintf("%02d", isoweek(date))))
+    year_week = paste0(isoyear(date), "-", sprintf("%02d", isoweek(date))))
 
 # Count sampling days per site per month
 monthly_effort <- sampling_days %>%

@@ -117,3 +117,4 @@ trig_rand_int <- mixed_model(fixed = cbind(success, failure) ~
                              iter_EM = 0
 )
 summary(trig_rand_int)
+

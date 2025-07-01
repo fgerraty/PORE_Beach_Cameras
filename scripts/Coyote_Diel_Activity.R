@@ -71,7 +71,7 @@ coyote_detection_diel_summary <- coyote_detections %>%
 ######################################################
 
 # run model
-trig_rand_int <- mixed_model(fixed = cbind(success, failure) ~ 
+coyote_diel_seasonal_tglmm <- mixed_model(fixed = cbind(success, failure) ~ 
                                cos(2 * pi * time/24) * season +
                                sin(2 * pi * time/24) * season +
                                sin(2 * pi * time/12) * season +
@@ -79,46 +79,43 @@ trig_rand_int <- mixed_model(fixed = cbind(success, failure) ~
                              random = ~  1  |   placename,
                              data = coyote_detection_diel_summary, 
                              family = binomial(), 
-                             iter_EM = 0
-)
-summary(trig_rand_int)
+                             iter_EM = 0)
+
+summary(coyote_diel_seasonal_tglmm)
 
 
 # build estimate of activity
-newdat <- with(coyote_detection_diel_summary, 
+coyote_tglmm_pred_temp <- with(coyote_detection_diel_summary, 
                expand.grid(time = seq(min(time), 24, length.out = 48), 
                            season = levels(season)
                )
 )
-pred_rand_int <- effectPlotData(trig_rand_int, newdat, marginal = FALSE) 
+
+coyote_tglmm_pred <- effectPlotData(coyote_diel_seasonal_tglmm, 
+                                coyote_tglmm_pred_temp, 
+                                marginal = FALSE) 
 
 
-(pl_trig <- ggplot(pred_rand_int, aes(time, plogis(pred))) +
+coyote_tglmm_plot <- ggplot(coyote_tglmm_pred, aes(time, plogis(pred))) +
     geom_ribbon(aes(ymin = plogis(low), ymax = plogis(upp), color = season, fill = season), alpha = 0.3, linewidth = 0.25) +
     geom_line(aes(color = season), linewidth = 1) +
     scale_color_manual(values = c("orange", "darkgreen")) +
     scale_fill_manual(values = c("orange", "darkgreen")) +
     labs(x = "Time of Day (Hour)", 
-         y = "Predicted Activity Pattern \n (probability)", 
-         title = "A: Hierarchical model, Trigonometric GLMM \n(random intercept-only)")+
+         y = "Predicted Activity Pattern \n (probability)",
+         fill = "Season", color = "Season")+
     theme_custom()+
-    theme(legend.position = "bottom",
-          legend.title = element_blank(),
-          legend.text = element_text(size=10,face="bold"),
-          legend.margin=margin(0,0,0,0),
-          legend.box.margin=margin(-5,-10,-10,-10),
-          plot.title = element_text(size=10,face="bold"),
-          axis.line = element_line(colour = 'black', linetype = 'solid'),
-          axis.ticks = element_line(colour = 'black', linetype = 'solid'),
-          axis.title = element_text(size=9,face="bold"),
-          panel.grid.minor.y = element_blank(),
-          panel.grid.major.y = element_blank(),
-          panel.grid.major.x = element_line(colour = 'lightgrey', linetype = 'dashed', linewidth=0.5),
-          panel.grid.minor.x = element_blank(),
-          strip.text = element_text(size = 9, colour = "black", face = "bold", hjust = 0)
-    ) +
-    scale_x_continuous(breaks=seq(0,23,length.out=7), labels=seq(0,24,4))
-) 
+  scale_x_continuous(breaks=seq(0,23,length.out=7), labels=seq(0,24,4))+
+    theme(panel.grid.major.x = element_line(colour = 'lightgrey', linetype = 'dashed', linewidth=0.5)) 
+
+
+coyote_tglmm_plot
+
+#Export Plot
+
+ggsave("output/coyote_diel_seasonality_tglmm.png", coyote_tglmm_plot, 
+       width = 8, height = 5, units = "in", dpi = 600)
+
 
 
 #Compete model with season against model without season variable

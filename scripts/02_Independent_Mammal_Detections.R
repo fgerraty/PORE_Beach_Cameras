@@ -86,7 +86,7 @@ independent_mammal_detections <- mammal_seq %>%
   #Append month and year to detection
   rowwise() %>% mutate(
     year_month = format(event_start, "%Y-%m"),
-    year_week = paste0(isoyear(event_start), "-W", sprintf("%02d", isoweek(event_start))))
+    year_week = paste0(isoyear(event_start), "-", sprintf("%02d", isoweek(event_start))))
 
 
 #Compare filtered and unfiltered data
