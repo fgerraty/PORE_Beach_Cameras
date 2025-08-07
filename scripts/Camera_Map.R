@@ -32,18 +32,12 @@ PORE_land <-st_intersection (counties, PORE)
 
 #Import cam data
 
-cam_sites <- read_excel("data/raw/camera_sites.xlsx") %>% 
-  clean_names() %>% 
-  mutate(longitude = as.numeric(longitude),
-         latitude = as.numeric(latitude))
-
-
 deployments <- read_csv("data/processed/deployments.csv") %>% 
   select(placename, longitude, latitude) %>% 
   unique() %>% 
   mutate(site_type = if_else(placename %in% 
                              c("BCAM15", "BCAM16", "BCAM17", "BCAM18", "BCAM19", 
-                               "BCAM20", "BCAM21", "BCAM22", "BCAM24", "BCAM25"),
+                               "BCAM20", "BCAM21", "BCAM22", "BCAM24", "BCAM25", "BCAM27"),
                              "non-seal", "seal"))
 
 

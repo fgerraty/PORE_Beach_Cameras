@@ -2,10 +2,9 @@ placename,year_month,common_name,n_detections,sampling_days
 BCAM1,2024-08,American Badger,1,31
 BCAM1,2024-08,Bobcat,6,31
 BCAM1,2024-08,Coyote,1,31
-BCAM1,2024-08,Domestic Cattle,0,31
 BCAM1,2024-08,Domestic Dog,0,31
-BCAM1,2024-08,Human,4,31
-BCAM1,2024-08,Human-Camera Trapper,4,31
+BCAM1,2024-08,Human,0,31
+BCAM1,2024-08,Human-Camera Trapper,0,31
 BCAM1,2024-08,Mule Deer,15,31
 BCAM1,2024-08,North American River Otter,0,31
 BCAM1,2024-08,Northern Elephant Seal,0,31
@@ -13,13 +12,12 @@ BCAM1,2024-08,Northern Raccoon,0,31
 BCAM1,2024-08,Striped Skunk,0,31
 BCAM1,2024-08,Brush Rabbit,0,31
 BCAM1,2024-08,Californian Sea Lion,0,31
+BCAM1,2024-08,Domestic Cattle,0,31
 BCAM1,2024-08,Elk,0,31
 BCAM1,2024-08,Black-tailed Jackrabbit,0,31
-BCAM1,2024-08,Human-Pedestrian,0,31
 BCAM1,2023-09,American Badger,0,7
 BCAM1,2023-09,Bobcat,1,7
 BCAM1,2023-09,Coyote,0,7
-BCAM1,2023-09,Domestic Cattle,0,7
 BCAM1,2023-09,Domestic Dog,0,7
 BCAM1,2023-09,Human,5,7
 BCAM1,2023-09,Human-Camera Trapper,3,7
@@ -30,13 +28,12 @@ BCAM1,2023-09,Northern Raccoon,0,7
 BCAM1,2023-09,Striped Skunk,0,7
 BCAM1,2023-09,Brush Rabbit,0,7
 BCAM1,2023-09,Californian Sea Lion,0,7
+BCAM1,2023-09,Domestic Cattle,0,7
 BCAM1,2023-09,Elk,0,7
 BCAM1,2023-09,Black-tailed Jackrabbit,0,7
-BCAM1,2023-09,Human-Pedestrian,0,7
 BCAM1,2023-10,American Badger,0,31
 BCAM1,2023-10,Bobcat,5,31
 BCAM1,2023-10,Coyote,2,31
-BCAM1,2023-10,Domestic Cattle,0,31
 BCAM1,2023-10,Domestic Dog,1,31
 BCAM1,2023-10,Human,13,31
 BCAM1,2023-10,Human-Camera Trapper,2,31
@@ -47,33 +44,31 @@ BCAM1,2023-10,Northern Raccoon,3,31
 BCAM1,2023-10,Striped Skunk,0,31
 BCAM1,2023-10,Brush Rabbit,0,31
 BCAM1,2023-10,Californian Sea Lion,0,31
+BCAM1,2023-10,Domestic Cattle,0,31
 BCAM1,2023-10,Elk,0,31
 BCAM1,2023-10,Black-tailed Jackrabbit,0,31
-BCAM1,2023-10,Human-Pedestrian,0,31
 BCAM1,2024-04,American Badger,0,30
 BCAM1,2024-04,Bobcat,1,30
-BCAM1,2024-04,Coyote,1,30
-BCAM1,2024-04,Domestic Cattle,0,30
+BCAM1,2024-04,Coyote,3,30
 BCAM1,2024-04,Domestic Dog,1,30
-BCAM1,2024-04,Human,32,30
-BCAM1,2024-04,Human-Camera Trapper,2,30
+BCAM1,2024-04,Human,0,30
+BCAM1,2024-04,Human-Camera Trapper,0,30
 BCAM1,2024-04,Mule Deer,1,30
 BCAM1,2024-04,North American River Otter,0,30
-BCAM1,2024-04,Northern Elephant Seal,0,30
+BCAM1,2024-04,Northern Elephant Seal,5,30
 BCAM1,2024-04,Northern Raccoon,0,30
 BCAM1,2024-04,Striped Skunk,0,30
 BCAM1,2024-04,Brush Rabbit,0,30
 BCAM1,2024-04,Californian Sea Lion,0,30
+BCAM1,2024-04,Domestic Cattle,0,30
 BCAM1,2024-04,Elk,0,30
 BCAM1,2024-04,Black-tailed Jackrabbit,0,30
-BCAM1,2024-04,Human-Pedestrian,0,30
 BCAM1,2024-05,American Badger,0,31
 BCAM1,2024-05,Bobcat,5,31
 BCAM1,2024-05,Coyote,0,31
-BCAM1,2024-05,Domestic Cattle,0,31
 BCAM1,2024-05,Domestic Dog,0,31
-BCAM1,2024-05,Human,19,31
-BCAM1,2024-05,Human-Camera Trapper,2,31
+BCAM1,2024-05,Human,0,31
+BCAM1,2024-05,Human-Camera Trapper,0,31
 BCAM1,2024-05,Mule Deer,9,31
 BCAM1,2024-05,North American River Otter,0,31
 BCAM1,2024-05,Northern Elephant Seal,1,31
@@ -81,16 +76,15 @@ BCAM1,2024-05,Northern Raccoon,0,31
 BCAM1,2024-05,Striped Skunk,0,31
 BCAM1,2024-05,Brush Rabbit,0,31
 BCAM1,2024-05,Californian Sea Lion,0,31
+BCAM1,2024-05,Domestic Cattle,0,31
 BCAM1,2024-05,Elk,0,31
 BCAM1,2024-05,Black-tailed Jackrabbit,0,31
-BCAM1,2024-05,Human-Pedestrian,0,31
 BCAM1,2024-06,American Badger,0,30
 BCAM1,2024-06,Bobcat,9,30
 BCAM1,2024-06,Coyote,0,30
-BCAM1,2024-06,Domestic Cattle,0,30
 BCAM1,2024-06,Domestic Dog,0,30
-BCAM1,2024-06,Human,16,30
-BCAM1,2024-06,Human-Camera Trapper,3,30
+BCAM1,2024-06,Human,0,30
+BCAM1,2024-06,Human-Camera Trapper,0,30
 BCAM1,2024-06,Mule Deer,6,30
 BCAM1,2024-06,North American River Otter,0,30
 BCAM1,2024-06,Northern Elephant Seal,0,30
@@ -98,15 +92,14 @@ BCAM1,2024-06,Northern Raccoon,0,30
 BCAM1,2024-06,Striped Skunk,0,30
 BCAM1,2024-06,Brush Rabbit,0,30
 BCAM1,2024-06,Californian Sea Lion,0,30
+BCAM1,2024-06,Domestic Cattle,0,30
 BCAM1,2024-06,Elk,0,30
 BCAM1,2024-06,Black-tailed Jackrabbit,0,30
-BCAM1,2024-06,Human-Pedestrian,0,30
 BCAM1,2024-07,American Badger,0,31
 BCAM1,2024-07,Bobcat,10,31
 BCAM1,2024-07,Coyote,2,31
-BCAM1,2024-07,Domestic Cattle,0,31
 BCAM1,2024-07,Domestic Dog,0,31
-BCAM1,2024-07,Human,14,31
+BCAM1,2024-07,Human,0,31
 BCAM1,2024-07,Human-Camera Trapper,0,31
 BCAM1,2024-07,Mule Deer,9,31
 BCAM1,2024-07,North American River Otter,0,31
@@ -115,16 +108,15 @@ BCAM1,2024-07,Northern Raccoon,0,31
 BCAM1,2024-07,Striped Skunk,0,31
 BCAM1,2024-07,Brush Rabbit,0,31
 BCAM1,2024-07,Californian Sea Lion,0,31
+BCAM1,2024-07,Domestic Cattle,0,31
 BCAM1,2024-07,Elk,0,31
 BCAM1,2024-07,Black-tailed Jackrabbit,0,31
-BCAM1,2024-07,Human-Pedestrian,0,31
 BCAM1,2024-09,American Badger,0,30
 BCAM1,2024-09,Bobcat,3,30
 BCAM1,2024-09,Coyote,0,30
-BCAM1,2024-09,Domestic Cattle,0,30
 BCAM1,2024-09,Domestic Dog,0,30
 BCAM1,2024-09,Human,14,30
-BCAM1,2024-09,Human-Camera Trapper,2,30
+BCAM1,2024-09,Human-Camera Trapper,1,30
 BCAM1,2024-09,Mule Deer,10,30
 BCAM1,2024-09,North American River Otter,0,30
 BCAM1,2024-09,Northern Elephant Seal,0,30
@@ -132,16 +124,15 @@ BCAM1,2024-09,Northern Raccoon,1,30
 BCAM1,2024-09,Striped Skunk,0,30
 BCAM1,2024-09,Brush Rabbit,0,30
 BCAM1,2024-09,Californian Sea Lion,0,30
+BCAM1,2024-09,Domestic Cattle,0,30
 BCAM1,2024-09,Elk,0,30
 BCAM1,2024-09,Black-tailed Jackrabbit,0,30
-BCAM1,2024-09,Human-Pedestrian,0,30
 BCAM1,2024-11,American Badger,0,30
 BCAM1,2024-11,Bobcat,1,30
 BCAM1,2024-11,Coyote,1,30
-BCAM1,2024-11,Domestic Cattle,0,30
 BCAM1,2024-11,Domestic Dog,0,30
-BCAM1,2024-11,Human,20,30
-BCAM1,2024-11,Human-Camera Trapper,2,30
+BCAM1,2024-11,Human,6,30
+BCAM1,2024-11,Human-Camera Trapper,1,30
 BCAM1,2024-11,Mule Deer,9,30
 BCAM1,2024-11,North American River Otter,2,30
 BCAM1,2024-11,Northern Elephant Seal,0,30
@@ -149,16 +140,15 @@ BCAM1,2024-11,Northern Raccoon,5,30
 BCAM1,2024-11,Striped Skunk,0,30
 BCAM1,2024-11,Brush Rabbit,0,30
 BCAM1,2024-11,Californian Sea Lion,0,30
+BCAM1,2024-11,Domestic Cattle,0,30
 BCAM1,2024-11,Elk,0,30
 BCAM1,2024-11,Black-tailed Jackrabbit,0,30
-BCAM1,2024-11,Human-Pedestrian,0,30
 BCAM1,2024-12,American Badger,0,31
 BCAM1,2024-12,Bobcat,1,31
 BCAM1,2024-12,Coyote,3,31
-BCAM1,2024-12,Domestic Cattle,0,31
 BCAM1,2024-12,Domestic Dog,0,31
-BCAM1,2024-12,Human,20,31
-BCAM1,2024-12,Human-Camera Trapper,3,31
+BCAM1,2024-12,Human,0,31
+BCAM1,2024-12,Human-Camera Trapper,0,31
 BCAM1,2024-12,Mule Deer,0,31
 BCAM1,2024-12,North American River Otter,0,31
 BCAM1,2024-12,Northern Elephant Seal,2,31
@@ -166,16 +156,15 @@ BCAM1,2024-12,Northern Raccoon,4,31
 BCAM1,2024-12,Striped Skunk,1,31
 BCAM1,2024-12,Brush Rabbit,0,31
 BCAM1,2024-12,Californian Sea Lion,0,31
+BCAM1,2024-12,Domestic Cattle,0,31
 BCAM1,2024-12,Elk,0,31
 BCAM1,2024-12,Black-tailed Jackrabbit,0,31
-BCAM1,2024-12,Human-Pedestrian,0,31
 BCAM1,2022-12,American Badger,0,10
 BCAM1,2022-12,Bobcat,0,10
 BCAM1,2022-12,Coyote,3,10
-BCAM1,2022-12,Domestic Cattle,0,10
 BCAM1,2022-12,Domestic Dog,0,10
-BCAM1,2022-12,Human,9,10
-BCAM1,2022-12,Human-Camera Trapper,2,10
+BCAM1,2022-12,Human,0,10
+BCAM1,2022-12,Human-Camera Trapper,0,10
 BCAM1,2022-12,Mule Deer,0,10
 BCAM1,2022-12,North American River Otter,0,10
 BCAM1,2022-12,Northern Elephant Seal,1,10
@@ -183,15 +172,14 @@ BCAM1,2022-12,Northern Raccoon,0,10
 BCAM1,2022-12,Striped Skunk,0,10
 BCAM1,2022-12,Brush Rabbit,0,10
 BCAM1,2022-12,Californian Sea Lion,0,10
+BCAM1,2022-12,Domestic Cattle,0,10
 BCAM1,2022-12,Elk,0,10
 BCAM1,2022-12,Black-tailed Jackrabbit,0,10
-BCAM1,2022-12,Human-Pedestrian,0,10
 BCAM1,2023-01,American Badger,0,31
 BCAM1,2023-01,Bobcat,0,31
 BCAM1,2023-01,Coyote,3,31
-BCAM1,2023-01,Domestic Cattle,0,31
 BCAM1,2023-01,Domestic Dog,0,31
-BCAM1,2023-01,Human,10,31
+BCAM1,2023-01,Human,0,31
 BCAM1,2023-01,Human-Camera Trapper,0,31
 BCAM1,2023-01,Mule Deer,0,31
 BCAM1,2023-01,North American River Otter,0,31
@@ -200,15 +188,14 @@ BCAM1,2023-01,Northern Raccoon,0,31
 BCAM1,2023-01,Striped Skunk,0,31
 BCAM1,2023-01,Brush Rabbit,0,31
 BCAM1,2023-01,Californian Sea Lion,0,31
+BCAM1,2023-01,Domestic Cattle,0,31
 BCAM1,2023-01,Elk,0,31
 BCAM1,2023-01,Black-tailed Jackrabbit,0,31
-BCAM1,2023-01,Human-Pedestrian,0,31
 BCAM1,2023-02,American Badger,0,28
 BCAM1,2023-02,Bobcat,0,28
 BCAM1,2023-02,Coyote,2,28
-BCAM1,2023-02,Domestic Cattle,0,28
 BCAM1,2023-02,Domestic Dog,0,28
-BCAM1,2023-02,Human,9,28
+BCAM1,2023-02,Human,0,28
 BCAM1,2023-02,Human-Camera Trapper,0,28
 BCAM1,2023-02,Mule Deer,0,28
 BCAM1,2023-02,North American River Otter,0,28
@@ -217,13 +204,12 @@ BCAM1,2023-02,Northern Raccoon,0,28
 BCAM1,2023-02,Striped Skunk,0,28
 BCAM1,2023-02,Brush Rabbit,0,28
 BCAM1,2023-02,Californian Sea Lion,0,28
+BCAM1,2023-02,Domestic Cattle,0,28
 BCAM1,2023-02,Elk,0,28
 BCAM1,2023-02,Black-tailed Jackrabbit,0,28
-BCAM1,2023-02,Human-Pedestrian,0,28
 BCAM1,2023-03,American Badger,0,10
 BCAM1,2023-03,Bobcat,0,10
 BCAM1,2023-03,Coyote,6,10
-BCAM1,2023-03,Domestic Cattle,0,10
 BCAM1,2023-03,Domestic Dog,0,10
 BCAM1,2023-03,Human,0,10
 BCAM1,2023-03,Human-Camera Trapper,0,10
@@ -234,15 +220,14 @@ BCAM1,2023-03,Northern Raccoon,0,10
 BCAM1,2023-03,Striped Skunk,0,10
 BCAM1,2023-03,Brush Rabbit,0,10
 BCAM1,2023-03,Californian Sea Lion,0,10
+BCAM1,2023-03,Domestic Cattle,0,10
 BCAM1,2023-03,Elk,0,10
 BCAM1,2023-03,Black-tailed Jackrabbit,0,10
-BCAM1,2023-03,Human-Pedestrian,0,10
 BCAM1,2024-01,American Badger,0,19
 BCAM1,2024-01,Bobcat,0,19
 BCAM1,2024-01,Coyote,7,19
-BCAM1,2024-01,Domestic Cattle,0,19
 BCAM1,2024-01,Domestic Dog,0,19
-BCAM1,2024-01,Human,2,19
+BCAM1,2024-01,Human,0,19
 BCAM1,2024-01,Human-Camera Trapper,0,19
 BCAM1,2024-01,Mule Deer,0,19
 BCAM1,2024-01,North American River Otter,0,19
@@ -251,16 +236,15 @@ BCAM1,2024-01,Northern Raccoon,0,19
 BCAM1,2024-01,Striped Skunk,0,19
 BCAM1,2024-01,Brush Rabbit,0,19
 BCAM1,2024-01,Californian Sea Lion,0,19
+BCAM1,2024-01,Domestic Cattle,0,19
 BCAM1,2024-01,Elk,0,19
 BCAM1,2024-01,Black-tailed Jackrabbit,0,19
-BCAM1,2024-01,Human-Pedestrian,0,19
 BCAM1,2024-02,American Badger,0,10
 BCAM1,2024-02,Bobcat,0,10
 BCAM1,2024-02,Coyote,1,10
-BCAM1,2024-02,Domestic Cattle,1,10
 BCAM1,2024-02,Domestic Dog,0,10
-BCAM1,2024-02,Human,4,10
-BCAM1,2024-02,Human-Camera Trapper,1,10
+BCAM1,2024-02,Human,0,10
+BCAM1,2024-02,Human-Camera Trapper,0,10
 BCAM1,2024-02,Mule Deer,0,10
 BCAM1,2024-02,North American River Otter,0,10
 BCAM1,2024-02,Northern Elephant Seal,43,10
@@ -268,13 +252,28 @@ BCAM1,2024-02,Northern Raccoon,0,10
 BCAM1,2024-02,Striped Skunk,0,10
 BCAM1,2024-02,Brush Rabbit,0,10
 BCAM1,2024-02,Californian Sea Lion,0,10
+BCAM1,2024-02,Domestic Cattle,0,10
 BCAM1,2024-02,Elk,0,10
 BCAM1,2024-02,Black-tailed Jackrabbit,0,10
-BCAM1,2024-02,Human-Pedestrian,0,10
+BCAM1,2024-03,American Badger,0,23
+BCAM1,2024-03,Bobcat,0,23
+BCAM1,2024-03,Coyote,1,23
+BCAM1,2024-03,Domestic Dog,0,23
+BCAM1,2024-03,Human,0,23
+BCAM1,2024-03,Human-Camera Trapper,0,23
+BCAM1,2024-03,Mule Deer,0,23
+BCAM1,2024-03,North American River Otter,0,23
+BCAM1,2024-03,Northern Elephant Seal,161,23
+BCAM1,2024-03,Northern Raccoon,0,23
+BCAM1,2024-03,Striped Skunk,0,23
+BCAM1,2024-03,Brush Rabbit,0,23
+BCAM1,2024-03,Californian Sea Lion,0,23
+BCAM1,2024-03,Domestic Cattle,0,23
+BCAM1,2024-03,Elk,0,23
+BCAM1,2024-03,Black-tailed Jackrabbit,0,23
 BCAM1,2024-10,American Badger,0,31
 BCAM1,2024-10,Bobcat,0,31
 BCAM1,2024-10,Coyote,3,31
-BCAM1,2024-10,Domestic Cattle,0,31
 BCAM1,2024-10,Domestic Dog,0,31
 BCAM1,2024-10,Human,20,31
 BCAM1,2024-10,Human-Camera Trapper,2,31
@@ -285,16 +284,15 @@ BCAM1,2024-10,Northern Raccoon,3,31
 BCAM1,2024-10,Striped Skunk,0,31
 BCAM1,2024-10,Brush Rabbit,0,31
 BCAM1,2024-10,Californian Sea Lion,0,31
+BCAM1,2024-10,Domestic Cattle,0,31
 BCAM1,2024-10,Elk,0,31
 BCAM1,2024-10,Black-tailed Jackrabbit,0,31
-BCAM1,2024-10,Human-Pedestrian,0,31
 BCAM1,2025-01,American Badger,0,31
 BCAM1,2025-01,Bobcat,0,31
 BCAM1,2025-01,Coyote,7,31
-BCAM1,2025-01,Domestic Cattle,0,31
 BCAM1,2025-01,Domestic Dog,0,31
-BCAM1,2025-01,Human,3,31
-BCAM1,2025-01,Human-Camera Trapper,2,31
+BCAM1,2025-01,Human,0,31
+BCAM1,2025-01,Human-Camera Trapper,0,31
 BCAM1,2025-01,Mule Deer,0,31
 BCAM1,2025-01,North American River Otter,0,31
 BCAM1,2025-01,Northern Elephant Seal,11,31
@@ -302,47 +300,28 @@ BCAM1,2025-01,Northern Raccoon,0,31
 BCAM1,2025-01,Striped Skunk,0,31
 BCAM1,2025-01,Brush Rabbit,0,31
 BCAM1,2025-01,Californian Sea Lion,0,31
+BCAM1,2025-01,Domestic Cattle,0,31
 BCAM1,2025-01,Elk,0,31
 BCAM1,2025-01,Black-tailed Jackrabbit,0,31
-BCAM1,2025-01,Human-Pedestrian,0,31
 BCAM1,2025-02,American Badger,0,28
 BCAM1,2025-02,Bobcat,0,28
-BCAM1,2025-02,Coyote,7,28
-BCAM1,2025-02,Domestic Cattle,0,28
+BCAM1,2025-02,Coyote,8,28
 BCAM1,2025-02,Domestic Dog,0,28
-BCAM1,2025-02,Human,2,28
-BCAM1,2025-02,Human-Camera Trapper,3,28
+BCAM1,2025-02,Human,0,28
+BCAM1,2025-02,Human-Camera Trapper,0,28
 BCAM1,2025-02,Mule Deer,0,28
 BCAM1,2025-02,North American River Otter,0,28
-BCAM1,2025-02,Northern Elephant Seal,5,28
+BCAM1,2025-02,Northern Elephant Seal,26,28
 BCAM1,2025-02,Northern Raccoon,0,28
 BCAM1,2025-02,Striped Skunk,0,28
 BCAM1,2025-02,Brush Rabbit,0,28
 BCAM1,2025-02,Californian Sea Lion,0,28
+BCAM1,2025-02,Domestic Cattle,0,28
 BCAM1,2025-02,Elk,0,28
 BCAM1,2025-02,Black-tailed Jackrabbit,0,28
-BCAM1,2025-02,Human-Pedestrian,0,28
-BCAM1,2024-03,American Badger,0,23
-BCAM1,2024-03,Bobcat,0,23
-BCAM1,2024-03,Coyote,0,23
-BCAM1,2024-03,Domestic Cattle,0,23
-BCAM1,2024-03,Domestic Dog,0,23
-BCAM1,2024-03,Human,2,23
-BCAM1,2024-03,Human-Camera Trapper,1,23
-BCAM1,2024-03,Mule Deer,0,23
-BCAM1,2024-03,North American River Otter,0,23
-BCAM1,2024-03,Northern Elephant Seal,81,23
-BCAM1,2024-03,Northern Raccoon,0,23
-BCAM1,2024-03,Striped Skunk,0,23
-BCAM1,2024-03,Brush Rabbit,0,23
-BCAM1,2024-03,Californian Sea Lion,0,23
-BCAM1,2024-03,Elk,0,23
-BCAM1,2024-03,Black-tailed Jackrabbit,0,23
-BCAM1,2024-03,Human-Pedestrian,0,23
 BCAM1,2023-11,American Badger,0,4
 BCAM1,2023-11,Bobcat,0,4
 BCAM1,2023-11,Coyote,0,4
-BCAM1,2023-11,Domestic Cattle,0,4
 BCAM1,2023-11,Domestic Dog,0,4
 BCAM1,2023-11,Human,0,4
 BCAM1,2023-11,Human-Camera Trapper,1,4
@@ -353,33 +332,31 @@ BCAM1,2023-11,Northern Raccoon,0,4
 BCAM1,2023-11,Striped Skunk,1,4
 BCAM1,2023-11,Brush Rabbit,0,4
 BCAM1,2023-11,Californian Sea Lion,0,4
+BCAM1,2023-11,Domestic Cattle,0,4
 BCAM1,2023-11,Elk,0,4
 BCAM1,2023-11,Black-tailed Jackrabbit,0,4
-BCAM1,2023-11,Human-Pedestrian,0,4
 BCAM1,2025-03,American Badger,0,31
 BCAM1,2025-03,Bobcat,0,31
 BCAM1,2025-03,Coyote,0,31
-BCAM1,2025-03,Domestic Cattle,0,31
 BCAM1,2025-03,Domestic Dog,0,31
 BCAM1,2025-03,Human,0,31
 BCAM1,2025-03,Human-Camera Trapper,0,31
 BCAM1,2025-03,Mule Deer,0,31
 BCAM1,2025-03,North American River Otter,0,31
-BCAM1,2025-03,Northern Elephant Seal,1,31
+BCAM1,2025-03,Northern Elephant Seal,78,31
 BCAM1,2025-03,Northern Raccoon,0,31
 BCAM1,2025-03,Striped Skunk,0,31
 BCAM1,2025-03,Brush Rabbit,0,31
 BCAM1,2025-03,Californian Sea Lion,0,31
+BCAM1,2025-03,Domestic Cattle,0,31
 BCAM1,2025-03,Elk,0,31
 BCAM1,2025-03,Black-tailed Jackrabbit,0,31
-BCAM1,2025-03,Human-Pedestrian,0,31
 BCAM10,2023-11,American Badger,0,26
 BCAM10,2023-11,Bobcat,8,26
 BCAM10,2023-11,Coyote,8,26
-BCAM10,2023-11,Domestic Cattle,0,26
 BCAM10,2023-11,Domestic Dog,0,26
-BCAM10,2023-11,Human,1,26
-BCAM10,2023-11,Human-Camera Trapper,1,26
+BCAM10,2023-11,Human,0,26
+BCAM10,2023-11,Human-Camera Trapper,0,26
 BCAM10,2023-11,Mule Deer,2,26
 BCAM10,2023-11,North American River Otter,0,26
 BCAM10,2023-11,Northern Elephant Seal,0,26
@@ -387,33 +364,31 @@ BCAM10,2023-11,Northern Raccoon,35,26
 BCAM10,2023-11,Striped Skunk,7,26
 BCAM10,2023-11,Brush Rabbit,0,26
 BCAM10,2023-11,Californian Sea Lion,0,26
+BCAM10,2023-11,Domestic Cattle,0,26
 BCAM10,2023-11,Elk,0,26
 BCAM10,2023-11,Black-tailed Jackrabbit,0,26
-BCAM10,2023-11,Human-Pedestrian,0,26
 BCAM10,2023-12,American Badger,0,21
 BCAM10,2023-12,Bobcat,7,21
 BCAM10,2023-12,Coyote,9,21
-BCAM10,2023-12,Domestic Cattle,0,21
 BCAM10,2023-12,Domestic Dog,0,21
 BCAM10,2023-12,Human,0,21
-BCAM10,2023-12,Human-Camera Trapper,1,21
+BCAM10,2023-12,Human-Camera Trapper,0,21
 BCAM10,2023-12,Mule Deer,1,21
 BCAM10,2023-12,North American River Otter,0,21
-BCAM10,2023-12,Northern Elephant Seal,3,21
+BCAM10,2023-12,Northern Elephant Seal,13,21
 BCAM10,2023-12,Northern Raccoon,16,21
 BCAM10,2023-12,Striped Skunk,1,21
 BCAM10,2023-12,Brush Rabbit,1,21
 BCAM10,2023-12,Californian Sea Lion,0,21
+BCAM10,2023-12,Domestic Cattle,0,21
 BCAM10,2023-12,Elk,0,21
 BCAM10,2023-12,Black-tailed Jackrabbit,0,21
-BCAM10,2023-12,Human-Pedestrian,0,21
 BCAM11,2023-11,American Badger,1,30
 BCAM11,2023-11,Bobcat,3,30
 BCAM11,2023-11,Coyote,9,30
-BCAM11,2023-11,Domestic Cattle,0,30
 BCAM11,2023-11,Domestic Dog,0,30
 BCAM11,2023-11,Human,0,30
-BCAM11,2023-11,Human-Camera Trapper,2,30
+BCAM11,2023-11,Human-Camera Trapper,1,30
 BCAM11,2023-11,Mule Deer,13,30
 BCAM11,2023-11,North American River Otter,0,30
 BCAM11,2023-11,Northern Elephant Seal,0,30
@@ -421,16 +396,15 @@ BCAM11,2023-11,Northern Raccoon,4,30
 BCAM11,2023-11,Striped Skunk,3,30
 BCAM11,2023-11,Brush Rabbit,0,30
 BCAM11,2023-11,Californian Sea Lion,0,30
+BCAM11,2023-11,Domestic Cattle,0,30
 BCAM11,2023-11,Elk,0,30
 BCAM11,2023-11,Black-tailed Jackrabbit,0,30
-BCAM11,2023-11,Human-Pedestrian,0,30
 BCAM11,2023-12,American Badger,1,31
 BCAM11,2023-12,Bobcat,2,31
 BCAM11,2023-12,Coyote,4,31
-BCAM11,2023-12,Domestic Cattle,0,31
 BCAM11,2023-12,Domestic Dog,0,31
-BCAM11,2023-12,Human,2,31
-BCAM11,2023-12,Human-Camera Trapper,2,31
+BCAM11,2023-12,Human,0,31
+BCAM11,2023-12,Human-Camera Trapper,0,31
 BCAM11,2023-12,Mule Deer,1,31
 BCAM11,2023-12,North American River Otter,0,31
 BCAM11,2023-12,Northern Elephant Seal,0,31
@@ -438,13 +412,12 @@ BCAM11,2023-12,Northern Raccoon,0,31
 BCAM11,2023-12,Striped Skunk,0,31
 BCAM11,2023-12,Brush Rabbit,0,31
 BCAM11,2023-12,Californian Sea Lion,0,31
+BCAM11,2023-12,Domestic Cattle,0,31
 BCAM11,2023-12,Elk,0,31
 BCAM11,2023-12,Black-tailed Jackrabbit,0,31
-BCAM11,2023-12,Human-Pedestrian,0,31
 BCAM11,2023-09,American Badger,0,26
 BCAM11,2023-09,Bobcat,2,26
 BCAM11,2023-09,Coyote,2,26
-BCAM11,2023-09,Domestic Cattle,0,26
 BCAM11,2023-09,Domestic Dog,0,26
 BCAM11,2023-09,Human,1,26
 BCAM11,2023-09,Human-Camera Trapper,3,26
@@ -455,13 +428,12 @@ BCAM11,2023-09,Northern Raccoon,1,26
 BCAM11,2023-09,Striped Skunk,0,26
 BCAM11,2023-09,Brush Rabbit,0,26
 BCAM11,2023-09,Californian Sea Lion,0,26
+BCAM11,2023-09,Domestic Cattle,0,26
 BCAM11,2023-09,Elk,0,26
 BCAM11,2023-09,Black-tailed Jackrabbit,0,26
-BCAM11,2023-09,Human-Pedestrian,0,26
 BCAM11,2023-10,American Badger,0,27
 BCAM11,2023-10,Bobcat,3,27
 BCAM11,2023-10,Coyote,11,27
-BCAM11,2023-10,Domestic Cattle,0,27
 BCAM11,2023-10,Domestic Dog,0,27
 BCAM11,2023-10,Human,4,27
 BCAM11,2023-10,Human-Camera Trapper,1,27
@@ -472,16 +444,15 @@ BCAM11,2023-10,Northern Raccoon,0,27
 BCAM11,2023-10,Striped Skunk,0,27
 BCAM11,2023-10,Brush Rabbit,0,27
 BCAM11,2023-10,Californian Sea Lion,0,27
+BCAM11,2023-10,Domestic Cattle,0,27
 BCAM11,2023-10,Elk,0,27
 BCAM11,2023-10,Black-tailed Jackrabbit,0,27
-BCAM11,2023-10,Human-Pedestrian,0,27
 BCAM11,2024-01,American Badger,0,31
 BCAM11,2024-01,Bobcat,2,31
 BCAM11,2024-01,Coyote,44,31
-BCAM11,2024-01,Domestic Cattle,0,31
 BCAM11,2024-01,Domestic Dog,0,31
-BCAM11,2024-01,Human,1,31
-BCAM11,2024-01,Human-Camera Trapper,3,31
+BCAM11,2024-01,Human,0,31
+BCAM11,2024-01,Human-Camera Trapper,0,31
 BCAM11,2024-01,Mule Deer,0,31
 BCAM11,2024-01,North American River Otter,0,31
 BCAM11,2024-01,Northern Elephant Seal,0,31
@@ -489,16 +460,15 @@ BCAM11,2024-01,Northern Raccoon,0,31
 BCAM11,2024-01,Striped Skunk,2,31
 BCAM11,2024-01,Brush Rabbit,0,31
 BCAM11,2024-01,Californian Sea Lion,0,31
+BCAM11,2024-01,Domestic Cattle,0,31
 BCAM11,2024-01,Elk,0,31
 BCAM11,2024-01,Black-tailed Jackrabbit,0,31
-BCAM11,2024-01,Human-Pedestrian,0,31
 BCAM11,2024-03,American Badger,0,31
 BCAM11,2024-03,Bobcat,1,31
 BCAM11,2024-03,Coyote,83,31
-BCAM11,2024-03,Domestic Cattle,0,31
 BCAM11,2024-03,Domestic Dog,0,31
 BCAM11,2024-03,Human,0,31
-BCAM11,2024-03,Human-Camera Trapper,2,31
+BCAM11,2024-03,Human-Camera Trapper,0,31
 BCAM11,2024-03,Mule Deer,2,31
 BCAM11,2024-03,North American River Otter,0,31
 BCAM11,2024-03,Northern Elephant Seal,0,31
@@ -506,16 +476,15 @@ BCAM11,2024-03,Northern Raccoon,0,31
 BCAM11,2024-03,Striped Skunk,0,31
 BCAM11,2024-03,Brush Rabbit,0,31
 BCAM11,2024-03,Californian Sea Lion,0,31
+BCAM11,2024-03,Domestic Cattle,0,31
 BCAM11,2024-03,Elk,0,31
 BCAM11,2024-03,Black-tailed Jackrabbit,0,31
-BCAM11,2024-03,Human-Pedestrian,0,31
 BCAM11,2024-05,American Badger,0,31
 BCAM11,2024-05,Bobcat,4,31
 BCAM11,2024-05,Coyote,13,31
-BCAM11,2024-05,Domestic Cattle,0,31
 BCAM11,2024-05,Domestic Dog,0,31
 BCAM11,2024-05,Human,0,31
-BCAM11,2024-05,Human-Camera Trapper,2,31
+BCAM11,2024-05,Human-Camera Trapper,0,31
 BCAM11,2024-05,Mule Deer,5,31
 BCAM11,2024-05,North American River Otter,0,31
 BCAM11,2024-05,Northern Elephant Seal,0,31
@@ -523,16 +492,15 @@ BCAM11,2024-05,Northern Raccoon,0,31
 BCAM11,2024-05,Striped Skunk,0,31
 BCAM11,2024-05,Brush Rabbit,0,31
 BCAM11,2024-05,Californian Sea Lion,0,31
+BCAM11,2024-05,Domestic Cattle,0,31
 BCAM11,2024-05,Elk,0,31
 BCAM11,2024-05,Black-tailed Jackrabbit,0,31
-BCAM11,2024-05,Human-Pedestrian,0,31
 BCAM11,2024-06,American Badger,0,30
 BCAM11,2024-06,Bobcat,3,30
 BCAM11,2024-06,Coyote,4,30
-BCAM11,2024-06,Domestic Cattle,0,30
 BCAM11,2024-06,Domestic Dog,0,30
 BCAM11,2024-06,Human,0,30
-BCAM11,2024-06,Human-Camera Trapper,4,30
+BCAM11,2024-06,Human-Camera Trapper,0,30
 BCAM11,2024-06,Mule Deer,5,30
 BCAM11,2024-06,North American River Otter,0,30
 BCAM11,2024-06,Northern Elephant Seal,0,30
@@ -540,16 +508,15 @@ BCAM11,2024-06,Northern Raccoon,0,30
 BCAM11,2024-06,Striped Skunk,0,30
 BCAM11,2024-06,Brush Rabbit,0,30
 BCAM11,2024-06,Californian Sea Lion,0,30
+BCAM11,2024-06,Domestic Cattle,0,30
 BCAM11,2024-06,Elk,0,30
 BCAM11,2024-06,Black-tailed Jackrabbit,0,30
-BCAM11,2024-06,Human-Pedestrian,0,30
 BCAM11,2024-08,American Badger,0,31
 BCAM11,2024-08,Bobcat,8,31
 BCAM11,2024-08,Coyote,2,31
-BCAM11,2024-08,Domestic Cattle,0,31
 BCAM11,2024-08,Domestic Dog,0,31
-BCAM11,2024-08,Human,2,31
-BCAM11,2024-08,Human-Camera Trapper,2,31
+BCAM11,2024-08,Human,0,31
+BCAM11,2024-08,Human-Camera Trapper,0,31
 BCAM11,2024-08,Mule Deer,7,31
 BCAM11,2024-08,North American River Otter,0,31
 BCAM11,2024-08,Northern Elephant Seal,0,31
@@ -557,13 +524,12 @@ BCAM11,2024-08,Northern Raccoon,1,31
 BCAM11,2024-08,Striped Skunk,1,31
 BCAM11,2024-08,Brush Rabbit,0,31
 BCAM11,2024-08,Californian Sea Lion,0,31
+BCAM11,2024-08,Domestic Cattle,0,31
 BCAM11,2024-08,Elk,0,31
 BCAM11,2024-08,Black-tailed Jackrabbit,0,31
-BCAM11,2024-08,Human-Pedestrian,0,31
 BCAM11,2024-10,American Badger,0,31
 BCAM11,2024-10,Bobcat,1,31
 BCAM11,2024-10,Coyote,3,31
-BCAM11,2024-10,Domestic Cattle,0,31
 BCAM11,2024-10,Domestic Dog,0,31
 BCAM11,2024-10,Human,0,31
 BCAM11,2024-10,Human-Camera Trapper,2,31
@@ -574,33 +540,47 @@ BCAM11,2024-10,Northern Raccoon,3,31
 BCAM11,2024-10,Striped Skunk,0,31
 BCAM11,2024-10,Brush Rabbit,0,31
 BCAM11,2024-10,Californian Sea Lion,0,31
+BCAM11,2024-10,Domestic Cattle,0,31
 BCAM11,2024-10,Elk,0,31
 BCAM11,2024-10,Black-tailed Jackrabbit,0,31
-BCAM11,2024-10,Human-Pedestrian,0,31
 BCAM11,2024-11,American Badger,0,30
 BCAM11,2024-11,Bobcat,2,30
-BCAM11,2024-11,Coyote,9,30
-BCAM11,2024-11,Domestic Cattle,0,30
+BCAM11,2024-11,Coyote,12,30
 BCAM11,2024-11,Domestic Dog,0,30
-BCAM11,2024-11,Human,1,30
-BCAM11,2024-11,Human-Camera Trapper,2,30
+BCAM11,2024-11,Human,0,30
+BCAM11,2024-11,Human-Camera Trapper,1,30
 BCAM11,2024-11,Mule Deer,8,30
 BCAM11,2024-11,North American River Otter,0,30
 BCAM11,2024-11,Northern Elephant Seal,0,30
 BCAM11,2024-11,Northern Raccoon,4,30
-BCAM11,2024-11,Striped Skunk,4,30
+BCAM11,2024-11,Striped Skunk,5,30
 BCAM11,2024-11,Brush Rabbit,0,30
 BCAM11,2024-11,Californian Sea Lion,0,30
+BCAM11,2024-11,Domestic Cattle,0,30
 BCAM11,2024-11,Elk,0,30
 BCAM11,2024-11,Black-tailed Jackrabbit,0,30
-BCAM11,2024-11,Human-Pedestrian,0,30
+BCAM11,2025-04,American Badger,0,25
+BCAM11,2025-04,Bobcat,3,25
+BCAM11,2025-04,Coyote,3,25
+BCAM11,2025-04,Domestic Dog,0,25
+BCAM11,2025-04,Human,0,25
+BCAM11,2025-04,Human-Camera Trapper,0,25
+BCAM11,2025-04,Mule Deer,5,25
+BCAM11,2025-04,North American River Otter,0,25
+BCAM11,2025-04,Northern Elephant Seal,0,25
+BCAM11,2025-04,Northern Raccoon,0,25
+BCAM11,2025-04,Striped Skunk,0,25
+BCAM11,2025-04,Brush Rabbit,0,25
+BCAM11,2025-04,Californian Sea Lion,0,25
+BCAM11,2025-04,Domestic Cattle,0,25
+BCAM11,2025-04,Elk,0,25
+BCAM11,2025-04,Black-tailed Jackrabbit,0,25
 BCAM11,2024-02,American Badger,0,29
 BCAM11,2024-02,Bobcat,0,29
 BCAM11,2024-02,Coyote,11,29
-BCAM11,2024-02,Domestic Cattle,0,29
 BCAM11,2024-02,Domestic Dog,0,29
 BCAM11,2024-02,Human,0,29
-BCAM11,2024-02,Human-Camera Trapper,2,29
+BCAM11,2024-02,Human-Camera Trapper,0,29
 BCAM11,2024-02,Mule Deer,0,29
 BCAM11,2024-02,North American River Otter,0,29
 BCAM11,2024-02,Northern Elephant Seal,7,29
@@ -608,16 +588,15 @@ BCAM11,2024-02,Northern Raccoon,0,29
 BCAM11,2024-02,Striped Skunk,0,29
 BCAM11,2024-02,Brush Rabbit,0,29
 BCAM11,2024-02,Californian Sea Lion,0,29
+BCAM11,2024-02,Domestic Cattle,0,29
 BCAM11,2024-02,Elk,0,29
 BCAM11,2024-02,Black-tailed Jackrabbit,0,29
-BCAM11,2024-02,Human-Pedestrian,0,29
 BCAM11,2024-04,American Badger,0,30
 BCAM11,2024-04,Bobcat,0,30
 BCAM11,2024-04,Coyote,19,30
-BCAM11,2024-04,Domestic Cattle,0,30
 BCAM11,2024-04,Domestic Dog,0,30
 BCAM11,2024-04,Human,0,30
-BCAM11,2024-04,Human-Camera Trapper,2,30
+BCAM11,2024-04,Human-Camera Trapper,0,30
 BCAM11,2024-04,Mule Deer,7,30
 BCAM11,2024-04,North American River Otter,0,30
 BCAM11,2024-04,Northern Elephant Seal,0,30
@@ -625,15 +604,14 @@ BCAM11,2024-04,Northern Raccoon,0,30
 BCAM11,2024-04,Striped Skunk,0,30
 BCAM11,2024-04,Brush Rabbit,0,30
 BCAM11,2024-04,Californian Sea Lion,0,30
+BCAM11,2024-04,Domestic Cattle,0,30
 BCAM11,2024-04,Elk,0,30
 BCAM11,2024-04,Black-tailed Jackrabbit,0,30
-BCAM11,2024-04,Human-Pedestrian,0,30
 BCAM11,2024-07,American Badger,0,31
 BCAM11,2024-07,Bobcat,0,31
 BCAM11,2024-07,Coyote,3,31
-BCAM11,2024-07,Domestic Cattle,0,31
 BCAM11,2024-07,Domestic Dog,0,31
-BCAM11,2024-07,Human,1,31
+BCAM11,2024-07,Human,0,31
 BCAM11,2024-07,Human-Camera Trapper,0,31
 BCAM11,2024-07,Mule Deer,6,31
 BCAM11,2024-07,North American River Otter,0,31
@@ -642,16 +620,15 @@ BCAM11,2024-07,Northern Raccoon,0,31
 BCAM11,2024-07,Striped Skunk,0,31
 BCAM11,2024-07,Brush Rabbit,0,31
 BCAM11,2024-07,Californian Sea Lion,0,31
+BCAM11,2024-07,Domestic Cattle,0,31
 BCAM11,2024-07,Elk,0,31
 BCAM11,2024-07,Black-tailed Jackrabbit,0,31
-BCAM11,2024-07,Human-Pedestrian,0,31
 BCAM11,2024-09,American Badger,0,30
 BCAM11,2024-09,Bobcat,0,30
 BCAM11,2024-09,Coyote,3,30
-BCAM11,2024-09,Domestic Cattle,0,30
 BCAM11,2024-09,Domestic Dog,0,30
 BCAM11,2024-09,Human,0,30
-BCAM11,2024-09,Human-Camera Trapper,2,30
+BCAM11,2024-09,Human-Camera Trapper,1,30
 BCAM11,2024-09,Mule Deer,8,30
 BCAM11,2024-09,North American River Otter,0,30
 BCAM11,2024-09,Northern Elephant Seal,0,30
@@ -659,16 +636,15 @@ BCAM11,2024-09,Northern Raccoon,1,30
 BCAM11,2024-09,Striped Skunk,4,30
 BCAM11,2024-09,Brush Rabbit,0,30
 BCAM11,2024-09,Californian Sea Lion,0,30
+BCAM11,2024-09,Domestic Cattle,0,30
 BCAM11,2024-09,Elk,0,30
 BCAM11,2024-09,Black-tailed Jackrabbit,0,30
-BCAM11,2024-09,Human-Pedestrian,0,30
 BCAM11,2024-12,American Badger,0,31
 BCAM11,2024-12,Bobcat,0,31
 BCAM11,2024-12,Coyote,15,31
-BCAM11,2024-12,Domestic Cattle,0,31
 BCAM11,2024-12,Domestic Dog,0,31
-BCAM11,2024-12,Human,1,31
-BCAM11,2024-12,Human-Camera Trapper,3,31
+BCAM11,2024-12,Human,0,31
+BCAM11,2024-12,Human-Camera Trapper,0,31
 BCAM11,2024-12,Mule Deer,2,31
 BCAM11,2024-12,North American River Otter,0,31
 BCAM11,2024-12,Northern Elephant Seal,0,31
@@ -676,16 +652,15 @@ BCAM11,2024-12,Northern Raccoon,1,31
 BCAM11,2024-12,Striped Skunk,0,31
 BCAM11,2024-12,Brush Rabbit,0,31
 BCAM11,2024-12,Californian Sea Lion,0,31
+BCAM11,2024-12,Domestic Cattle,0,31
 BCAM11,2024-12,Elk,0,31
 BCAM11,2024-12,Black-tailed Jackrabbit,0,31
-BCAM11,2024-12,Human-Pedestrian,0,31
 BCAM11,2025-01,American Badger,0,31
 BCAM11,2025-01,Bobcat,0,31
 BCAM11,2025-01,Coyote,93,31
-BCAM11,2025-01,Domestic Cattle,0,31
 BCAM11,2025-01,Domestic Dog,0,31
 BCAM11,2025-01,Human,0,31
-BCAM11,2025-01,Human-Camera Trapper,2,31
+BCAM11,2025-01,Human-Camera Trapper,0,31
 BCAM11,2025-01,Mule Deer,0,31
 BCAM11,2025-01,North American River Otter,0,31
 BCAM11,2025-01,Northern Elephant Seal,0,31
@@ -693,33 +668,47 @@ BCAM11,2025-01,Northern Raccoon,0,31
 BCAM11,2025-01,Striped Skunk,0,31
 BCAM11,2025-01,Brush Rabbit,0,31
 BCAM11,2025-01,Californian Sea Lion,0,31
+BCAM11,2025-01,Domestic Cattle,0,31
 BCAM11,2025-01,Elk,0,31
 BCAM11,2025-01,Black-tailed Jackrabbit,0,31
-BCAM11,2025-01,Human-Pedestrian,0,31
 BCAM11,2025-02,American Badger,0,28
 BCAM11,2025-02,Bobcat,0,28
-BCAM11,2025-02,Coyote,6,28
-BCAM11,2025-02,Domestic Cattle,0,28
+BCAM11,2025-02,Coyote,13,28
 BCAM11,2025-02,Domestic Dog,0,28
 BCAM11,2025-02,Human,0,28
-BCAM11,2025-02,Human-Camera Trapper,3,28
+BCAM11,2025-02,Human-Camera Trapper,0,28
 BCAM11,2025-02,Mule Deer,0,28
 BCAM11,2025-02,North American River Otter,0,28
-BCAM11,2025-02,Northern Elephant Seal,1,28
+BCAM11,2025-02,Northern Elephant Seal,5,28
 BCAM11,2025-02,Northern Raccoon,0,28
 BCAM11,2025-02,Striped Skunk,0,28
 BCAM11,2025-02,Brush Rabbit,0,28
 BCAM11,2025-02,Californian Sea Lion,0,28
+BCAM11,2025-02,Domestic Cattle,0,28
 BCAM11,2025-02,Elk,0,28
 BCAM11,2025-02,Black-tailed Jackrabbit,0,28
-BCAM11,2025-02,Human-Pedestrian,0,28
+BCAM11,2025-03,American Badger,0,31
+BCAM11,2025-03,Bobcat,0,31
+BCAM11,2025-03,Coyote,6,31
+BCAM11,2025-03,Domestic Dog,0,31
+BCAM11,2025-03,Human,0,31
+BCAM11,2025-03,Human-Camera Trapper,0,31
+BCAM11,2025-03,Mule Deer,0,31
+BCAM11,2025-03,North American River Otter,0,31
+BCAM11,2025-03,Northern Elephant Seal,2,31
+BCAM11,2025-03,Northern Raccoon,0,31
+BCAM11,2025-03,Striped Skunk,0,31
+BCAM11,2025-03,Brush Rabbit,0,31
+BCAM11,2025-03,Californian Sea Lion,0,31
+BCAM11,2025-03,Domestic Cattle,0,31
+BCAM11,2025-03,Elk,0,31
+BCAM11,2025-03,Black-tailed Jackrabbit,0,31
 BCAM12,2024-03,American Badger,0,23
 BCAM12,2024-03,Bobcat,1,23
 BCAM12,2024-03,Coyote,0,23
-BCAM12,2024-03,Domestic Cattle,0,23
 BCAM12,2024-03,Domestic Dog,0,23
 BCAM12,2024-03,Human,0,23
-BCAM12,2024-03,Human-Camera Trapper,1,23
+BCAM12,2024-03,Human-Camera Trapper,0,23
 BCAM12,2024-03,Mule Deer,0,23
 BCAM12,2024-03,North American River Otter,0,23
 BCAM12,2024-03,Northern Elephant Seal,0,23
@@ -727,64 +716,12 @@ BCAM12,2024-03,Northern Raccoon,0,23
 BCAM12,2024-03,Striped Skunk,0,23
 BCAM12,2024-03,Brush Rabbit,0,23
 BCAM12,2024-03,Californian Sea Lion,0,23
+BCAM12,2024-03,Domestic Cattle,0,23
 BCAM12,2024-03,Elk,0,23
 BCAM12,2024-03,Black-tailed Jackrabbit,0,23
-BCAM12,2024-03,Human-Pedestrian,0,23
-BCAM12,2024-04,American Badger,0,30
-BCAM12,2024-04,Bobcat,0,30
-BCAM12,2024-04,Coyote,0,30
-BCAM12,2024-04,Domestic Cattle,0,30
-BCAM12,2024-04,Domestic Dog,0,30
-BCAM12,2024-04,Human,1,30
-BCAM12,2024-04,Human-Camera Trapper,2,30
-BCAM12,2024-04,Mule Deer,0,30
-BCAM12,2024-04,North American River Otter,0,30
-BCAM12,2024-04,Northern Elephant Seal,0,30
-BCAM12,2024-04,Northern Raccoon,0,30
-BCAM12,2024-04,Striped Skunk,0,30
-BCAM12,2024-04,Brush Rabbit,0,30
-BCAM12,2024-04,Californian Sea Lion,0,30
-BCAM12,2024-04,Elk,0,30
-BCAM12,2024-04,Black-tailed Jackrabbit,0,30
-BCAM12,2024-04,Human-Pedestrian,0,30
-BCAM12,2024-01,American Badger,0,19
-BCAM12,2024-01,Bobcat,0,19
-BCAM12,2024-01,Coyote,0,19
-BCAM12,2024-01,Domestic Cattle,0,19
-BCAM12,2024-01,Domestic Dog,0,19
-BCAM12,2024-01,Human,0,19
-BCAM12,2024-01,Human-Camera Trapper,2,19
-BCAM12,2024-01,Mule Deer,0,19
-BCAM12,2024-01,North American River Otter,0,19
-BCAM12,2024-01,Northern Elephant Seal,0,19
-BCAM12,2024-01,Northern Raccoon,0,19
-BCAM12,2024-01,Striped Skunk,0,19
-BCAM12,2024-01,Brush Rabbit,0,19
-BCAM12,2024-01,Californian Sea Lion,0,19
-BCAM12,2024-01,Elk,0,19
-BCAM12,2024-01,Black-tailed Jackrabbit,0,19
-BCAM12,2024-01,Human-Pedestrian,0,19
-BCAM12,2024-02,American Badger,0,10
-BCAM12,2024-02,Bobcat,0,10
-BCAM12,2024-02,Coyote,0,10
-BCAM12,2024-02,Domestic Cattle,0,10
-BCAM12,2024-02,Domestic Dog,0,10
-BCAM12,2024-02,Human,0,10
-BCAM12,2024-02,Human-Camera Trapper,1,10
-BCAM12,2024-02,Mule Deer,0,10
-BCAM12,2024-02,North American River Otter,0,10
-BCAM12,2024-02,Northern Elephant Seal,0,10
-BCAM12,2024-02,Northern Raccoon,0,10
-BCAM12,2024-02,Striped Skunk,0,10
-BCAM12,2024-02,Brush Rabbit,0,10
-BCAM12,2024-02,Californian Sea Lion,0,10
-BCAM12,2024-02,Elk,0,10
-BCAM12,2024-02,Black-tailed Jackrabbit,0,10
-BCAM12,2024-02,Human-Pedestrian,0,10
 BCAM13,2023-09,American Badger,0,25
 BCAM13,2023-09,Bobcat,2,25
 BCAM13,2023-09,Coyote,7,25
-BCAM13,2023-09,Domestic Cattle,0,25
 BCAM13,2023-09,Domestic Dog,0,25
 BCAM13,2023-09,Human,2,25
 BCAM13,2023-09,Human-Camera Trapper,3,25
@@ -795,13 +732,12 @@ BCAM13,2023-09,Northern Raccoon,9,25
 BCAM13,2023-09,Striped Skunk,3,25
 BCAM13,2023-09,Brush Rabbit,0,25
 BCAM13,2023-09,Californian Sea Lion,0,25
+BCAM13,2023-09,Domestic Cattle,0,25
 BCAM13,2023-09,Elk,0,25
 BCAM13,2023-09,Black-tailed Jackrabbit,0,25
-BCAM13,2023-09,Human-Pedestrian,0,25
 BCAM13,2023-10,American Badger,0,31
 BCAM13,2023-10,Bobcat,10,31
 BCAM13,2023-10,Coyote,14,31
-BCAM13,2023-10,Domestic Cattle,0,31
 BCAM13,2023-10,Domestic Dog,0,31
 BCAM13,2023-10,Human,0,31
 BCAM13,2023-10,Human-Camera Trapper,1,31
@@ -812,13 +748,12 @@ BCAM13,2023-10,Northern Raccoon,11,31
 BCAM13,2023-10,Striped Skunk,17,31
 BCAM13,2023-10,Brush Rabbit,0,31
 BCAM13,2023-10,Californian Sea Lion,1,31
+BCAM13,2023-10,Domestic Cattle,0,31
 BCAM13,2023-10,Elk,0,31
 BCAM13,2023-10,Black-tailed Jackrabbit,0,31
-BCAM13,2023-10,Human-Pedestrian,0,31
 BCAM13,2023-11,American Badger,0,5
 BCAM13,2023-11,Bobcat,1,5
 BCAM13,2023-11,Coyote,0,5
-BCAM13,2023-11,Domestic Cattle,0,5
 BCAM13,2023-11,Domestic Dog,0,5
 BCAM13,2023-11,Human,0,5
 BCAM13,2023-11,Human-Camera Trapper,1,5
@@ -829,16 +764,15 @@ BCAM13,2023-11,Northern Raccoon,3,5
 BCAM13,2023-11,Striped Skunk,2,5
 BCAM13,2023-11,Brush Rabbit,0,5
 BCAM13,2023-11,Californian Sea Lion,0,5
+BCAM13,2023-11,Domestic Cattle,0,5
 BCAM13,2023-11,Elk,0,5
 BCAM13,2023-11,Black-tailed Jackrabbit,0,5
-BCAM13,2023-11,Human-Pedestrian,0,5
 BCAM13,2024-05,American Badger,0,29
 BCAM13,2024-05,Bobcat,2,29
 BCAM13,2024-05,Coyote,5,29
-BCAM13,2024-05,Domestic Cattle,5,29
 BCAM13,2024-05,Domestic Dog,0,29
-BCAM13,2024-05,Human,1,29
-BCAM13,2024-05,Human-Camera Trapper,1,29
+BCAM13,2024-05,Human,0,29
+BCAM13,2024-05,Human-Camera Trapper,0,29
 BCAM13,2024-05,Mule Deer,2,29
 BCAM13,2024-05,North American River Otter,0,29
 BCAM13,2024-05,Northern Elephant Seal,0,29
@@ -846,16 +780,15 @@ BCAM13,2024-05,Northern Raccoon,3,29
 BCAM13,2024-05,Striped Skunk,0,29
 BCAM13,2024-05,Brush Rabbit,0,29
 BCAM13,2024-05,Californian Sea Lion,0,29
+BCAM13,2024-05,Domestic Cattle,5,29
 BCAM13,2024-05,Elk,0,29
 BCAM13,2024-05,Black-tailed Jackrabbit,0,29
-BCAM13,2024-05,Human-Pedestrian,0,29
 BCAM13,2024-11,American Badger,0,30
 BCAM13,2024-11,Bobcat,2,30
 BCAM13,2024-11,Coyote,10,30
-BCAM13,2024-11,Domestic Cattle,0,30
 BCAM13,2024-11,Domestic Dog,0,30
-BCAM13,2024-11,Human,1,30
-BCAM13,2024-11,Human-Camera Trapper,2,30
+BCAM13,2024-11,Human,0,30
+BCAM13,2024-11,Human-Camera Trapper,1,30
 BCAM13,2024-11,Mule Deer,2,30
 BCAM13,2024-11,North American River Otter,0,30
 BCAM13,2024-11,Northern Elephant Seal,1,30
@@ -863,67 +796,63 @@ BCAM13,2024-11,Northern Raccoon,0,30
 BCAM13,2024-11,Striped Skunk,0,30
 BCAM13,2024-11,Brush Rabbit,0,30
 BCAM13,2024-11,Californian Sea Lion,0,30
+BCAM13,2024-11,Domestic Cattle,0,30
 BCAM13,2024-11,Elk,0,30
 BCAM13,2024-11,Black-tailed Jackrabbit,0,30
-BCAM13,2024-11,Human-Pedestrian,0,30
 BCAM13,2023-12,American Badger,0,11
 BCAM13,2023-12,Bobcat,0,11
 BCAM13,2023-12,Coyote,2,11
-BCAM13,2023-12,Domestic Cattle,0,11
 BCAM13,2023-12,Domestic Dog,0,11
 BCAM13,2023-12,Human,0,11
-BCAM13,2023-12,Human-Camera Trapper,1,11
+BCAM13,2023-12,Human-Camera Trapper,0,11
 BCAM13,2023-12,Mule Deer,0,11
 BCAM13,2023-12,North American River Otter,0,11
-BCAM13,2023-12,Northern Elephant Seal,9,11
+BCAM13,2023-12,Northern Elephant Seal,10,11
 BCAM13,2023-12,Northern Raccoon,0,11
 BCAM13,2023-12,Striped Skunk,0,11
 BCAM13,2023-12,Brush Rabbit,0,11
 BCAM13,2023-12,Californian Sea Lion,0,11
+BCAM13,2023-12,Domestic Cattle,0,11
 BCAM13,2023-12,Elk,0,11
 BCAM13,2023-12,Black-tailed Jackrabbit,0,11
-BCAM13,2023-12,Human-Pedestrian,0,11
 BCAM13,2024-01,American Badger,0,31
 BCAM13,2024-01,Bobcat,0,31
 BCAM13,2024-01,Coyote,15,31
-BCAM13,2024-01,Domestic Cattle,0,31
 BCAM13,2024-01,Domestic Dog,0,31
-BCAM13,2024-01,Human,3,31
-BCAM13,2024-01,Human-Camera Trapper,2,31
+BCAM13,2024-01,Human,0,31
+BCAM13,2024-01,Human-Camera Trapper,0,31
 BCAM13,2024-01,Mule Deer,0,31
 BCAM13,2024-01,North American River Otter,0,31
-BCAM13,2024-01,Northern Elephant Seal,90,31
+BCAM13,2024-01,Northern Elephant Seal,130,31
 BCAM13,2024-01,Northern Raccoon,0,31
 BCAM13,2024-01,Striped Skunk,0,31
 BCAM13,2024-01,Brush Rabbit,0,31
 BCAM13,2024-01,Californian Sea Lion,0,31
+BCAM13,2024-01,Domestic Cattle,0,31
 BCAM13,2024-01,Elk,0,31
 BCAM13,2024-01,Black-tailed Jackrabbit,0,31
-BCAM13,2024-01,Human-Pedestrian,0,31
 BCAM13,2024-02,American Badger,0,29
 BCAM13,2024-02,Bobcat,0,29
 BCAM13,2024-02,Coyote,6,29
-BCAM13,2024-02,Domestic Cattle,3,29
 BCAM13,2024-02,Domestic Dog,0,29
-BCAM13,2024-02,Human,2,29
-BCAM13,2024-02,Human-Camera Trapper,2,29
+BCAM13,2024-02,Human,0,29
+BCAM13,2024-02,Human-Camera Trapper,0,29
 BCAM13,2024-02,Mule Deer,0,29
 BCAM13,2024-02,North American River Otter,0,29
-BCAM13,2024-02,Northern Elephant Seal,79,29
+BCAM13,2024-02,Northern Elephant Seal,81,29
 BCAM13,2024-02,Northern Raccoon,0,29
 BCAM13,2024-02,Striped Skunk,0,29
 BCAM13,2024-02,Brush Rabbit,0,29
 BCAM13,2024-02,Californian Sea Lion,0,29
+BCAM13,2024-02,Domestic Cattle,3,29
 BCAM13,2024-02,Elk,0,29
 BCAM13,2024-02,Black-tailed Jackrabbit,0,29
-BCAM13,2024-02,Human-Pedestrian,0,29
 BCAM13,2024-03,American Badger,0,31
 BCAM13,2024-03,Bobcat,0,31
 BCAM13,2024-03,Coyote,6,31
-BCAM13,2024-03,Domestic Cattle,0,31
 BCAM13,2024-03,Domestic Dog,0,31
-BCAM13,2024-03,Human,2,31
-BCAM13,2024-03,Human-Camera Trapper,2,31
+BCAM13,2024-03,Human,0,31
+BCAM13,2024-03,Human-Camera Trapper,0,31
 BCAM13,2024-03,Mule Deer,1,31
 BCAM13,2024-03,North American River Otter,0,31
 BCAM13,2024-03,Northern Elephant Seal,27,31
@@ -931,16 +860,15 @@ BCAM13,2024-03,Northern Raccoon,0,31
 BCAM13,2024-03,Striped Skunk,0,31
 BCAM13,2024-03,Brush Rabbit,0,31
 BCAM13,2024-03,Californian Sea Lion,0,31
+BCAM13,2024-03,Domestic Cattle,0,31
 BCAM13,2024-03,Elk,0,31
 BCAM13,2024-03,Black-tailed Jackrabbit,0,31
-BCAM13,2024-03,Human-Pedestrian,0,31
 BCAM13,2024-04,American Badger,0,30
 BCAM13,2024-04,Bobcat,0,30
 BCAM13,2024-04,Coyote,11,30
-BCAM13,2024-04,Domestic Cattle,0,30
 BCAM13,2024-04,Domestic Dog,0,30
-BCAM13,2024-04,Human,2,30
-BCAM13,2024-04,Human-Camera Trapper,2,30
+BCAM13,2024-04,Human,0,30
+BCAM13,2024-04,Human-Camera Trapper,0,30
 BCAM13,2024-04,Mule Deer,0,30
 BCAM13,2024-04,North American River Otter,0,30
 BCAM13,2024-04,Northern Elephant Seal,1,30
@@ -948,16 +876,15 @@ BCAM13,2024-04,Northern Raccoon,0,30
 BCAM13,2024-04,Striped Skunk,0,30
 BCAM13,2024-04,Brush Rabbit,0,30
 BCAM13,2024-04,Californian Sea Lion,0,30
+BCAM13,2024-04,Domestic Cattle,0,30
 BCAM13,2024-04,Elk,0,30
 BCAM13,2024-04,Black-tailed Jackrabbit,0,30
-BCAM13,2024-04,Human-Pedestrian,0,30
 BCAM13,2024-06,American Badger,0,30
 BCAM13,2024-06,Bobcat,0,30
-BCAM13,2024-06,Coyote,6,30
-BCAM13,2024-06,Domestic Cattle,5,30
+BCAM13,2024-06,Coyote,5,30
 BCAM13,2024-06,Domestic Dog,0,30
 BCAM13,2024-06,Human,0,30
-BCAM13,2024-06,Human-Camera Trapper,4,30
+BCAM13,2024-06,Human-Camera Trapper,0,30
 BCAM13,2024-06,Mule Deer,11,30
 BCAM13,2024-06,North American River Otter,0,30
 BCAM13,2024-06,Northern Elephant Seal,0,30
@@ -965,13 +892,12 @@ BCAM13,2024-06,Northern Raccoon,0,30
 BCAM13,2024-06,Striped Skunk,0,30
 BCAM13,2024-06,Brush Rabbit,0,30
 BCAM13,2024-06,Californian Sea Lion,0,30
+BCAM13,2024-06,Domestic Cattle,8,30
 BCAM13,2024-06,Elk,0,30
 BCAM13,2024-06,Black-tailed Jackrabbit,0,30
-BCAM13,2024-06,Human-Pedestrian,0,30
 BCAM13,2024-07,American Badger,0,31
 BCAM13,2024-07,Bobcat,0,31
 BCAM13,2024-07,Coyote,3,31
-BCAM13,2024-07,Domestic Cattle,0,31
 BCAM13,2024-07,Domestic Dog,0,31
 BCAM13,2024-07,Human,0,31
 BCAM13,2024-07,Human-Camera Trapper,0,31
@@ -982,16 +908,15 @@ BCAM13,2024-07,Northern Raccoon,0,31
 BCAM13,2024-07,Striped Skunk,0,31
 BCAM13,2024-07,Brush Rabbit,0,31
 BCAM13,2024-07,Californian Sea Lion,0,31
+BCAM13,2024-07,Domestic Cattle,0,31
 BCAM13,2024-07,Elk,0,31
 BCAM13,2024-07,Black-tailed Jackrabbit,0,31
-BCAM13,2024-07,Human-Pedestrian,0,31
 BCAM13,2024-08,American Badger,0,31
 BCAM13,2024-08,Bobcat,0,31
 BCAM13,2024-08,Coyote,4,31
-BCAM13,2024-08,Domestic Cattle,0,31
 BCAM13,2024-08,Domestic Dog,0,31
-BCAM13,2024-08,Human,1,31
-BCAM13,2024-08,Human-Camera Trapper,2,31
+BCAM13,2024-08,Human,0,31
+BCAM13,2024-08,Human-Camera Trapper,0,31
 BCAM13,2024-08,Mule Deer,7,31
 BCAM13,2024-08,North American River Otter,0,31
 BCAM13,2024-08,Northern Elephant Seal,1,31
@@ -999,16 +924,15 @@ BCAM13,2024-08,Northern Raccoon,0,31
 BCAM13,2024-08,Striped Skunk,0,31
 BCAM13,2024-08,Brush Rabbit,0,31
 BCAM13,2024-08,Californian Sea Lion,0,31
+BCAM13,2024-08,Domestic Cattle,0,31
 BCAM13,2024-08,Elk,0,31
 BCAM13,2024-08,Black-tailed Jackrabbit,0,31
-BCAM13,2024-08,Human-Pedestrian,0,31
 BCAM13,2024-09,American Badger,0,30
 BCAM13,2024-09,Bobcat,0,30
 BCAM13,2024-09,Coyote,2,30
-BCAM13,2024-09,Domestic Cattle,1,30
 BCAM13,2024-09,Domestic Dog,0,30
-BCAM13,2024-09,Human,2,30
-BCAM13,2024-09,Human-Camera Trapper,2,30
+BCAM13,2024-09,Human,1,30
+BCAM13,2024-09,Human-Camera Trapper,1,30
 BCAM13,2024-09,Mule Deer,6,30
 BCAM13,2024-09,North American River Otter,0,30
 BCAM13,2024-09,Northern Elephant Seal,0,30
@@ -1016,13 +940,12 @@ BCAM13,2024-09,Northern Raccoon,0,30
 BCAM13,2024-09,Striped Skunk,0,30
 BCAM13,2024-09,Brush Rabbit,0,30
 BCAM13,2024-09,Californian Sea Lion,0,30
+BCAM13,2024-09,Domestic Cattle,1,30
 BCAM13,2024-09,Elk,0,30
 BCAM13,2024-09,Black-tailed Jackrabbit,0,30
-BCAM13,2024-09,Human-Pedestrian,0,30
 BCAM13,2024-10,American Badger,0,31
 BCAM13,2024-10,Bobcat,0,31
 BCAM13,2024-10,Coyote,15,31
-BCAM13,2024-10,Domestic Cattle,1,31
 BCAM13,2024-10,Domestic Dog,1,31
 BCAM13,2024-10,Human,1,31
 BCAM13,2024-10,Human-Camera Trapper,2,31
@@ -1033,16 +956,15 @@ BCAM13,2024-10,Northern Raccoon,0,31
 BCAM13,2024-10,Striped Skunk,2,31
 BCAM13,2024-10,Brush Rabbit,0,31
 BCAM13,2024-10,Californian Sea Lion,0,31
+BCAM13,2024-10,Domestic Cattle,1,31
 BCAM13,2024-10,Elk,1,31
 BCAM13,2024-10,Black-tailed Jackrabbit,0,31
-BCAM13,2024-10,Human-Pedestrian,0,31
 BCAM13,2024-12,American Badger,0,31
 BCAM13,2024-12,Bobcat,0,31
 BCAM13,2024-12,Coyote,7,31
-BCAM13,2024-12,Domestic Cattle,1,31
 BCAM13,2024-12,Domestic Dog,0,31
 BCAM13,2024-12,Human,0,31
-BCAM13,2024-12,Human-Camera Trapper,2,31
+BCAM13,2024-12,Human-Camera Trapper,0,31
 BCAM13,2024-12,Mule Deer,0,31
 BCAM13,2024-12,North American River Otter,0,31
 BCAM13,2024-12,Northern Elephant Seal,37,31
@@ -1050,16 +972,15 @@ BCAM13,2024-12,Northern Raccoon,1,31
 BCAM13,2024-12,Striped Skunk,0,31
 BCAM13,2024-12,Brush Rabbit,0,31
 BCAM13,2024-12,Californian Sea Lion,0,31
+BCAM13,2024-12,Domestic Cattle,1,31
 BCAM13,2024-12,Elk,0,31
 BCAM13,2024-12,Black-tailed Jackrabbit,0,31
-BCAM13,2024-12,Human-Pedestrian,0,31
 BCAM13,2025-01,American Badger,0,31
 BCAM13,2025-01,Bobcat,0,31
 BCAM13,2025-01,Coyote,11,31
-BCAM13,2025-01,Domestic Cattle,4,31
 BCAM13,2025-01,Domestic Dog,0,31
-BCAM13,2025-01,Human,1,31
-BCAM13,2025-01,Human-Camera Trapper,2,31
+BCAM13,2025-01,Human,0,31
+BCAM13,2025-01,Human-Camera Trapper,0,31
 BCAM13,2025-01,Mule Deer,1,31
 BCAM13,2025-01,North American River Otter,0,31
 BCAM13,2025-01,Northern Elephant Seal,50,31
@@ -1067,30 +988,28 @@ BCAM13,2025-01,Northern Raccoon,0,31
 BCAM13,2025-01,Striped Skunk,0,31
 BCAM13,2025-01,Brush Rabbit,0,31
 BCAM13,2025-01,Californian Sea Lion,0,31
+BCAM13,2025-01,Domestic Cattle,4,31
 BCAM13,2025-01,Elk,0,31
 BCAM13,2025-01,Black-tailed Jackrabbit,0,31
-BCAM13,2025-01,Human-Pedestrian,0,31
 BCAM13,2025-02,American Badger,0,28
 BCAM13,2025-02,Bobcat,0,28
 BCAM13,2025-02,Coyote,5,28
-BCAM13,2025-02,Domestic Cattle,0,28
 BCAM13,2025-02,Domestic Dog,0,28
 BCAM13,2025-02,Human,0,28
-BCAM13,2025-02,Human-Camera Trapper,3,28
+BCAM13,2025-02,Human-Camera Trapper,0,28
 BCAM13,2025-02,Mule Deer,0,28
 BCAM13,2025-02,North American River Otter,0,28
-BCAM13,2025-02,Northern Elephant Seal,17,28
+BCAM13,2025-02,Northern Elephant Seal,18,28
 BCAM13,2025-02,Northern Raccoon,0,28
 BCAM13,2025-02,Striped Skunk,0,28
 BCAM13,2025-02,Brush Rabbit,0,28
 BCAM13,2025-02,Californian Sea Lion,0,28
+BCAM13,2025-02,Domestic Cattle,0,28
 BCAM13,2025-02,Elk,0,28
 BCAM13,2025-02,Black-tailed Jackrabbit,0,28
-BCAM13,2025-02,Human-Pedestrian,0,28
 BCAM13,2025-03,American Badger,0,21
 BCAM13,2025-03,Bobcat,0,21
 BCAM13,2025-03,Coyote,1,21
-BCAM13,2025-03,Domestic Cattle,0,21
 BCAM13,2025-03,Domestic Dog,0,21
 BCAM13,2025-03,Human,0,21
 BCAM13,2025-03,Human-Camera Trapper,0,21
@@ -1101,13 +1020,12 @@ BCAM13,2025-03,Northern Raccoon,0,21
 BCAM13,2025-03,Striped Skunk,0,21
 BCAM13,2025-03,Brush Rabbit,0,21
 BCAM13,2025-03,Californian Sea Lion,0,21
+BCAM13,2025-03,Domestic Cattle,0,21
 BCAM13,2025-03,Elk,0,21
 BCAM13,2025-03,Black-tailed Jackrabbit,0,21
-BCAM13,2025-03,Human-Pedestrian,0,21
 BCAM14,2023-09,American Badger,0,26
 BCAM14,2023-09,Bobcat,1,26
 BCAM14,2023-09,Coyote,3,26
-BCAM14,2023-09,Domestic Cattle,0,26
 BCAM14,2023-09,Domestic Dog,0,26
 BCAM14,2023-09,Human,9,26
 BCAM14,2023-09,Human-Camera Trapper,3,26
@@ -1118,16 +1036,15 @@ BCAM14,2023-09,Northern Raccoon,0,26
 BCAM14,2023-09,Striped Skunk,0,26
 BCAM14,2023-09,Brush Rabbit,0,26
 BCAM14,2023-09,Californian Sea Lion,0,26
+BCAM14,2023-09,Domestic Cattle,0,26
 BCAM14,2023-09,Elk,0,26
 BCAM14,2023-09,Black-tailed Jackrabbit,0,26
-BCAM14,2023-09,Human-Pedestrian,0,26
 BCAM14,2024-05,American Badger,0,28
 BCAM14,2024-05,Bobcat,1,28
 BCAM14,2024-05,Coyote,1,28
-BCAM14,2024-05,Domestic Cattle,0,28
 BCAM14,2024-05,Domestic Dog,0,28
-BCAM14,2024-05,Human,2,28
-BCAM14,2024-05,Human-Camera Trapper,1,28
+BCAM14,2024-05,Human,0,28
+BCAM14,2024-05,Human-Camera Trapper,0,28
 BCAM14,2024-05,Mule Deer,0,28
 BCAM14,2024-05,North American River Otter,0,28
 BCAM14,2024-05,Northern Elephant Seal,0,28
@@ -1135,16 +1052,15 @@ BCAM14,2024-05,Northern Raccoon,1,28
 BCAM14,2024-05,Striped Skunk,0,28
 BCAM14,2024-05,Brush Rabbit,0,28
 BCAM14,2024-05,Californian Sea Lion,0,28
+BCAM14,2024-05,Domestic Cattle,0,28
 BCAM14,2024-05,Elk,0,28
 BCAM14,2024-05,Black-tailed Jackrabbit,0,28
-BCAM14,2024-05,Human-Pedestrian,0,28
 BCAM14,2024-11,American Badger,0,30
 BCAM14,2024-11,Bobcat,1,30
 BCAM14,2024-11,Coyote,0,30
-BCAM14,2024-11,Domestic Cattle,0,30
 BCAM14,2024-11,Domestic Dog,0,30
 BCAM14,2024-11,Human,0,30
-BCAM14,2024-11,Human-Camera Trapper,2,30
+BCAM14,2024-11,Human-Camera Trapper,1,30
 BCAM14,2024-11,Mule Deer,0,30
 BCAM14,2024-11,North American River Otter,0,30
 BCAM14,2024-11,Northern Elephant Seal,0,30
@@ -1152,13 +1068,12 @@ BCAM14,2024-11,Northern Raccoon,0,30
 BCAM14,2024-11,Striped Skunk,0,30
 BCAM14,2024-11,Brush Rabbit,0,30
 BCAM14,2024-11,Californian Sea Lion,0,30
+BCAM14,2024-11,Domestic Cattle,0,30
 BCAM14,2024-11,Elk,0,30
 BCAM14,2024-11,Black-tailed Jackrabbit,0,30
-BCAM14,2024-11,Human-Pedestrian,0,30
 BCAM14,2023-10,American Badger,0,20
 BCAM14,2023-10,Bobcat,0,20
 BCAM14,2023-10,Coyote,1,20
-BCAM14,2023-10,Domestic Cattle,0,20
 BCAM14,2023-10,Domestic Dog,0,20
 BCAM14,2023-10,Human,6,20
 BCAM14,2023-10,Human-Camera Trapper,0,20
@@ -1169,15 +1084,14 @@ BCAM14,2023-10,Northern Raccoon,1,20
 BCAM14,2023-10,Striped Skunk,0,20
 BCAM14,2023-10,Brush Rabbit,0,20
 BCAM14,2023-10,Californian Sea Lion,0,20
+BCAM14,2023-10,Domestic Cattle,0,20
 BCAM14,2023-10,Elk,0,20
 BCAM14,2023-10,Black-tailed Jackrabbit,0,20
-BCAM14,2023-10,Human-Pedestrian,0,20
 BCAM14,2024-07,American Badger,0,31
 BCAM14,2024-07,Bobcat,0,31
 BCAM14,2024-07,Coyote,2,31
-BCAM14,2024-07,Domestic Cattle,0,31
 BCAM14,2024-07,Domestic Dog,0,31
-BCAM14,2024-07,Human,3,31
+BCAM14,2024-07,Human,0,31
 BCAM14,2024-07,Human-Camera Trapper,0,31
 BCAM14,2024-07,Mule Deer,0,31
 BCAM14,2024-07,North American River Otter,0,31
@@ -1186,16 +1100,15 @@ BCAM14,2024-07,Northern Raccoon,1,31
 BCAM14,2024-07,Striped Skunk,0,31
 BCAM14,2024-07,Brush Rabbit,0,31
 BCAM14,2024-07,Californian Sea Lion,0,31
+BCAM14,2024-07,Domestic Cattle,0,31
 BCAM14,2024-07,Elk,0,31
 BCAM14,2024-07,Black-tailed Jackrabbit,0,31
-BCAM14,2024-07,Human-Pedestrian,0,31
 BCAM14,2024-08,American Badger,0,31
 BCAM14,2024-08,Bobcat,0,31
 BCAM14,2024-08,Coyote,1,31
-BCAM14,2024-08,Domestic Cattle,0,31
 BCAM14,2024-08,Domestic Dog,0,31
-BCAM14,2024-08,Human,1,31
-BCAM14,2024-08,Human-Camera Trapper,2,31
+BCAM14,2024-08,Human,0,31
+BCAM14,2024-08,Human-Camera Trapper,0,31
 BCAM14,2024-08,Mule Deer,0,31
 BCAM14,2024-08,North American River Otter,0,31
 BCAM14,2024-08,Northern Elephant Seal,0,31
@@ -1203,16 +1116,15 @@ BCAM14,2024-08,Northern Raccoon,2,31
 BCAM14,2024-08,Striped Skunk,0,31
 BCAM14,2024-08,Brush Rabbit,0,31
 BCAM14,2024-08,Californian Sea Lion,0,31
+BCAM14,2024-08,Domestic Cattle,0,31
 BCAM14,2024-08,Elk,0,31
 BCAM14,2024-08,Black-tailed Jackrabbit,0,31
-BCAM14,2024-08,Human-Pedestrian,0,31
 BCAM14,2024-12,American Badger,0,21
 BCAM14,2024-12,Bobcat,0,21
 BCAM14,2024-12,Coyote,1,21
-BCAM14,2024-12,Domestic Cattle,0,21
 BCAM14,2024-12,Domestic Dog,0,21
 BCAM14,2024-12,Human,0,21
-BCAM14,2024-12,Human-Camera Trapper,1,21
+BCAM14,2024-12,Human-Camera Trapper,0,21
 BCAM14,2024-12,Mule Deer,0,21
 BCAM14,2024-12,North American River Otter,0,21
 BCAM14,2024-12,Northern Elephant Seal,0,21
@@ -1220,13 +1132,12 @@ BCAM14,2024-12,Northern Raccoon,0,21
 BCAM14,2024-12,Striped Skunk,0,21
 BCAM14,2024-12,Brush Rabbit,0,21
 BCAM14,2024-12,Californian Sea Lion,0,21
+BCAM14,2024-12,Domestic Cattle,0,21
 BCAM14,2024-12,Elk,0,21
 BCAM14,2024-12,Black-tailed Jackrabbit,0,21
-BCAM14,2024-12,Human-Pedestrian,0,21
 BCAM14,2024-10,American Badger,0,31
 BCAM14,2024-10,Bobcat,0,31
 BCAM14,2024-10,Coyote,0,31
-BCAM14,2024-10,Domestic Cattle,0,31
 BCAM14,2024-10,Domestic Dog,0,31
 BCAM14,2024-10,Human,2,31
 BCAM14,2024-10,Human-Camera Trapper,2,31
@@ -1237,33 +1148,15 @@ BCAM14,2024-10,Northern Raccoon,1,31
 BCAM14,2024-10,Striped Skunk,0,31
 BCAM14,2024-10,Brush Rabbit,0,31
 BCAM14,2024-10,Californian Sea Lion,0,31
+BCAM14,2024-10,Domestic Cattle,0,31
 BCAM14,2024-10,Elk,0,31
 BCAM14,2024-10,Black-tailed Jackrabbit,0,31
-BCAM14,2024-10,Human-Pedestrian,0,31
-BCAM14,2024-06,American Badger,0,30
-BCAM14,2024-06,Bobcat,0,30
-BCAM14,2024-06,Coyote,0,30
-BCAM14,2024-06,Domestic Cattle,0,30
-BCAM14,2024-06,Domestic Dog,0,30
-BCAM14,2024-06,Human,0,30
-BCAM14,2024-06,Human-Camera Trapper,4,30
-BCAM14,2024-06,Mule Deer,0,30
-BCAM14,2024-06,North American River Otter,0,30
-BCAM14,2024-06,Northern Elephant Seal,0,30
-BCAM14,2024-06,Northern Raccoon,2,30
-BCAM14,2024-06,Striped Skunk,0,30
-BCAM14,2024-06,Brush Rabbit,0,30
-BCAM14,2024-06,Californian Sea Lion,0,30
-BCAM14,2024-06,Elk,0,30
-BCAM14,2024-06,Black-tailed Jackrabbit,0,30
-BCAM14,2024-06,Human-Pedestrian,0,30
 BCAM14,2024-09,American Badger,0,30
 BCAM14,2024-09,Bobcat,0,30
 BCAM14,2024-09,Coyote,0,30
-BCAM14,2024-09,Domestic Cattle,0,30
 BCAM14,2024-09,Domestic Dog,0,30
 BCAM14,2024-09,Human,0,30
-BCAM14,2024-09,Human-Camera Trapper,2,30
+BCAM14,2024-09,Human-Camera Trapper,1,30
 BCAM14,2024-09,Mule Deer,0,30
 BCAM14,2024-09,North American River Otter,0,30
 BCAM14,2024-09,Northern Elephant Seal,0,30
@@ -1271,16 +1164,31 @@ BCAM14,2024-09,Northern Raccoon,0,30
 BCAM14,2024-09,Striped Skunk,0,30
 BCAM14,2024-09,Brush Rabbit,0,30
 BCAM14,2024-09,Californian Sea Lion,0,30
+BCAM14,2024-09,Domestic Cattle,0,30
 BCAM14,2024-09,Elk,0,30
 BCAM14,2024-09,Black-tailed Jackrabbit,0,30
-BCAM14,2024-09,Human-Pedestrian,0,30
+BCAM14,2024-06,American Badger,0,30
+BCAM14,2024-06,Bobcat,0,30
+BCAM14,2024-06,Coyote,0,30
+BCAM14,2024-06,Domestic Dog,0,30
+BCAM14,2024-06,Human,0,30
+BCAM14,2024-06,Human-Camera Trapper,0,30
+BCAM14,2024-06,Mule Deer,0,30
+BCAM14,2024-06,North American River Otter,0,30
+BCAM14,2024-06,Northern Elephant Seal,0,30
+BCAM14,2024-06,Northern Raccoon,2,30
+BCAM14,2024-06,Striped Skunk,0,30
+BCAM14,2024-06,Brush Rabbit,0,30
+BCAM14,2024-06,Californian Sea Lion,0,30
+BCAM14,2024-06,Domestic Cattle,0,30
+BCAM14,2024-06,Elk,0,30
+BCAM14,2024-06,Black-tailed Jackrabbit,0,30
 BCAM15,2025-01,American Badger,1,31
 BCAM15,2025-01,Bobcat,0,31
 BCAM15,2025-01,Coyote,2,31
-BCAM15,2025-01,Domestic Cattle,0,31
 BCAM15,2025-01,Domestic Dog,12,31
-BCAM15,2025-01,Human,50,31
-BCAM15,2025-01,Human-Camera Trapper,2,31
+BCAM15,2025-01,Human,0,31
+BCAM15,2025-01,Human-Camera Trapper,0,31
 BCAM15,2025-01,Mule Deer,0,31
 BCAM15,2025-01,North American River Otter,0,31
 BCAM15,2025-01,Northern Elephant Seal,0,31
@@ -1288,33 +1196,63 @@ BCAM15,2025-01,Northern Raccoon,0,31
 BCAM15,2025-01,Striped Skunk,0,31
 BCAM15,2025-01,Brush Rabbit,0,31
 BCAM15,2025-01,Californian Sea Lion,0,31
+BCAM15,2025-01,Domestic Cattle,0,31
 BCAM15,2025-01,Elk,0,31
 BCAM15,2025-01,Black-tailed Jackrabbit,0,31
-BCAM15,2025-01,Human-Pedestrian,0,31
+BCAM15,2025-03,American Badger,0,31
+BCAM15,2025-03,Bobcat,1,31
+BCAM15,2025-03,Coyote,1,31
+BCAM15,2025-03,Domestic Dog,13,31
+BCAM15,2025-03,Human,0,31
+BCAM15,2025-03,Human-Camera Trapper,0,31
+BCAM15,2025-03,Mule Deer,0,31
+BCAM15,2025-03,North American River Otter,0,31
+BCAM15,2025-03,Northern Elephant Seal,0,31
+BCAM15,2025-03,Northern Raccoon,0,31
+BCAM15,2025-03,Striped Skunk,0,31
+BCAM15,2025-03,Brush Rabbit,0,31
+BCAM15,2025-03,Californian Sea Lion,0,31
+BCAM15,2025-03,Domestic Cattle,0,31
+BCAM15,2025-03,Elk,0,31
+BCAM15,2025-03,Black-tailed Jackrabbit,0,31
 BCAM15,2025-02,American Badger,0,28
 BCAM15,2025-02,Bobcat,0,28
 BCAM15,2025-02,Coyote,3,28
-BCAM15,2025-02,Domestic Cattle,1,28
-BCAM15,2025-02,Domestic Dog,11,28
-BCAM15,2025-02,Human,22,28
-BCAM15,2025-02,Human-Camera Trapper,3,28
+BCAM15,2025-02,Domestic Dog,21,28
+BCAM15,2025-02,Human,0,28
+BCAM15,2025-02,Human-Camera Trapper,0,28
 BCAM15,2025-02,Mule Deer,0,28
-BCAM15,2025-02,North American River Otter,0,28
+BCAM15,2025-02,North American River Otter,1,28
 BCAM15,2025-02,Northern Elephant Seal,0,28
 BCAM15,2025-02,Northern Raccoon,0,28
 BCAM15,2025-02,Striped Skunk,0,28
 BCAM15,2025-02,Brush Rabbit,0,28
 BCAM15,2025-02,Californian Sea Lion,0,28
+BCAM15,2025-02,Domestic Cattle,0,28
 BCAM15,2025-02,Elk,0,28
 BCAM15,2025-02,Black-tailed Jackrabbit,0,28
-BCAM15,2025-02,Human-Pedestrian,0,28
+BCAM15,2025-04,American Badger,0,26
+BCAM15,2025-04,Bobcat,0,26
+BCAM15,2025-04,Coyote,2,26
+BCAM15,2025-04,Domestic Dog,6,26
+BCAM15,2025-04,Human,0,26
+BCAM15,2025-04,Human-Camera Trapper,0,26
+BCAM15,2025-04,Mule Deer,0,26
+BCAM15,2025-04,North American River Otter,0,26
+BCAM15,2025-04,Northern Elephant Seal,0,26
+BCAM15,2025-04,Northern Raccoon,0,26
+BCAM15,2025-04,Striped Skunk,0,26
+BCAM15,2025-04,Brush Rabbit,0,26
+BCAM15,2025-04,Californian Sea Lion,0,26
+BCAM15,2025-04,Domestic Cattle,0,26
+BCAM15,2025-04,Elk,0,26
+BCAM15,2025-04,Black-tailed Jackrabbit,0,26
 BCAM15,2024-12,American Badger,0,12
 BCAM15,2024-12,Bobcat,0,12
 BCAM15,2024-12,Coyote,0,12
-BCAM15,2024-12,Domestic Cattle,0,12
 BCAM15,2024-12,Domestic Dog,20,12
-BCAM15,2024-12,Human,27,12
-BCAM15,2024-12,Human-Camera Trapper,1,12
+BCAM15,2024-12,Human,0,12
+BCAM15,2024-12,Human-Camera Trapper,0,12
 BCAM15,2024-12,Mule Deer,0,12
 BCAM15,2024-12,North American River Otter,0,12
 BCAM15,2024-12,Northern Elephant Seal,0,12
@@ -1322,15 +1260,14 @@ BCAM15,2024-12,Northern Raccoon,0,12
 BCAM15,2024-12,Striped Skunk,0,12
 BCAM15,2024-12,Brush Rabbit,0,12
 BCAM15,2024-12,Californian Sea Lion,0,12
+BCAM15,2024-12,Domestic Cattle,0,12
 BCAM15,2024-12,Elk,0,12
 BCAM15,2024-12,Black-tailed Jackrabbit,0,12
-BCAM15,2024-12,Human-Pedestrian,0,12
 BCAM16,2025-01,American Badger,0,4
 BCAM16,2025-01,Bobcat,0,4
 BCAM16,2025-01,Coyote,1,4
-BCAM16,2025-01,Domestic Cattle,0,4
 BCAM16,2025-01,Domestic Dog,0,4
-BCAM16,2025-01,Human,2,4
+BCAM16,2025-01,Human,0,4
 BCAM16,2025-01,Human-Camera Trapper,0,4
 BCAM16,2025-01,Mule Deer,0,4
 BCAM16,2025-01,North American River Otter,0,4
@@ -1339,16 +1276,15 @@ BCAM16,2025-01,Northern Raccoon,0,4
 BCAM16,2025-01,Striped Skunk,0,4
 BCAM16,2025-01,Brush Rabbit,0,4
 BCAM16,2025-01,Californian Sea Lion,0,4
+BCAM16,2025-01,Domestic Cattle,0,4
 BCAM16,2025-01,Elk,0,4
 BCAM16,2025-01,Black-tailed Jackrabbit,0,4
-BCAM16,2025-01,Human-Pedestrian,0,4
 BCAM16,2024-12,American Badger,0,12
 BCAM16,2024-12,Bobcat,0,12
 BCAM16,2024-12,Coyote,0,12
-BCAM16,2024-12,Domestic Cattle,0,12
 BCAM16,2024-12,Domestic Dog,2,12
-BCAM16,2024-12,Human,10,12
-BCAM16,2024-12,Human-Camera Trapper,1,12
+BCAM16,2024-12,Human,0,12
+BCAM16,2024-12,Human-Camera Trapper,0,12
 BCAM16,2024-12,Mule Deer,0,12
 BCAM16,2024-12,North American River Otter,0,12
 BCAM16,2024-12,Northern Elephant Seal,0,12
@@ -1356,16 +1292,15 @@ BCAM16,2024-12,Northern Raccoon,0,12
 BCAM16,2024-12,Striped Skunk,0,12
 BCAM16,2024-12,Brush Rabbit,0,12
 BCAM16,2024-12,Californian Sea Lion,0,12
+BCAM16,2024-12,Domestic Cattle,0,12
 BCAM16,2024-12,Elk,0,12
 BCAM16,2024-12,Black-tailed Jackrabbit,0,12
-BCAM16,2024-12,Human-Pedestrian,0,12
 BCAM17,2024-12,American Badger,0,12
 BCAM17,2024-12,Bobcat,0,12
 BCAM17,2024-12,Coyote,1,12
-BCAM17,2024-12,Domestic Cattle,0,12
 BCAM17,2024-12,Domestic Dog,7,12
-BCAM17,2024-12,Human,10,12
-BCAM17,2024-12,Human-Camera Trapper,1,12
+BCAM17,2024-12,Human,0,12
+BCAM17,2024-12,Human-Camera Trapper,0,12
 BCAM17,2024-12,Mule Deer,0,12
 BCAM17,2024-12,North American River Otter,0,12
 BCAM17,2024-12,Northern Elephant Seal,0,12
@@ -1373,33 +1308,15 @@ BCAM17,2024-12,Northern Raccoon,0,12
 BCAM17,2024-12,Striped Skunk,0,12
 BCAM17,2024-12,Brush Rabbit,0,12
 BCAM17,2024-12,Californian Sea Lion,0,12
+BCAM17,2024-12,Domestic Cattle,0,12
 BCAM17,2024-12,Elk,0,12
 BCAM17,2024-12,Black-tailed Jackrabbit,0,12
-BCAM17,2024-12,Human-Pedestrian,0,12
-BCAM17,2025-01,American Badger,0,4
-BCAM17,2025-01,Bobcat,0,4
-BCAM17,2025-01,Coyote,0,4
-BCAM17,2025-01,Domestic Cattle,0,4
-BCAM17,2025-01,Domestic Dog,0,4
-BCAM17,2025-01,Human,0,4
-BCAM17,2025-01,Human-Camera Trapper,1,4
-BCAM17,2025-01,Mule Deer,0,4
-BCAM17,2025-01,North American River Otter,0,4
-BCAM17,2025-01,Northern Elephant Seal,0,4
-BCAM17,2025-01,Northern Raccoon,0,4
-BCAM17,2025-01,Striped Skunk,0,4
-BCAM17,2025-01,Brush Rabbit,0,4
-BCAM17,2025-01,Californian Sea Lion,0,4
-BCAM17,2025-01,Elk,0,4
-BCAM17,2025-01,Black-tailed Jackrabbit,0,4
-BCAM17,2025-01,Human-Pedestrian,0,4
 BCAM18,2025-01,American Badger,0,31
 BCAM18,2025-01,Bobcat,4,31
 BCAM18,2025-01,Coyote,5,31
-BCAM18,2025-01,Domestic Cattle,0,31
 BCAM18,2025-01,Domestic Dog,5,31
-BCAM18,2025-01,Human,13,31
-BCAM18,2025-01,Human-Camera Trapper,2,31
+BCAM18,2025-01,Human,0,31
+BCAM18,2025-01,Human-Camera Trapper,0,31
 BCAM18,2025-01,Mule Deer,0,31
 BCAM18,2025-01,North American River Otter,0,31
 BCAM18,2025-01,Northern Elephant Seal,0,31
@@ -1407,16 +1324,15 @@ BCAM18,2025-01,Northern Raccoon,0,31
 BCAM18,2025-01,Striped Skunk,0,31
 BCAM18,2025-01,Brush Rabbit,0,31
 BCAM18,2025-01,Californian Sea Lion,0,31
+BCAM18,2025-01,Domestic Cattle,0,31
 BCAM18,2025-01,Elk,0,31
 BCAM18,2025-01,Black-tailed Jackrabbit,1,31
-BCAM18,2025-01,Human-Pedestrian,0,31
 BCAM18,2024-12,American Badger,0,12
 BCAM18,2024-12,Bobcat,0,12
 BCAM18,2024-12,Coyote,2,12
-BCAM18,2024-12,Domestic Cattle,0,12
 BCAM18,2024-12,Domestic Dog,0,12
-BCAM18,2024-12,Human,11,12
-BCAM18,2024-12,Human-Camera Trapper,1,12
+BCAM18,2024-12,Human,0,12
+BCAM18,2024-12,Human-Camera Trapper,0,12
 BCAM18,2024-12,Mule Deer,0,12
 BCAM18,2024-12,North American River Otter,0,12
 BCAM18,2024-12,Northern Elephant Seal,0,12
@@ -1424,16 +1340,15 @@ BCAM18,2024-12,Northern Raccoon,0,12
 BCAM18,2024-12,Striped Skunk,1,12
 BCAM18,2024-12,Brush Rabbit,0,12
 BCAM18,2024-12,Californian Sea Lion,0,12
+BCAM18,2024-12,Domestic Cattle,0,12
 BCAM18,2024-12,Elk,0,12
 BCAM18,2024-12,Black-tailed Jackrabbit,0,12
-BCAM18,2024-12,Human-Pedestrian,0,12
 BCAM18,2025-02,American Badger,0,28
 BCAM18,2025-02,Bobcat,0,28
-BCAM18,2025-02,Coyote,2,28
-BCAM18,2025-02,Domestic Cattle,0,28
-BCAM18,2025-02,Domestic Dog,0,28
-BCAM18,2025-02,Human,1,28
-BCAM18,2025-02,Human-Camera Trapper,3,28
+BCAM18,2025-02,Coyote,3,28
+BCAM18,2025-02,Domestic Dog,1,28
+BCAM18,2025-02,Human,0,28
+BCAM18,2025-02,Human-Camera Trapper,0,28
 BCAM18,2025-02,Mule Deer,0,28
 BCAM18,2025-02,North American River Otter,0,28
 BCAM18,2025-02,Northern Elephant Seal,0,28
@@ -1441,15 +1356,62 @@ BCAM18,2025-02,Northern Raccoon,0,28
 BCAM18,2025-02,Striped Skunk,0,28
 BCAM18,2025-02,Brush Rabbit,0,28
 BCAM18,2025-02,Californian Sea Lion,0,28
+BCAM18,2025-02,Domestic Cattle,0,28
 BCAM18,2025-02,Elk,0,28
 BCAM18,2025-02,Black-tailed Jackrabbit,0,28
-BCAM18,2025-02,Human-Pedestrian,0,28
+BCAM18,2025-03,American Badger,0,14
+BCAM18,2025-03,Bobcat,0,14
+BCAM18,2025-03,Coyote,1,14
+BCAM18,2025-03,Domestic Dog,0,14
+BCAM18,2025-03,Human,0,14
+BCAM18,2025-03,Human-Camera Trapper,0,14
+BCAM18,2025-03,Mule Deer,0,14
+BCAM18,2025-03,North American River Otter,0,14
+BCAM18,2025-03,Northern Elephant Seal,0,14
+BCAM18,2025-03,Northern Raccoon,0,14
+BCAM18,2025-03,Striped Skunk,0,14
+BCAM18,2025-03,Brush Rabbit,0,14
+BCAM18,2025-03,Californian Sea Lion,0,14
+BCAM18,2025-03,Domestic Cattle,0,14
+BCAM18,2025-03,Elk,0,14
+BCAM18,2025-03,Black-tailed Jackrabbit,0,14
+BCAM19,2025-03,American Badger,0,18
+BCAM19,2025-03,Bobcat,0,18
+BCAM19,2025-03,Coyote,4,18
+BCAM19,2025-03,Domestic Dog,0,18
+BCAM19,2025-03,Human,0,18
+BCAM19,2025-03,Human-Camera Trapper,0,18
+BCAM19,2025-03,Mule Deer,0,18
+BCAM19,2025-03,North American River Otter,0,18
+BCAM19,2025-03,Northern Elephant Seal,0,18
+BCAM19,2025-03,Northern Raccoon,0,18
+BCAM19,2025-03,Striped Skunk,0,18
+BCAM19,2025-03,Brush Rabbit,0,18
+BCAM19,2025-03,Californian Sea Lion,0,18
+BCAM19,2025-03,Domestic Cattle,0,18
+BCAM19,2025-03,Elk,0,18
+BCAM19,2025-03,Black-tailed Jackrabbit,0,18
+BCAM19,2025-04,American Badger,0,26
+BCAM19,2025-04,Bobcat,0,26
+BCAM19,2025-04,Coyote,2,26
+BCAM19,2025-04,Domestic Dog,0,26
+BCAM19,2025-04,Human,0,26
+BCAM19,2025-04,Human-Camera Trapper,0,26
+BCAM19,2025-04,Mule Deer,0,26
+BCAM19,2025-04,North American River Otter,0,26
+BCAM19,2025-04,Northern Elephant Seal,0,26
+BCAM19,2025-04,Northern Raccoon,0,26
+BCAM19,2025-04,Striped Skunk,0,26
+BCAM19,2025-04,Brush Rabbit,0,26
+BCAM19,2025-04,Californian Sea Lion,0,26
+BCAM19,2025-04,Domestic Cattle,0,26
+BCAM19,2025-04,Elk,0,26
+BCAM19,2025-04,Black-tailed Jackrabbit,0,26
 BCAM2,2023-01,American Badger,0,31
 BCAM2,2023-01,Bobcat,0,31
 BCAM2,2023-01,Coyote,11,31
-BCAM2,2023-01,Domestic Cattle,0,31
 BCAM2,2023-01,Domestic Dog,0,31
-BCAM2,2023-01,Human,2,31
+BCAM2,2023-01,Human,0,31
 BCAM2,2023-01,Human-Camera Trapper,0,31
 BCAM2,2023-01,Mule Deer,0,31
 BCAM2,2023-01,North American River Otter,0,31
@@ -1458,32 +1420,14 @@ BCAM2,2023-01,Northern Raccoon,1,31
 BCAM2,2023-01,Striped Skunk,0,31
 BCAM2,2023-01,Brush Rabbit,0,31
 BCAM2,2023-01,Californian Sea Lion,0,31
+BCAM2,2023-01,Domestic Cattle,0,31
 BCAM2,2023-01,Elk,0,31
 BCAM2,2023-01,Black-tailed Jackrabbit,0,31
-BCAM2,2023-01,Human-Pedestrian,0,31
-BCAM2,2023-02,American Badger,0,28
-BCAM2,2023-02,Bobcat,0,28
-BCAM2,2023-02,Coyote,0,28
-BCAM2,2023-02,Domestic Cattle,0,28
-BCAM2,2023-02,Domestic Dog,0,28
-BCAM2,2023-02,Human,1,28
-BCAM2,2023-02,Human-Camera Trapper,0,28
-BCAM2,2023-02,Mule Deer,0,28
-BCAM2,2023-02,North American River Otter,0,28
-BCAM2,2023-02,Northern Elephant Seal,0,28
-BCAM2,2023-02,Northern Raccoon,0,28
-BCAM2,2023-02,Striped Skunk,0,28
-BCAM2,2023-02,Brush Rabbit,0,28
-BCAM2,2023-02,Californian Sea Lion,0,28
-BCAM2,2023-02,Elk,0,28
-BCAM2,2023-02,Black-tailed Jackrabbit,0,28
-BCAM2,2023-02,Human-Pedestrian,0,28
 BCAM2,2023-03,American Badger,0,13
 BCAM2,2023-03,Bobcat,0,13
 BCAM2,2023-03,Coyote,0,13
-BCAM2,2023-03,Domestic Cattle,0,13
 BCAM2,2023-03,Domestic Dog,0,13
-BCAM2,2023-03,Human,1,13
+BCAM2,2023-03,Human,0,13
 BCAM2,2023-03,Human-Camera Trapper,0,13
 BCAM2,2023-03,Mule Deer,0,13
 BCAM2,2023-03,North American River Otter,0,13
@@ -1492,33 +1436,95 @@ BCAM2,2023-03,Northern Raccoon,0,13
 BCAM2,2023-03,Striped Skunk,0,13
 BCAM2,2023-03,Brush Rabbit,0,13
 BCAM2,2023-03,Californian Sea Lion,0,13
+BCAM2,2023-03,Domestic Cattle,0,13
 BCAM2,2023-03,Elk,0,13
 BCAM2,2023-03,Black-tailed Jackrabbit,0,13
-BCAM2,2023-03,Human-Pedestrian,0,13
-BCAM2,2022-12,American Badger,0,11
-BCAM2,2022-12,Bobcat,0,11
-BCAM2,2022-12,Coyote,0,11
-BCAM2,2022-12,Domestic Cattle,0,11
-BCAM2,2022-12,Domestic Dog,0,11
-BCAM2,2022-12,Human,0,11
-BCAM2,2022-12,Human-Camera Trapper,1,11
-BCAM2,2022-12,Mule Deer,0,11
-BCAM2,2022-12,North American River Otter,0,11
-BCAM2,2022-12,Northern Elephant Seal,0,11
-BCAM2,2022-12,Northern Raccoon,0,11
-BCAM2,2022-12,Striped Skunk,0,11
-BCAM2,2022-12,Brush Rabbit,0,11
-BCAM2,2022-12,Californian Sea Lion,0,11
-BCAM2,2022-12,Elk,0,11
-BCAM2,2022-12,Black-tailed Jackrabbit,0,11
-BCAM2,2022-12,Human-Pedestrian,0,11
+BCAM20,2025-03,American Badger,0,18
+BCAM20,2025-03,Bobcat,0,18
+BCAM20,2025-03,Coyote,9,18
+BCAM20,2025-03,Domestic Dog,0,18
+BCAM20,2025-03,Human,0,18
+BCAM20,2025-03,Human-Camera Trapper,0,18
+BCAM20,2025-03,Mule Deer,0,18
+BCAM20,2025-03,North American River Otter,0,18
+BCAM20,2025-03,Northern Elephant Seal,0,18
+BCAM20,2025-03,Northern Raccoon,0,18
+BCAM20,2025-03,Striped Skunk,0,18
+BCAM20,2025-03,Brush Rabbit,0,18
+BCAM20,2025-03,Californian Sea Lion,0,18
+BCAM20,2025-03,Domestic Cattle,0,18
+BCAM20,2025-03,Elk,0,18
+BCAM20,2025-03,Black-tailed Jackrabbit,0,18
+BCAM21,2025-03,American Badger,0,18
+BCAM21,2025-03,Bobcat,1,18
+BCAM21,2025-03,Coyote,25,18
+BCAM21,2025-03,Domestic Dog,0,18
+BCAM21,2025-03,Human,0,18
+BCAM21,2025-03,Human-Camera Trapper,0,18
+BCAM21,2025-03,Mule Deer,1,18
+BCAM21,2025-03,North American River Otter,0,18
+BCAM21,2025-03,Northern Elephant Seal,0,18
+BCAM21,2025-03,Northern Raccoon,0,18
+BCAM21,2025-03,Striped Skunk,0,18
+BCAM21,2025-03,Brush Rabbit,0,18
+BCAM21,2025-03,Californian Sea Lion,0,18
+BCAM21,2025-03,Domestic Cattle,0,18
+BCAM21,2025-03,Elk,0,18
+BCAM21,2025-03,Black-tailed Jackrabbit,0,18
+BCAM21,2025-04,American Badger,0,30
+BCAM21,2025-04,Bobcat,2,30
+BCAM21,2025-04,Coyote,28,30
+BCAM21,2025-04,Domestic Dog,0,30
+BCAM21,2025-04,Human,0,30
+BCAM21,2025-04,Human-Camera Trapper,0,30
+BCAM21,2025-04,Mule Deer,2,30
+BCAM21,2025-04,North American River Otter,0,30
+BCAM21,2025-04,Northern Elephant Seal,0,30
+BCAM21,2025-04,Northern Raccoon,0,30
+BCAM21,2025-04,Striped Skunk,0,30
+BCAM21,2025-04,Brush Rabbit,0,30
+BCAM21,2025-04,Californian Sea Lion,0,30
+BCAM21,2025-04,Domestic Cattle,0,30
+BCAM21,2025-04,Elk,0,30
+BCAM21,2025-04,Black-tailed Jackrabbit,0,30
+BCAM21,2025-05,American Badger,0,31
+BCAM21,2025-05,Bobcat,2,31
+BCAM21,2025-05,Coyote,16,31
+BCAM21,2025-05,Domestic Dog,0,31
+BCAM21,2025-05,Human,0,31
+BCAM21,2025-05,Human-Camera Trapper,0,31
+BCAM21,2025-05,Mule Deer,1,31
+BCAM21,2025-05,North American River Otter,0,31
+BCAM21,2025-05,Northern Elephant Seal,0,31
+BCAM21,2025-05,Northern Raccoon,1,31
+BCAM21,2025-05,Striped Skunk,0,31
+BCAM21,2025-05,Brush Rabbit,0,31
+BCAM21,2025-05,Californian Sea Lion,0,31
+BCAM21,2025-05,Domestic Cattle,0,31
+BCAM21,2025-05,Elk,0,31
+BCAM21,2025-05,Black-tailed Jackrabbit,0,31
+BCAM21,2025-06,American Badger,0,27
+BCAM21,2025-06,Bobcat,0,27
+BCAM21,2025-06,Coyote,11,27
+BCAM21,2025-06,Domestic Dog,0,27
+BCAM21,2025-06,Human,0,27
+BCAM21,2025-06,Human-Camera Trapper,0,27
+BCAM21,2025-06,Mule Deer,0,27
+BCAM21,2025-06,North American River Otter,0,27
+BCAM21,2025-06,Northern Elephant Seal,0,27
+BCAM21,2025-06,Northern Raccoon,0,27
+BCAM21,2025-06,Striped Skunk,0,27
+BCAM21,2025-06,Brush Rabbit,0,27
+BCAM21,2025-06,Californian Sea Lion,0,27
+BCAM21,2025-06,Domestic Cattle,1,27
+BCAM21,2025-06,Elk,1,27
+BCAM21,2025-06,Black-tailed Jackrabbit,0,27
 BCAM22,2025-01,American Badger,0,31
 BCAM22,2025-01,Bobcat,0,31
 BCAM22,2025-01,Coyote,10,31
-BCAM22,2025-01,Domestic Cattle,0,31
 BCAM22,2025-01,Domestic Dog,0,31
 BCAM22,2025-01,Human,0,31
-BCAM22,2025-01,Human-Camera Trapper,2,31
+BCAM22,2025-01,Human-Camera Trapper,0,31
 BCAM22,2025-01,Mule Deer,0,31
 BCAM22,2025-01,North American River Otter,0,31
 BCAM22,2025-01,Northern Elephant Seal,5,31
@@ -1526,16 +1532,15 @@ BCAM22,2025-01,Northern Raccoon,0,31
 BCAM22,2025-01,Striped Skunk,0,31
 BCAM22,2025-01,Brush Rabbit,0,31
 BCAM22,2025-01,Californian Sea Lion,0,31
+BCAM22,2025-01,Domestic Cattle,0,31
 BCAM22,2025-01,Elk,0,31
 BCAM22,2025-01,Black-tailed Jackrabbit,0,31
-BCAM22,2025-01,Human-Pedestrian,0,31
 BCAM22,2025-02,American Badger,0,16
 BCAM22,2025-02,Bobcat,0,16
 BCAM22,2025-02,Coyote,5,16
-BCAM22,2025-02,Domestic Cattle,0,16
 BCAM22,2025-02,Domestic Dog,0,16
 BCAM22,2025-02,Human,0,16
-BCAM22,2025-02,Human-Camera Trapper,3,16
+BCAM22,2025-02,Human-Camera Trapper,0,16
 BCAM22,2025-02,Mule Deer,0,16
 BCAM22,2025-02,North American River Otter,0,16
 BCAM22,2025-02,Northern Elephant Seal,1,16
@@ -1543,16 +1548,15 @@ BCAM22,2025-02,Northern Raccoon,1,16
 BCAM22,2025-02,Striped Skunk,0,16
 BCAM22,2025-02,Brush Rabbit,0,16
 BCAM22,2025-02,Californian Sea Lion,0,16
+BCAM22,2025-02,Domestic Cattle,0,16
 BCAM22,2025-02,Elk,0,16
 BCAM22,2025-02,Black-tailed Jackrabbit,0,16
-BCAM22,2025-02,Human-Pedestrian,0,16
 BCAM22,2024-12,American Badger,0,12
 BCAM22,2024-12,Bobcat,0,12
 BCAM22,2024-12,Coyote,0,12
-BCAM22,2024-12,Domestic Cattle,0,12
 BCAM22,2024-12,Domestic Dog,0,12
 BCAM22,2024-12,Human,0,12
-BCAM22,2024-12,Human-Camera Trapper,1,12
+BCAM22,2024-12,Human-Camera Trapper,0,12
 BCAM22,2024-12,Mule Deer,0,12
 BCAM22,2024-12,North American River Otter,0,12
 BCAM22,2024-12,Northern Elephant Seal,7,12
@@ -1560,16 +1564,15 @@ BCAM22,2024-12,Northern Raccoon,0,12
 BCAM22,2024-12,Striped Skunk,0,12
 BCAM22,2024-12,Brush Rabbit,0,12
 BCAM22,2024-12,Californian Sea Lion,0,12
+BCAM22,2024-12,Domestic Cattle,0,12
 BCAM22,2024-12,Elk,0,12
 BCAM22,2024-12,Black-tailed Jackrabbit,0,12
-BCAM22,2024-12,Human-Pedestrian,0,12
 BCAM23,2025-01,American Badger,0,31
 BCAM23,2025-01,Bobcat,0,31
 BCAM23,2025-01,Coyote,3,31
-BCAM23,2025-01,Domestic Cattle,0,31
 BCAM23,2025-01,Domestic Dog,0,31
-BCAM23,2025-01,Human,1,31
-BCAM23,2025-01,Human-Camera Trapper,2,31
+BCAM23,2025-01,Human,0,31
+BCAM23,2025-01,Human-Camera Trapper,0,31
 BCAM23,2025-01,Mule Deer,0,31
 BCAM23,2025-01,North American River Otter,0,31
 BCAM23,2025-01,Northern Elephant Seal,0,31
@@ -1577,16 +1580,15 @@ BCAM23,2025-01,Northern Raccoon,0,31
 BCAM23,2025-01,Striped Skunk,0,31
 BCAM23,2025-01,Brush Rabbit,0,31
 BCAM23,2025-01,Californian Sea Lion,0,31
+BCAM23,2025-01,Domestic Cattle,0,31
 BCAM23,2025-01,Elk,0,31
 BCAM23,2025-01,Black-tailed Jackrabbit,0,31
-BCAM23,2025-01,Human-Pedestrian,0,31
 BCAM23,2025-03,American Badger,0,15
 BCAM23,2025-03,Bobcat,0,15
 BCAM23,2025-03,Coyote,2,15
-BCAM23,2025-03,Domestic Cattle,0,15
 BCAM23,2025-03,Domestic Dog,0,15
 BCAM23,2025-03,Human,0,15
-BCAM23,2025-03,Human-Camera Trapper,1,15
+BCAM23,2025-03,Human-Camera Trapper,0,15
 BCAM23,2025-03,Mule Deer,0,15
 BCAM23,2025-03,North American River Otter,0,15
 BCAM23,2025-03,Northern Elephant Seal,0,15
@@ -1594,50 +1596,31 @@ BCAM23,2025-03,Northern Raccoon,0,15
 BCAM23,2025-03,Striped Skunk,0,15
 BCAM23,2025-03,Brush Rabbit,0,15
 BCAM23,2025-03,Californian Sea Lion,0,15
+BCAM23,2025-03,Domestic Cattle,0,15
 BCAM23,2025-03,Elk,0,15
 BCAM23,2025-03,Black-tailed Jackrabbit,0,15
-BCAM23,2025-03,Human-Pedestrian,0,15
 BCAM23,2025-02,American Badger,0,28
 BCAM23,2025-02,Bobcat,0,28
 BCAM23,2025-02,Coyote,0,28
-BCAM23,2025-02,Domestic Cattle,0,28
 BCAM23,2025-02,Domestic Dog,0,28
-BCAM23,2025-02,Human,2,28
-BCAM23,2025-02,Human-Camera Trapper,3,28
+BCAM23,2025-02,Human,0,28
+BCAM23,2025-02,Human-Camera Trapper,0,28
 BCAM23,2025-02,Mule Deer,0,28
 BCAM23,2025-02,North American River Otter,0,28
-BCAM23,2025-02,Northern Elephant Seal,0,28
+BCAM23,2025-02,Northern Elephant Seal,9,28
 BCAM23,2025-02,Northern Raccoon,0,28
 BCAM23,2025-02,Striped Skunk,0,28
 BCAM23,2025-02,Brush Rabbit,0,28
 BCAM23,2025-02,Californian Sea Lion,0,28
+BCAM23,2025-02,Domestic Cattle,0,28
 BCAM23,2025-02,Elk,0,28
 BCAM23,2025-02,Black-tailed Jackrabbit,0,28
-BCAM23,2025-02,Human-Pedestrian,0,28
-BCAM23,2024-12,American Badger,0,11
-BCAM23,2024-12,Bobcat,0,11
-BCAM23,2024-12,Coyote,0,11
-BCAM23,2024-12,Domestic Cattle,0,11
-BCAM23,2024-12,Domestic Dog,0,11
-BCAM23,2024-12,Human,0,11
-BCAM23,2024-12,Human-Camera Trapper,1,11
-BCAM23,2024-12,Mule Deer,0,11
-BCAM23,2024-12,North American River Otter,0,11
-BCAM23,2024-12,Northern Elephant Seal,0,11
-BCAM23,2024-12,Northern Raccoon,0,11
-BCAM23,2024-12,Striped Skunk,0,11
-BCAM23,2024-12,Brush Rabbit,0,11
-BCAM23,2024-12,Californian Sea Lion,0,11
-BCAM23,2024-12,Elk,0,11
-BCAM23,2024-12,Black-tailed Jackrabbit,0,11
-BCAM23,2024-12,Human-Pedestrian,0,11
 BCAM24,2025-02,American Badger,0,28
-BCAM24,2025-02,Bobcat,3,28
+BCAM24,2025-02,Bobcat,4,28
 BCAM24,2025-02,Coyote,1,28
-BCAM24,2025-02,Domestic Cattle,0,28
 BCAM24,2025-02,Domestic Dog,3,28
-BCAM24,2025-02,Human,4,28
-BCAM24,2025-02,Human-Camera Trapper,3,28
+BCAM24,2025-02,Human,0,28
+BCAM24,2025-02,Human-Camera Trapper,0,28
 BCAM24,2025-02,Mule Deer,0,28
 BCAM24,2025-02,North American River Otter,0,28
 BCAM24,2025-02,Northern Elephant Seal,0,28
@@ -1645,16 +1628,15 @@ BCAM24,2025-02,Northern Raccoon,0,28
 BCAM24,2025-02,Striped Skunk,0,28
 BCAM24,2025-02,Brush Rabbit,0,28
 BCAM24,2025-02,Californian Sea Lion,0,28
+BCAM24,2025-02,Domestic Cattle,0,28
 BCAM24,2025-02,Elk,0,28
 BCAM24,2025-02,Black-tailed Jackrabbit,0,28
-BCAM24,2025-02,Human-Pedestrian,0,28
 BCAM24,2025-03,American Badger,0,15
-BCAM24,2025-03,Bobcat,2,15
+BCAM24,2025-03,Bobcat,3,15
 BCAM24,2025-03,Coyote,1,15
-BCAM24,2025-03,Domestic Cattle,0,15
 BCAM24,2025-03,Domestic Dog,0,15
 BCAM24,2025-03,Human,0,15
-BCAM24,2025-03,Human-Camera Trapper,2,15
+BCAM24,2025-03,Human-Camera Trapper,0,15
 BCAM24,2025-03,Mule Deer,0,15
 BCAM24,2025-03,North American River Otter,0,15
 BCAM24,2025-03,Northern Elephant Seal,0,15
@@ -1662,16 +1644,15 @@ BCAM24,2025-03,Northern Raccoon,0,15
 BCAM24,2025-03,Striped Skunk,0,15
 BCAM24,2025-03,Brush Rabbit,0,15
 BCAM24,2025-03,Californian Sea Lion,0,15
+BCAM24,2025-03,Domestic Cattle,0,15
 BCAM24,2025-03,Elk,0,15
 BCAM24,2025-03,Black-tailed Jackrabbit,0,15
-BCAM24,2025-03,Human-Pedestrian,0,15
 BCAM24,2025-01,American Badger,0,28
 BCAM24,2025-01,Bobcat,0,28
 BCAM24,2025-01,Coyote,4,28
-BCAM24,2025-01,Domestic Cattle,0,28
 BCAM24,2025-01,Domestic Dog,3,28
-BCAM24,2025-01,Human,7,28
-BCAM24,2025-01,Human-Camera Trapper,1,28
+BCAM24,2025-01,Human,0,28
+BCAM24,2025-01,Human-Camera Trapper,0,28
 BCAM24,2025-01,Mule Deer,0,28
 BCAM24,2025-01,North American River Otter,0,28
 BCAM24,2025-01,Northern Elephant Seal,0,28
@@ -1679,16 +1660,15 @@ BCAM24,2025-01,Northern Raccoon,0,28
 BCAM24,2025-01,Striped Skunk,0,28
 BCAM24,2025-01,Brush Rabbit,0,28
 BCAM24,2025-01,Californian Sea Lion,0,28
+BCAM24,2025-01,Domestic Cattle,0,28
 BCAM24,2025-01,Elk,0,28
 BCAM24,2025-01,Black-tailed Jackrabbit,0,28
-BCAM24,2025-01,Human-Pedestrian,0,28
 BCAM25,2025-01,American Badger,0,28
 BCAM25,2025-01,Bobcat,0,28
 BCAM25,2025-01,Coyote,1,28
-BCAM25,2025-01,Domestic Cattle,0,28
 BCAM25,2025-01,Domestic Dog,2,28
-BCAM25,2025-01,Human,6,28
-BCAM25,2025-01,Human-Camera Trapper,1,28
+BCAM25,2025-01,Human,0,28
+BCAM25,2025-01,Human-Camera Trapper,0,28
 BCAM25,2025-01,Mule Deer,0,28
 BCAM25,2025-01,North American River Otter,0,28
 BCAM25,2025-01,Northern Elephant Seal,0,28
@@ -1696,16 +1676,15 @@ BCAM25,2025-01,Northern Raccoon,0,28
 BCAM25,2025-01,Striped Skunk,0,28
 BCAM25,2025-01,Brush Rabbit,0,28
 BCAM25,2025-01,Californian Sea Lion,0,28
+BCAM25,2025-01,Domestic Cattle,0,28
 BCAM25,2025-01,Elk,0,28
 BCAM25,2025-01,Black-tailed Jackrabbit,0,28
-BCAM25,2025-01,Human-Pedestrian,0,28
 BCAM25,2025-02,American Badger,0,16
 BCAM25,2025-02,Bobcat,0,16
 BCAM25,2025-02,Coyote,1,16
-BCAM25,2025-02,Domestic Cattle,0,16
 BCAM25,2025-02,Domestic Dog,2,16
-BCAM25,2025-02,Human,2,16
-BCAM25,2025-02,Human-Camera Trapper,3,16
+BCAM25,2025-02,Human,0,16
+BCAM25,2025-02,Human-Camera Trapper,0,16
 BCAM25,2025-02,Mule Deer,0,16
 BCAM25,2025-02,North American River Otter,0,16
 BCAM25,2025-02,Northern Elephant Seal,0,16
@@ -1713,13 +1692,12 @@ BCAM25,2025-02,Northern Raccoon,0,16
 BCAM25,2025-02,Striped Skunk,0,16
 BCAM25,2025-02,Brush Rabbit,0,16
 BCAM25,2025-02,Californian Sea Lion,0,16
+BCAM25,2025-02,Domestic Cattle,0,16
 BCAM25,2025-02,Elk,0,16
 BCAM25,2025-02,Black-tailed Jackrabbit,0,16
-BCAM25,2025-02,Human-Pedestrian,0,16
 BCAM26,2023-09,American Badger,0,12
 BCAM26,2023-09,Bobcat,0,12
 BCAM26,2023-09,Coyote,1,12
-BCAM26,2023-09,Domestic Cattle,0,12
 BCAM26,2023-09,Domestic Dog,0,12
 BCAM26,2023-09,Human,4,12
 BCAM26,2023-09,Human-Camera Trapper,3,12
@@ -1730,13 +1708,12 @@ BCAM26,2023-09,Northern Raccoon,0,12
 BCAM26,2023-09,Striped Skunk,0,12
 BCAM26,2023-09,Brush Rabbit,0,12
 BCAM26,2023-09,Californian Sea Lion,0,12
+BCAM26,2023-09,Domestic Cattle,0,12
 BCAM26,2023-09,Elk,0,12
 BCAM26,2023-09,Black-tailed Jackrabbit,0,12
-BCAM26,2023-09,Human-Pedestrian,0,12
 BCAM26,2023-10,American Badger,0,31
 BCAM26,2023-10,Bobcat,0,31
 BCAM26,2023-10,Coyote,2,31
-BCAM26,2023-10,Domestic Cattle,0,31
 BCAM26,2023-10,Domestic Dog,0,31
 BCAM26,2023-10,Human,4,31
 BCAM26,2023-10,Human-Camera Trapper,1,31
@@ -1747,13 +1724,12 @@ BCAM26,2023-10,Northern Raccoon,11,31
 BCAM26,2023-10,Striped Skunk,0,31
 BCAM26,2023-10,Brush Rabbit,0,31
 BCAM26,2023-10,Californian Sea Lion,0,31
+BCAM26,2023-10,Domestic Cattle,0,31
 BCAM26,2023-10,Elk,0,31
 BCAM26,2023-10,Black-tailed Jackrabbit,0,31
-BCAM26,2023-10,Human-Pedestrian,0,31
 BCAM26,2023-11,American Badger,0,4
 BCAM26,2023-11,Bobcat,0,4
 BCAM26,2023-11,Coyote,1,4
-BCAM26,2023-11,Domestic Cattle,0,4
 BCAM26,2023-11,Domestic Dog,0,4
 BCAM26,2023-11,Human,0,4
 BCAM26,2023-11,Human-Camera Trapper,2,4
@@ -1764,13 +1740,12 @@ BCAM26,2023-11,Northern Raccoon,0,4
 BCAM26,2023-11,Striped Skunk,0,4
 BCAM26,2023-11,Brush Rabbit,0,4
 BCAM26,2023-11,Californian Sea Lion,0,4
+BCAM26,2023-11,Domestic Cattle,0,4
 BCAM26,2023-11,Elk,0,4
 BCAM26,2023-11,Black-tailed Jackrabbit,0,4
-BCAM26,2023-11,Human-Pedestrian,0,4
 BCAM26,2024-10,American Badger,0,31
 BCAM26,2024-10,Bobcat,0,31
 BCAM26,2024-10,Coyote,3,31
-BCAM26,2024-10,Domestic Cattle,0,31
 BCAM26,2024-10,Domestic Dog,0,31
 BCAM26,2024-10,Human,7,31
 BCAM26,2024-10,Human-Camera Trapper,2,31
@@ -1781,16 +1756,15 @@ BCAM26,2024-10,Northern Raccoon,5,31
 BCAM26,2024-10,Striped Skunk,0,31
 BCAM26,2024-10,Brush Rabbit,0,31
 BCAM26,2024-10,Californian Sea Lion,0,31
+BCAM26,2024-10,Domestic Cattle,0,31
 BCAM26,2024-10,Elk,0,31
 BCAM26,2024-10,Black-tailed Jackrabbit,0,31
-BCAM26,2024-10,Human-Pedestrian,0,31
 BCAM26,2024-11,American Badger,0,30
 BCAM26,2024-11,Bobcat,0,30
 BCAM26,2024-11,Coyote,7,30
-BCAM26,2024-11,Domestic Cattle,0,30
 BCAM26,2024-11,Domestic Dog,0,30
-BCAM26,2024-11,Human,8,30
-BCAM26,2024-11,Human-Camera Trapper,2,30
+BCAM26,2024-11,Human,4,30
+BCAM26,2024-11,Human-Camera Trapper,1,30
 BCAM26,2024-11,Mule Deer,1,30
 BCAM26,2024-11,North American River Otter,1,30
 BCAM26,2024-11,Northern Elephant Seal,0,30
@@ -1798,16 +1772,15 @@ BCAM26,2024-11,Northern Raccoon,11,30
 BCAM26,2024-11,Striped Skunk,0,30
 BCAM26,2024-11,Brush Rabbit,0,30
 BCAM26,2024-11,Californian Sea Lion,0,30
+BCAM26,2024-11,Domestic Cattle,0,30
 BCAM26,2024-11,Elk,0,30
 BCAM26,2024-11,Black-tailed Jackrabbit,0,30
-BCAM26,2024-11,Human-Pedestrian,0,30
 BCAM26,2025-01,American Badger,0,31
 BCAM26,2025-01,Bobcat,0,31
 BCAM26,2025-01,Coyote,16,31
-BCAM26,2025-01,Domestic Cattle,0,31
 BCAM26,2025-01,Domestic Dog,0,31
-BCAM26,2025-01,Human,10,31
-BCAM26,2025-01,Human-Camera Trapper,2,31
+BCAM26,2025-01,Human,0,31
+BCAM26,2025-01,Human-Camera Trapper,0,31
 BCAM26,2025-01,Mule Deer,0,31
 BCAM26,2025-01,North American River Otter,0,31
 BCAM26,2025-01,Northern Elephant Seal,4,31
@@ -1815,30 +1788,44 @@ BCAM26,2025-01,Northern Raccoon,1,31
 BCAM26,2025-01,Striped Skunk,0,31
 BCAM26,2025-01,Brush Rabbit,0,31
 BCAM26,2025-01,Californian Sea Lion,0,31
+BCAM26,2025-01,Domestic Cattle,0,31
 BCAM26,2025-01,Elk,0,31
 BCAM26,2025-01,Black-tailed Jackrabbit,0,31
-BCAM26,2025-01,Human-Pedestrian,0,31
 BCAM26,2025-02,American Badger,0,28
 BCAM26,2025-02,Bobcat,0,28
-BCAM26,2025-02,Coyote,4,28
-BCAM26,2025-02,Domestic Cattle,0,28
+BCAM26,2025-02,Coyote,11,28
 BCAM26,2025-02,Domestic Dog,0,28
-BCAM26,2025-02,Human,1,28
-BCAM26,2025-02,Human-Camera Trapper,3,28
+BCAM26,2025-02,Human,0,28
+BCAM26,2025-02,Human-Camera Trapper,0,28
 BCAM26,2025-02,Mule Deer,0,28
 BCAM26,2025-02,North American River Otter,0,28
-BCAM26,2025-02,Northern Elephant Seal,3,28
+BCAM26,2025-02,Northern Elephant Seal,13,28
 BCAM26,2025-02,Northern Raccoon,0,28
 BCAM26,2025-02,Striped Skunk,0,28
 BCAM26,2025-02,Brush Rabbit,0,28
 BCAM26,2025-02,Californian Sea Lion,0,28
+BCAM26,2025-02,Domestic Cattle,0,28
 BCAM26,2025-02,Elk,0,28
 BCAM26,2025-02,Black-tailed Jackrabbit,0,28
-BCAM26,2025-02,Human-Pedestrian,0,28
+BCAM26,2025-03,American Badger,0,15
+BCAM26,2025-03,Bobcat,0,15
+BCAM26,2025-03,Coyote,1,15
+BCAM26,2025-03,Domestic Dog,0,15
+BCAM26,2025-03,Human,0,15
+BCAM26,2025-03,Human-Camera Trapper,0,15
+BCAM26,2025-03,Mule Deer,0,15
+BCAM26,2025-03,North American River Otter,0,15
+BCAM26,2025-03,Northern Elephant Seal,9,15
+BCAM26,2025-03,Northern Raccoon,0,15
+BCAM26,2025-03,Striped Skunk,0,15
+BCAM26,2025-03,Brush Rabbit,0,15
+BCAM26,2025-03,Californian Sea Lion,0,15
+BCAM26,2025-03,Domestic Cattle,0,15
+BCAM26,2025-03,Elk,0,15
+BCAM26,2025-03,Black-tailed Jackrabbit,0,15
 BCAM26,2024-09,American Badger,0,25
 BCAM26,2024-09,Bobcat,0,25
 BCAM26,2024-09,Coyote,0,25
-BCAM26,2024-09,Domestic Cattle,0,25
 BCAM26,2024-09,Domestic Dog,0,25
 BCAM26,2024-09,Human,3,25
 BCAM26,2024-09,Human-Camera Trapper,1,25
@@ -1849,16 +1836,15 @@ BCAM26,2024-09,Northern Raccoon,0,25
 BCAM26,2024-09,Striped Skunk,0,25
 BCAM26,2024-09,Brush Rabbit,0,25
 BCAM26,2024-09,Californian Sea Lion,0,25
+BCAM26,2024-09,Domestic Cattle,0,25
 BCAM26,2024-09,Elk,2,25
 BCAM26,2024-09,Black-tailed Jackrabbit,0,25
-BCAM26,2024-09,Human-Pedestrian,0,25
 BCAM26,2024-12,American Badger,0,20
 BCAM26,2024-12,Bobcat,0,20
 BCAM26,2024-12,Coyote,0,20
-BCAM26,2024-12,Domestic Cattle,0,20
 BCAM26,2024-12,Domestic Dog,0,20
-BCAM26,2024-12,Human,5,20
-BCAM26,2024-12,Human-Camera Trapper,1,20
+BCAM26,2024-12,Human,0,20
+BCAM26,2024-12,Human-Camera Trapper,0,20
 BCAM26,2024-12,Mule Deer,0,20
 BCAM26,2024-12,North American River Otter,0,20
 BCAM26,2024-12,Northern Elephant Seal,6,20
@@ -1866,47 +1852,60 @@ BCAM26,2024-12,Northern Raccoon,2,20
 BCAM26,2024-12,Striped Skunk,0,20
 BCAM26,2024-12,Brush Rabbit,0,20
 BCAM26,2024-12,Californian Sea Lion,0,20
+BCAM26,2024-12,Domestic Cattle,0,20
 BCAM26,2024-12,Elk,0,20
 BCAM26,2024-12,Black-tailed Jackrabbit,0,20
-BCAM26,2024-12,Human-Pedestrian,0,20
-BCAM26,2025-03,American Badger,0,15
-BCAM26,2025-03,Bobcat,0,15
-BCAM26,2025-03,Coyote,0,15
-BCAM26,2025-03,Domestic Cattle,0,15
-BCAM26,2025-03,Domestic Dog,0,15
-BCAM26,2025-03,Human,0,15
-BCAM26,2025-03,Human-Camera Trapper,1,15
-BCAM26,2025-03,Mule Deer,0,15
-BCAM26,2025-03,North American River Otter,0,15
-BCAM26,2025-03,Northern Elephant Seal,0,15
-BCAM26,2025-03,Northern Raccoon,0,15
-BCAM26,2025-03,Striped Skunk,0,15
-BCAM26,2025-03,Brush Rabbit,0,15
-BCAM26,2025-03,Californian Sea Lion,0,15
-BCAM26,2025-03,Elk,0,15
-BCAM26,2025-03,Black-tailed Jackrabbit,0,15
-BCAM26,2025-03,Human-Pedestrian,0,15
+BCAM27,2025-05,American Badger,0,31
+BCAM27,2025-05,Bobcat,0,31
+BCAM27,2025-05,Coyote,7,31
+BCAM27,2025-05,Domestic Dog,1,31
+BCAM27,2025-05,Human,0,31
+BCAM27,2025-05,Human-Camera Trapper,0,31
+BCAM27,2025-05,Mule Deer,0,31
+BCAM27,2025-05,North American River Otter,0,31
+BCAM27,2025-05,Northern Elephant Seal,0,31
+BCAM27,2025-05,Northern Raccoon,0,31
+BCAM27,2025-05,Striped Skunk,0,31
+BCAM27,2025-05,Brush Rabbit,0,31
+BCAM27,2025-05,Californian Sea Lion,0,31
+BCAM27,2025-05,Domestic Cattle,0,31
+BCAM27,2025-05,Elk,0,31
+BCAM27,2025-05,Black-tailed Jackrabbit,2,31
+BCAM27,2025-06,American Badger,0,27
+BCAM27,2025-06,Bobcat,1,27
+BCAM27,2025-06,Coyote,5,27
+BCAM27,2025-06,Domestic Dog,1,27
+BCAM27,2025-06,Human,0,27
+BCAM27,2025-06,Human-Camera Trapper,0,27
+BCAM27,2025-06,Mule Deer,0,27
+BCAM27,2025-06,North American River Otter,0,27
+BCAM27,2025-06,Northern Elephant Seal,0,27
+BCAM27,2025-06,Northern Raccoon,0,27
+BCAM27,2025-06,Striped Skunk,0,27
+BCAM27,2025-06,Brush Rabbit,0,27
+BCAM27,2025-06,Californian Sea Lion,0,27
+BCAM27,2025-06,Domestic Cattle,0,27
+BCAM27,2025-06,Elk,0,27
+BCAM27,2025-06,Black-tailed Jackrabbit,1,27
 BCAM3,2024-04,American Badger,1,30
 BCAM3,2024-04,Bobcat,2,30
 BCAM3,2024-04,Coyote,2,30
-BCAM3,2024-04,Domestic Cattle,0,30
 BCAM3,2024-04,Domestic Dog,0,30
-BCAM3,2024-04,Human,3,30
-BCAM3,2024-04,Human-Camera Trapper,1,30
+BCAM3,2024-04,Human,0,30
+BCAM3,2024-04,Human-Camera Trapper,0,30
 BCAM3,2024-04,Mule Deer,0,30
 BCAM3,2024-04,North American River Otter,0,30
-BCAM3,2024-04,Northern Elephant Seal,17,30
+BCAM3,2024-04,Northern Elephant Seal,16,30
 BCAM3,2024-04,Northern Raccoon,5,30
 BCAM3,2024-04,Striped Skunk,0,30
 BCAM3,2024-04,Brush Rabbit,0,30
 BCAM3,2024-04,Californian Sea Lion,0,30
+BCAM3,2024-04,Domestic Cattle,0,30
 BCAM3,2024-04,Elk,0,30
 BCAM3,2024-04,Black-tailed Jackrabbit,0,30
-BCAM3,2024-04,Human-Pedestrian,0,30
 BCAM3,2023-09,American Badger,0,26
 BCAM3,2023-09,Bobcat,1,26
 BCAM3,2023-09,Coyote,1,26
-BCAM3,2023-09,Domestic Cattle,0,26
 BCAM3,2023-09,Domestic Dog,0,26
 BCAM3,2023-09,Human,11,26
 BCAM3,2023-09,Human-Camera Trapper,3,26
@@ -1917,13 +1916,12 @@ BCAM3,2023-09,Northern Raccoon,17,26
 BCAM3,2023-09,Striped Skunk,0,26
 BCAM3,2023-09,Brush Rabbit,29,26
 BCAM3,2023-09,Californian Sea Lion,0,26
+BCAM3,2023-09,Domestic Cattle,0,26
 BCAM3,2023-09,Elk,0,26
 BCAM3,2023-09,Black-tailed Jackrabbit,0,26
-BCAM3,2023-09,Human-Pedestrian,0,26
 BCAM3,2023-10,American Badger,0,31
 BCAM3,2023-10,Bobcat,1,31
 BCAM3,2023-10,Coyote,6,31
-BCAM3,2023-10,Domestic Cattle,0,31
 BCAM3,2023-10,Domestic Dog,0,31
 BCAM3,2023-10,Human,7,31
 BCAM3,2023-10,Human-Camera Trapper,1,31
@@ -1934,16 +1932,15 @@ BCAM3,2023-10,Northern Raccoon,31,31
 BCAM3,2023-10,Striped Skunk,0,31
 BCAM3,2023-10,Brush Rabbit,7,31
 BCAM3,2023-10,Californian Sea Lion,0,31
+BCAM3,2023-10,Domestic Cattle,0,31
 BCAM3,2023-10,Elk,0,31
 BCAM3,2023-10,Black-tailed Jackrabbit,0,31
-BCAM3,2023-10,Human-Pedestrian,0,31
 BCAM3,2023-11,American Badger,0,30
 BCAM3,2023-11,Bobcat,2,30
 BCAM3,2023-11,Coyote,6,30
-BCAM3,2023-11,Domestic Cattle,0,30
 BCAM3,2023-11,Domestic Dog,0,30
-BCAM3,2023-11,Human,6,30
-BCAM3,2023-11,Human-Camera Trapper,2,30
+BCAM3,2023-11,Human,0,30
+BCAM3,2023-11,Human-Camera Trapper,1,30
 BCAM3,2023-11,Mule Deer,0,30
 BCAM3,2023-11,North American River Otter,0,30
 BCAM3,2023-11,Northern Elephant Seal,0,30
@@ -1951,16 +1948,15 @@ BCAM3,2023-11,Northern Raccoon,49,30
 BCAM3,2023-11,Striped Skunk,0,30
 BCAM3,2023-11,Brush Rabbit,21,30
 BCAM3,2023-11,Californian Sea Lion,0,30
+BCAM3,2023-11,Domestic Cattle,0,30
 BCAM3,2023-11,Elk,0,30
 BCAM3,2023-11,Black-tailed Jackrabbit,0,30
-BCAM3,2023-11,Human-Pedestrian,0,30
 BCAM3,2024-05,American Badger,0,24
 BCAM3,2024-05,Bobcat,3,24
 BCAM3,2024-05,Coyote,1,24
-BCAM3,2024-05,Domestic Cattle,0,24
 BCAM3,2024-05,Domestic Dog,0,24
-BCAM3,2024-05,Human,23,24
-BCAM3,2024-05,Human-Camera Trapper,2,24
+BCAM3,2024-05,Human,0,24
+BCAM3,2024-05,Human-Camera Trapper,0,24
 BCAM3,2024-05,Mule Deer,1,24
 BCAM3,2024-05,North American River Otter,0,24
 BCAM3,2024-05,Northern Elephant Seal,0,24
@@ -1968,15 +1964,14 @@ BCAM3,2024-05,Northern Raccoon,17,24
 BCAM3,2024-05,Striped Skunk,0,24
 BCAM3,2024-05,Brush Rabbit,0,24
 BCAM3,2024-05,Californian Sea Lion,0,24
+BCAM3,2024-05,Domestic Cattle,0,24
 BCAM3,2024-05,Elk,0,24
 BCAM3,2024-05,Black-tailed Jackrabbit,0,24
-BCAM3,2024-05,Human-Pedestrian,0,24
 BCAM3,2024-07,American Badger,0,31
 BCAM3,2024-07,Bobcat,1,31
 BCAM3,2024-07,Coyote,1,31
-BCAM3,2024-07,Domestic Cattle,0,31
 BCAM3,2024-07,Domestic Dog,0,31
-BCAM3,2024-07,Human,12,31
+BCAM3,2024-07,Human,0,31
 BCAM3,2024-07,Human-Camera Trapper,0,31
 BCAM3,2024-07,Mule Deer,14,31
 BCAM3,2024-07,North American River Otter,0,31
@@ -1985,16 +1980,15 @@ BCAM3,2024-07,Northern Raccoon,29,31
 BCAM3,2024-07,Striped Skunk,0,31
 BCAM3,2024-07,Brush Rabbit,0,31
 BCAM3,2024-07,Californian Sea Lion,0,31
+BCAM3,2024-07,Domestic Cattle,0,31
 BCAM3,2024-07,Elk,0,31
 BCAM3,2024-07,Black-tailed Jackrabbit,0,31
-BCAM3,2024-07,Human-Pedestrian,0,31
 BCAM3,2024-08,American Badger,0,21
 BCAM3,2024-08,Bobcat,1,21
 BCAM3,2024-08,Coyote,0,21
-BCAM3,2024-08,Domestic Cattle,0,21
 BCAM3,2024-08,Domestic Dog,0,21
-BCAM3,2024-08,Human,2,21
-BCAM3,2024-08,Human-Camera Trapper,2,21
+BCAM3,2024-08,Human,0,21
+BCAM3,2024-08,Human-Camera Trapper,0,21
 BCAM3,2024-08,Mule Deer,3,21
 BCAM3,2024-08,North American River Otter,0,21
 BCAM3,2024-08,Northern Elephant Seal,0,21
@@ -2002,13 +1996,12 @@ BCAM3,2024-08,Northern Raccoon,4,21
 BCAM3,2024-08,Striped Skunk,0,21
 BCAM3,2024-08,Brush Rabbit,0,21
 BCAM3,2024-08,Californian Sea Lion,0,21
+BCAM3,2024-08,Domestic Cattle,0,21
 BCAM3,2024-08,Elk,0,21
 BCAM3,2024-08,Black-tailed Jackrabbit,0,21
-BCAM3,2024-08,Human-Pedestrian,0,21
 BCAM3,2024-10,American Badger,0,31
 BCAM3,2024-10,Bobcat,1,31
 BCAM3,2024-10,Coyote,0,31
-BCAM3,2024-10,Domestic Cattle,0,31
 BCAM3,2024-10,Domestic Dog,0,31
 BCAM3,2024-10,Human,4,31
 BCAM3,2024-10,Human-Camera Trapper,2,31
@@ -2019,16 +2012,15 @@ BCAM3,2024-10,Northern Raccoon,26,31
 BCAM3,2024-10,Striped Skunk,0,31
 BCAM3,2024-10,Brush Rabbit,0,31
 BCAM3,2024-10,Californian Sea Lion,0,31
+BCAM3,2024-10,Domestic Cattle,0,31
 BCAM3,2024-10,Elk,0,31
 BCAM3,2024-10,Black-tailed Jackrabbit,0,31
-BCAM3,2024-10,Human-Pedestrian,0,31
 BCAM3,2024-11,American Badger,0,30
 BCAM3,2024-11,Bobcat,1,30
 BCAM3,2024-11,Coyote,5,30
-BCAM3,2024-11,Domestic Cattle,0,30
 BCAM3,2024-11,Domestic Dog,0,30
-BCAM3,2024-11,Human,8,30
-BCAM3,2024-11,Human-Camera Trapper,2,30
+BCAM3,2024-11,Human,4,30
+BCAM3,2024-11,Human-Camera Trapper,1,30
 BCAM3,2024-11,Mule Deer,10,30
 BCAM3,2024-11,North American River Otter,1,30
 BCAM3,2024-11,Northern Elephant Seal,0,30
@@ -2036,15 +2028,14 @@ BCAM3,2024-11,Northern Raccoon,34,30
 BCAM3,2024-11,Striped Skunk,0,30
 BCAM3,2024-11,Brush Rabbit,0,30
 BCAM3,2024-11,Californian Sea Lion,0,30
+BCAM3,2024-11,Domestic Cattle,0,30
 BCAM3,2024-11,Elk,0,30
 BCAM3,2024-11,Black-tailed Jackrabbit,0,30
-BCAM3,2024-11,Human-Pedestrian,0,30
 BCAM3,2023-12,American Badger,0,21
 BCAM3,2023-12,Bobcat,0,21
 BCAM3,2023-12,Coyote,7,21
-BCAM3,2023-12,Domestic Cattle,0,21
 BCAM3,2023-12,Domestic Dog,0,21
-BCAM3,2023-12,Human,4,21
+BCAM3,2023-12,Human,0,21
 BCAM3,2023-12,Human-Camera Trapper,0,21
 BCAM3,2023-12,Mule Deer,1,21
 BCAM3,2023-12,North American River Otter,0,21
@@ -2053,16 +2044,15 @@ BCAM3,2023-12,Northern Raccoon,20,21
 BCAM3,2023-12,Striped Skunk,0,21
 BCAM3,2023-12,Brush Rabbit,18,21
 BCAM3,2023-12,Californian Sea Lion,0,21
+BCAM3,2023-12,Domestic Cattle,0,21
 BCAM3,2023-12,Elk,0,21
 BCAM3,2023-12,Black-tailed Jackrabbit,0,21
-BCAM3,2023-12,Human-Pedestrian,0,21
 BCAM3,2024-01,American Badger,0,19
 BCAM3,2024-01,Bobcat,0,19
 BCAM3,2024-01,Coyote,1,19
-BCAM3,2024-01,Domestic Cattle,0,19
 BCAM3,2024-01,Domestic Dog,0,19
 BCAM3,2024-01,Human,0,19
-BCAM3,2024-01,Human-Camera Trapper,3,19
+BCAM3,2024-01,Human-Camera Trapper,0,19
 BCAM3,2024-01,Mule Deer,0,19
 BCAM3,2024-01,North American River Otter,0,19
 BCAM3,2024-01,Northern Elephant Seal,0,19
@@ -2070,16 +2060,15 @@ BCAM3,2024-01,Northern Raccoon,0,19
 BCAM3,2024-01,Striped Skunk,0,19
 BCAM3,2024-01,Brush Rabbit,8,19
 BCAM3,2024-01,Californian Sea Lion,0,19
+BCAM3,2024-01,Domestic Cattle,0,19
 BCAM3,2024-01,Elk,0,19
 BCAM3,2024-01,Black-tailed Jackrabbit,0,19
-BCAM3,2024-01,Human-Pedestrian,0,19
 BCAM3,2024-02,American Badger,0,29
 BCAM3,2024-02,Bobcat,0,29
 BCAM3,2024-02,Coyote,5,29
-BCAM3,2024-02,Domestic Cattle,0,29
 BCAM3,2024-02,Domestic Dog,0,29
 BCAM3,2024-02,Human,0,29
-BCAM3,2024-02,Human-Camera Trapper,1,29
+BCAM3,2024-02,Human-Camera Trapper,0,29
 BCAM3,2024-02,Mule Deer,0,29
 BCAM3,2024-02,North American River Otter,0,29
 BCAM3,2024-02,Northern Elephant Seal,51,29
@@ -2087,15 +2076,14 @@ BCAM3,2024-02,Northern Raccoon,0,29
 BCAM3,2024-02,Striped Skunk,0,29
 BCAM3,2024-02,Brush Rabbit,1,29
 BCAM3,2024-02,Californian Sea Lion,0,29
+BCAM3,2024-02,Domestic Cattle,0,29
 BCAM3,2024-02,Elk,0,29
 BCAM3,2024-02,Black-tailed Jackrabbit,0,29
-BCAM3,2024-02,Human-Pedestrian,0,29
 BCAM3,2023-01,American Badger,0,31
 BCAM3,2023-01,Bobcat,0,31
 BCAM3,2023-01,Coyote,1,31
-BCAM3,2023-01,Domestic Cattle,0,31
 BCAM3,2023-01,Domestic Dog,0,31
-BCAM3,2023-01,Human,2,31
+BCAM3,2023-01,Human,0,31
 BCAM3,2023-01,Human-Camera Trapper,0,31
 BCAM3,2023-01,Mule Deer,1,31
 BCAM3,2023-01,North American River Otter,0,31
@@ -2104,15 +2092,14 @@ BCAM3,2023-01,Northern Raccoon,0,31
 BCAM3,2023-01,Striped Skunk,0,31
 BCAM3,2023-01,Brush Rabbit,0,31
 BCAM3,2023-01,Californian Sea Lion,0,31
+BCAM3,2023-01,Domestic Cattle,0,31
 BCAM3,2023-01,Elk,0,31
 BCAM3,2023-01,Black-tailed Jackrabbit,0,31
-BCAM3,2023-01,Human-Pedestrian,0,31
 BCAM3,2023-02,American Badger,0,27
 BCAM3,2023-02,Bobcat,0,27
 BCAM3,2023-02,Coyote,4,27
-BCAM3,2023-02,Domestic Cattle,0,27
 BCAM3,2023-02,Domestic Dog,0,27
-BCAM3,2023-02,Human,1,27
+BCAM3,2023-02,Human,0,27
 BCAM3,2023-02,Human-Camera Trapper,0,27
 BCAM3,2023-02,Mule Deer,0,27
 BCAM3,2023-02,North American River Otter,0,27
@@ -2121,47 +2108,44 @@ BCAM3,2023-02,Northern Raccoon,0,27
 BCAM3,2023-02,Striped Skunk,0,27
 BCAM3,2023-02,Brush Rabbit,0,27
 BCAM3,2023-02,Californian Sea Lion,0,27
+BCAM3,2023-02,Domestic Cattle,0,27
 BCAM3,2023-02,Elk,0,27
 BCAM3,2023-02,Black-tailed Jackrabbit,0,27
-BCAM3,2023-02,Human-Pedestrian,0,27
 BCAM3,2024-03,American Badger,0,28
 BCAM3,2024-03,Bobcat,0,28
 BCAM3,2024-03,Coyote,3,28
-BCAM3,2024-03,Domestic Cattle,0,28
 BCAM3,2024-03,Domestic Dog,0,28
 BCAM3,2024-03,Human,0,28
-BCAM3,2024-03,Human-Camera Trapper,1,28
+BCAM3,2024-03,Human-Camera Trapper,0,28
 BCAM3,2024-03,Mule Deer,0,28
 BCAM3,2024-03,North American River Otter,0,28
-BCAM3,2024-03,Northern Elephant Seal,86,28
+BCAM3,2024-03,Northern Elephant Seal,85,28
 BCAM3,2024-03,Northern Raccoon,0,28
 BCAM3,2024-03,Striped Skunk,0,28
 BCAM3,2024-03,Brush Rabbit,0,28
 BCAM3,2024-03,Californian Sea Lion,0,28
+BCAM3,2024-03,Domestic Cattle,0,28
 BCAM3,2024-03,Elk,0,28
 BCAM3,2024-03,Black-tailed Jackrabbit,0,28
-BCAM3,2024-03,Human-Pedestrian,0,28
 BCAM3,2024-06,American Badger,0,30
 BCAM3,2024-06,Bobcat,0,30
 BCAM3,2024-06,Coyote,1,30
-BCAM3,2024-06,Domestic Cattle,0,30
 BCAM3,2024-06,Domestic Dog,0,30
-BCAM3,2024-06,Human,25,30
-BCAM3,2024-06,Human-Camera Trapper,3,30
-BCAM3,2024-06,Mule Deer,1,30
+BCAM3,2024-06,Human,0,30
+BCAM3,2024-06,Human-Camera Trapper,0,30
+BCAM3,2024-06,Mule Deer,2,30
 BCAM3,2024-06,North American River Otter,0,30
 BCAM3,2024-06,Northern Elephant Seal,0,30
 BCAM3,2024-06,Northern Raccoon,22,30
 BCAM3,2024-06,Striped Skunk,0,30
 BCAM3,2024-06,Brush Rabbit,0,30
 BCAM3,2024-06,Californian Sea Lion,0,30
+BCAM3,2024-06,Domestic Cattle,0,30
 BCAM3,2024-06,Elk,0,30
 BCAM3,2024-06,Black-tailed Jackrabbit,0,30
-BCAM3,2024-06,Human-Pedestrian,1,30
 BCAM3,2024-09,American Badger,0,25
 BCAM3,2024-09,Bobcat,0,25
 BCAM3,2024-09,Coyote,3,25
-BCAM3,2024-09,Domestic Cattle,0,25
 BCAM3,2024-09,Domestic Dog,0,25
 BCAM3,2024-09,Human,4,25
 BCAM3,2024-09,Human-Camera Trapper,1,25
@@ -2172,16 +2156,15 @@ BCAM3,2024-09,Northern Raccoon,6,25
 BCAM3,2024-09,Striped Skunk,0,25
 BCAM3,2024-09,Brush Rabbit,0,25
 BCAM3,2024-09,Californian Sea Lion,0,25
+BCAM3,2024-09,Domestic Cattle,0,25
 BCAM3,2024-09,Elk,0,25
 BCAM3,2024-09,Black-tailed Jackrabbit,0,25
-BCAM3,2024-09,Human-Pedestrian,0,25
 BCAM3,2024-12,American Badger,0,31
 BCAM3,2024-12,Bobcat,0,31
 BCAM3,2024-12,Coyote,4,31
-BCAM3,2024-12,Domestic Cattle,0,31
 BCAM3,2024-12,Domestic Dog,0,31
-BCAM3,2024-12,Human,4,31
-BCAM3,2024-12,Human-Camera Trapper,2,31
+BCAM3,2024-12,Human,0,31
+BCAM3,2024-12,Human-Camera Trapper,0,31
 BCAM3,2024-12,Mule Deer,3,31
 BCAM3,2024-12,North American River Otter,0,31
 BCAM3,2024-12,Northern Elephant Seal,3,31
@@ -2189,50 +2172,79 @@ BCAM3,2024-12,Northern Raccoon,21,31
 BCAM3,2024-12,Striped Skunk,0,31
 BCAM3,2024-12,Brush Rabbit,0,31
 BCAM3,2024-12,Californian Sea Lion,0,31
+BCAM3,2024-12,Domestic Cattle,0,31
 BCAM3,2024-12,Elk,0,31
 BCAM3,2024-12,Black-tailed Jackrabbit,0,31
-BCAM3,2024-12,Human-Pedestrian,0,31
 BCAM3,2025-01,American Badger,0,31
 BCAM3,2025-01,Bobcat,0,31
-BCAM3,2025-01,Coyote,14,31
-BCAM3,2025-01,Domestic Cattle,0,31
+BCAM3,2025-01,Coyote,15,31
 BCAM3,2025-01,Domestic Dog,0,31
-BCAM3,2025-01,Human,1,31
-BCAM3,2025-01,Human-Camera Trapper,2,31
+BCAM3,2025-01,Human,0,31
+BCAM3,2025-01,Human-Camera Trapper,0,31
 BCAM3,2025-01,Mule Deer,0,31
 BCAM3,2025-01,North American River Otter,0,31
-BCAM3,2025-01,Northern Elephant Seal,0,31
+BCAM3,2025-01,Northern Elephant Seal,3,31
 BCAM3,2025-01,Northern Raccoon,1,31
 BCAM3,2025-01,Striped Skunk,0,31
 BCAM3,2025-01,Brush Rabbit,0,31
 BCAM3,2025-01,Californian Sea Lion,0,31
+BCAM3,2025-01,Domestic Cattle,0,31
 BCAM3,2025-01,Elk,0,31
 BCAM3,2025-01,Black-tailed Jackrabbit,0,31
-BCAM3,2025-01,Human-Pedestrian,0,31
 BCAM3,2025-02,American Badger,0,28
 BCAM3,2025-02,Bobcat,0,28
-BCAM3,2025-02,Coyote,5,28
-BCAM3,2025-02,Domestic Cattle,0,28
+BCAM3,2025-02,Coyote,6,28
 BCAM3,2025-02,Domestic Dog,0,28
 BCAM3,2025-02,Human,0,28
-BCAM3,2025-02,Human-Camera Trapper,3,28
+BCAM3,2025-02,Human-Camera Trapper,0,28
 BCAM3,2025-02,Mule Deer,0,28
 BCAM3,2025-02,North American River Otter,0,28
-BCAM3,2025-02,Northern Elephant Seal,4,28
+BCAM3,2025-02,Northern Elephant Seal,17,28
 BCAM3,2025-02,Northern Raccoon,1,28
 BCAM3,2025-02,Striped Skunk,0,28
 BCAM3,2025-02,Brush Rabbit,0,28
 BCAM3,2025-02,Californian Sea Lion,0,28
+BCAM3,2025-02,Domestic Cattle,0,28
 BCAM3,2025-02,Elk,0,28
 BCAM3,2025-02,Black-tailed Jackrabbit,0,28
-BCAM3,2025-02,Human-Pedestrian,0,28
+BCAM3,2025-03,American Badger,0,31
+BCAM3,2025-03,Bobcat,0,31
+BCAM3,2025-03,Coyote,2,31
+BCAM3,2025-03,Domestic Dog,0,31
+BCAM3,2025-03,Human,0,31
+BCAM3,2025-03,Human-Camera Trapper,0,31
+BCAM3,2025-03,Mule Deer,0,31
+BCAM3,2025-03,North American River Otter,0,31
+BCAM3,2025-03,Northern Elephant Seal,11,31
+BCAM3,2025-03,Northern Raccoon,0,31
+BCAM3,2025-03,Striped Skunk,0,31
+BCAM3,2025-03,Brush Rabbit,0,31
+BCAM3,2025-03,Californian Sea Lion,0,31
+BCAM3,2025-03,Domestic Cattle,0,31
+BCAM3,2025-03,Elk,0,31
+BCAM3,2025-03,Black-tailed Jackrabbit,0,31
+BCAM3,2025-04,American Badger,0,25
+BCAM3,2025-04,Bobcat,0,25
+BCAM3,2025-04,Coyote,4,25
+BCAM3,2025-04,Domestic Dog,0,25
+BCAM3,2025-04,Human,0,25
+BCAM3,2025-04,Human-Camera Trapper,0,25
+BCAM3,2025-04,Mule Deer,2,25
+BCAM3,2025-04,North American River Otter,0,25
+BCAM3,2025-04,Northern Elephant Seal,0,25
+BCAM3,2025-04,Northern Raccoon,3,25
+BCAM3,2025-04,Striped Skunk,0,25
+BCAM3,2025-04,Brush Rabbit,0,25
+BCAM3,2025-04,Californian Sea Lion,0,25
+BCAM3,2025-04,Domestic Cattle,0,25
+BCAM3,2025-04,Elk,0,25
+BCAM3,2025-04,Black-tailed Jackrabbit,0,25
 BCAM3,2022-12,American Badger,0,11
 BCAM3,2022-12,Bobcat,0,11
 BCAM3,2022-12,Coyote,0,11
-BCAM3,2022-12,Domestic Cattle,0,11
 BCAM3,2022-12,Domestic Dog,0,11
-BCAM3,2022-12,Human,2,11
-BCAM3,2022-12,Human-Camera Trapper,1,11
+BCAM3,2022-12,Human,0,11
+BCAM3,2022-12,Human-Camera Trapper,0,11
 BCAM3,2022-12,Mule Deer,0,11
 BCAM3,2022-12,North American River Otter,0,11
 BCAM3,2022-12,Northern Elephant Seal,0,11
@@ -2240,33 +2252,15 @@ BCAM3,2022-12,Northern Raccoon,2,11
 BCAM3,2022-12,Striped Skunk,0,11
 BCAM3,2022-12,Brush Rabbit,0,11
 BCAM3,2022-12,Californian Sea Lion,0,11
+BCAM3,2022-12,Domestic Cattle,0,11
 BCAM3,2022-12,Elk,0,11
 BCAM3,2022-12,Black-tailed Jackrabbit,0,11
-BCAM3,2022-12,Human-Pedestrian,0,11
-BCAM3,2025-03,American Badger,0,31
-BCAM3,2025-03,Bobcat,0,31
-BCAM3,2025-03,Coyote,0,31
-BCAM3,2025-03,Domestic Cattle,0,31
-BCAM3,2025-03,Domestic Dog,0,31
-BCAM3,2025-03,Human,0,31
-BCAM3,2025-03,Human-Camera Trapper,1,31
-BCAM3,2025-03,Mule Deer,0,31
-BCAM3,2025-03,North American River Otter,0,31
-BCAM3,2025-03,Northern Elephant Seal,0,31
-BCAM3,2025-03,Northern Raccoon,0,31
-BCAM3,2025-03,Striped Skunk,0,31
-BCAM3,2025-03,Brush Rabbit,0,31
-BCAM3,2025-03,Californian Sea Lion,0,31
-BCAM3,2025-03,Elk,0,31
-BCAM3,2025-03,Black-tailed Jackrabbit,0,31
-BCAM3,2025-03,Human-Pedestrian,0,31
 BCAM4,2023-12,American Badger,1,31
 BCAM4,2023-12,Bobcat,5,31
 BCAM4,2023-12,Coyote,7,31
-BCAM4,2023-12,Domestic Cattle,0,31
 BCAM4,2023-12,Domestic Dog,0,31
-BCAM4,2023-12,Human,6,31
-BCAM4,2023-12,Human-Camera Trapper,2,31
+BCAM4,2023-12,Human,0,31
+BCAM4,2023-12,Human-Camera Trapper,0,31
 BCAM4,2023-12,Mule Deer,5,31
 BCAM4,2023-12,North American River Otter,0,31
 BCAM4,2023-12,Northern Elephant Seal,20,31
@@ -2274,13 +2268,12 @@ BCAM4,2023-12,Northern Raccoon,10,31
 BCAM4,2023-12,Striped Skunk,0,31
 BCAM4,2023-12,Brush Rabbit,0,31
 BCAM4,2023-12,Californian Sea Lion,0,31
+BCAM4,2023-12,Domestic Cattle,0,31
 BCAM4,2023-12,Elk,0,31
 BCAM4,2023-12,Black-tailed Jackrabbit,0,31
-BCAM4,2023-12,Human-Pedestrian,0,31
 BCAM4,2023-09,American Badger,0,26
 BCAM4,2023-09,Bobcat,1,26
 BCAM4,2023-09,Coyote,16,26
-BCAM4,2023-09,Domestic Cattle,0,26
 BCAM4,2023-09,Domestic Dog,0,26
 BCAM4,2023-09,Human,8,26
 BCAM4,2023-09,Human-Camera Trapper,4,26
@@ -2291,13 +2284,12 @@ BCAM4,2023-09,Northern Raccoon,5,26
 BCAM4,2023-09,Striped Skunk,1,26
 BCAM4,2023-09,Brush Rabbit,0,26
 BCAM4,2023-09,Californian Sea Lion,0,26
+BCAM4,2023-09,Domestic Cattle,0,26
 BCAM4,2023-09,Elk,0,26
 BCAM4,2023-09,Black-tailed Jackrabbit,0,26
-BCAM4,2023-09,Human-Pedestrian,0,26
 BCAM4,2023-10,American Badger,0,31
 BCAM4,2023-10,Bobcat,5,31
 BCAM4,2023-10,Coyote,13,31
-BCAM4,2023-10,Domestic Cattle,0,31
 BCAM4,2023-10,Domestic Dog,0,31
 BCAM4,2023-10,Human,10,31
 BCAM4,2023-10,Human-Camera Trapper,1,31
@@ -2308,16 +2300,15 @@ BCAM4,2023-10,Northern Raccoon,8,31
 BCAM4,2023-10,Striped Skunk,2,31
 BCAM4,2023-10,Brush Rabbit,0,31
 BCAM4,2023-10,Californian Sea Lion,0,31
+BCAM4,2023-10,Domestic Cattle,0,31
 BCAM4,2023-10,Elk,0,31
 BCAM4,2023-10,Black-tailed Jackrabbit,0,31
-BCAM4,2023-10,Human-Pedestrian,0,31
 BCAM4,2023-11,American Badger,0,30
 BCAM4,2023-11,Bobcat,3,30
 BCAM4,2023-11,Coyote,8,30
-BCAM4,2023-11,Domestic Cattle,0,30
 BCAM4,2023-11,Domestic Dog,0,30
-BCAM4,2023-11,Human,8,30
-BCAM4,2023-11,Human-Camera Trapper,2,30
+BCAM4,2023-11,Human,1,30
+BCAM4,2023-11,Human-Camera Trapper,1,30
 BCAM4,2023-11,Mule Deer,7,30
 BCAM4,2023-11,North American River Otter,2,30
 BCAM4,2023-11,Northern Elephant Seal,1,30
@@ -2325,16 +2316,15 @@ BCAM4,2023-11,Northern Raccoon,10,30
 BCAM4,2023-11,Striped Skunk,2,30
 BCAM4,2023-11,Brush Rabbit,0,30
 BCAM4,2023-11,Californian Sea Lion,0,30
+BCAM4,2023-11,Domestic Cattle,0,30
 BCAM4,2023-11,Elk,0,30
 BCAM4,2023-11,Black-tailed Jackrabbit,0,30
-BCAM4,2023-11,Human-Pedestrian,0,30
 BCAM4,2024-01,American Badger,0,31
 BCAM4,2024-01,Bobcat,2,31
 BCAM4,2024-01,Coyote,33,31
-BCAM4,2024-01,Domestic Cattle,0,31
 BCAM4,2024-01,Domestic Dog,0,31
-BCAM4,2024-01,Human,1,31
-BCAM4,2024-01,Human-Camera Trapper,5,31
+BCAM4,2024-01,Human,0,31
+BCAM4,2024-01,Human-Camera Trapper,0,31
 BCAM4,2024-01,Mule Deer,1,31
 BCAM4,2024-01,North American River Otter,0,31
 BCAM4,2024-01,Northern Elephant Seal,36,31
@@ -2342,33 +2332,31 @@ BCAM4,2024-01,Northern Raccoon,1,31
 BCAM4,2024-01,Striped Skunk,1,31
 BCAM4,2024-01,Brush Rabbit,0,31
 BCAM4,2024-01,Californian Sea Lion,0,31
+BCAM4,2024-01,Domestic Cattle,0,31
 BCAM4,2024-01,Elk,0,31
 BCAM4,2024-01,Black-tailed Jackrabbit,0,31
-BCAM4,2024-01,Human-Pedestrian,0,31
 BCAM4,2024-03,American Badger,0,31
 BCAM4,2024-03,Bobcat,1,31
 BCAM4,2024-03,Coyote,11,31
-BCAM4,2024-03,Domestic Cattle,0,31
 BCAM4,2024-03,Domestic Dog,0,31
 BCAM4,2024-03,Human,0,31
-BCAM4,2024-03,Human-Camera Trapper,2,31
+BCAM4,2024-03,Human-Camera Trapper,0,31
 BCAM4,2024-03,Mule Deer,1,31
 BCAM4,2024-03,North American River Otter,0,31
-BCAM4,2024-03,Northern Elephant Seal,71,31
+BCAM4,2024-03,Northern Elephant Seal,73,31
 BCAM4,2024-03,Northern Raccoon,0,31
 BCAM4,2024-03,Striped Skunk,0,31
 BCAM4,2024-03,Brush Rabbit,0,31
 BCAM4,2024-03,Californian Sea Lion,0,31
+BCAM4,2024-03,Domestic Cattle,0,31
 BCAM4,2024-03,Elk,0,31
 BCAM4,2024-03,Black-tailed Jackrabbit,0,31
-BCAM4,2024-03,Human-Pedestrian,0,31
 BCAM4,2024-04,American Badger,0,30
 BCAM4,2024-04,Bobcat,2,30
 BCAM4,2024-04,Coyote,22,30
-BCAM4,2024-04,Domestic Cattle,0,30
 BCAM4,2024-04,Domestic Dog,0,30
-BCAM4,2024-04,Human,1,30
-BCAM4,2024-04,Human-Camera Trapper,3,30
+BCAM4,2024-04,Human,0,30
+BCAM4,2024-04,Human-Camera Trapper,0,30
 BCAM4,2024-04,Mule Deer,3,30
 BCAM4,2024-04,North American River Otter,0,30
 BCAM4,2024-04,Northern Elephant Seal,4,30
@@ -2376,16 +2364,15 @@ BCAM4,2024-04,Northern Raccoon,0,30
 BCAM4,2024-04,Striped Skunk,0,30
 BCAM4,2024-04,Brush Rabbit,0,30
 BCAM4,2024-04,Californian Sea Lion,0,30
+BCAM4,2024-04,Domestic Cattle,0,30
 BCAM4,2024-04,Elk,0,30
 BCAM4,2024-04,Black-tailed Jackrabbit,0,30
-BCAM4,2024-04,Human-Pedestrian,0,30
 BCAM4,2024-06,American Badger,0,30
 BCAM4,2024-06,Bobcat,3,30
 BCAM4,2024-06,Coyote,8,30
-BCAM4,2024-06,Domestic Cattle,0,30
 BCAM4,2024-06,Domestic Dog,0,30
-BCAM4,2024-06,Human,12,30
-BCAM4,2024-06,Human-Camera Trapper,5,30
+BCAM4,2024-06,Human,0,30
+BCAM4,2024-06,Human-Camera Trapper,0,30
 BCAM4,2024-06,Mule Deer,5,30
 BCAM4,2024-06,North American River Otter,0,30
 BCAM4,2024-06,Northern Elephant Seal,0,30
@@ -2393,33 +2380,31 @@ BCAM4,2024-06,Northern Raccoon,1,30
 BCAM4,2024-06,Striped Skunk,1,30
 BCAM4,2024-06,Brush Rabbit,0,30
 BCAM4,2024-06,Californian Sea Lion,0,30
+BCAM4,2024-06,Domestic Cattle,0,30
 BCAM4,2024-06,Elk,0,30
 BCAM4,2024-06,Black-tailed Jackrabbit,0,30
-BCAM4,2024-06,Human-Pedestrian,0,30
 BCAM4,2024-07,American Badger,0,31
 BCAM4,2024-07,Bobcat,3,31
 BCAM4,2024-07,Coyote,8,31
-BCAM4,2024-07,Domestic Cattle,0,31
 BCAM4,2024-07,Domestic Dog,0,31
-BCAM4,2024-07,Human,20,31
+BCAM4,2024-07,Human,0,31
 BCAM4,2024-07,Human-Camera Trapper,0,31
 BCAM4,2024-07,Mule Deer,17,31
 BCAM4,2024-07,North American River Otter,0,31
-BCAM4,2024-07,Northern Elephant Seal,0,31
+BCAM4,2024-07,Northern Elephant Seal,1,31
 BCAM4,2024-07,Northern Raccoon,2,31
 BCAM4,2024-07,Striped Skunk,0,31
 BCAM4,2024-07,Brush Rabbit,0,31
 BCAM4,2024-07,Californian Sea Lion,0,31
+BCAM4,2024-07,Domestic Cattle,0,31
 BCAM4,2024-07,Elk,0,31
 BCAM4,2024-07,Black-tailed Jackrabbit,0,31
-BCAM4,2024-07,Human-Pedestrian,0,31
 BCAM4,2024-08,American Badger,0,31
 BCAM4,2024-08,Bobcat,3,31
 BCAM4,2024-08,Coyote,11,31
-BCAM4,2024-08,Domestic Cattle,0,31
 BCAM4,2024-08,Domestic Dog,0,31
-BCAM4,2024-08,Human,14,31
-BCAM4,2024-08,Human-Camera Trapper,2,31
+BCAM4,2024-08,Human,0,31
+BCAM4,2024-08,Human-Camera Trapper,0,31
 BCAM4,2024-08,Mule Deer,12,31
 BCAM4,2024-08,North American River Otter,0,31
 BCAM4,2024-08,Northern Elephant Seal,0,31
@@ -2427,16 +2412,15 @@ BCAM4,2024-08,Northern Raccoon,2,31
 BCAM4,2024-08,Striped Skunk,0,31
 BCAM4,2024-08,Brush Rabbit,0,31
 BCAM4,2024-08,Californian Sea Lion,0,31
+BCAM4,2024-08,Domestic Cattle,0,31
 BCAM4,2024-08,Elk,0,31
 BCAM4,2024-08,Black-tailed Jackrabbit,0,31
-BCAM4,2024-08,Human-Pedestrian,0,31
 BCAM4,2024-09,American Badger,0,30
 BCAM4,2024-09,Bobcat,1,30
 BCAM4,2024-09,Coyote,7,30
-BCAM4,2024-09,Domestic Cattle,0,30
 BCAM4,2024-09,Domestic Dog,0,30
-BCAM4,2024-09,Human,18,30
-BCAM4,2024-09,Human-Camera Trapper,2,30
+BCAM4,2024-09,Human,12,30
+BCAM4,2024-09,Human-Camera Trapper,1,30
 BCAM4,2024-09,Mule Deer,20,30
 BCAM4,2024-09,North American River Otter,0,30
 BCAM4,2024-09,Northern Elephant Seal,0,30
@@ -2444,16 +2428,15 @@ BCAM4,2024-09,Northern Raccoon,11,30
 BCAM4,2024-09,Striped Skunk,0,30
 BCAM4,2024-09,Brush Rabbit,0,30
 BCAM4,2024-09,Californian Sea Lion,0,30
+BCAM4,2024-09,Domestic Cattle,0,30
 BCAM4,2024-09,Elk,0,30
 BCAM4,2024-09,Black-tailed Jackrabbit,0,30
-BCAM4,2024-09,Human-Pedestrian,0,30
 BCAM4,2025-01,American Badger,0,18
 BCAM4,2025-01,Bobcat,1,18
 BCAM4,2025-01,Coyote,8,18
-BCAM4,2025-01,Domestic Cattle,0,18
 BCAM4,2025-01,Domestic Dog,0,18
-BCAM4,2025-01,Human,1,18
-BCAM4,2025-01,Human-Camera Trapper,2,18
+BCAM4,2025-01,Human,0,18
+BCAM4,2025-01,Human-Camera Trapper,0,18
 BCAM4,2025-01,Mule Deer,0,18
 BCAM4,2025-01,North American River Otter,0,18
 BCAM4,2025-01,Northern Elephant Seal,16,18
@@ -2461,16 +2444,47 @@ BCAM4,2025-01,Northern Raccoon,0,18
 BCAM4,2025-01,Striped Skunk,0,18
 BCAM4,2025-01,Brush Rabbit,0,18
 BCAM4,2025-01,Californian Sea Lion,0,18
+BCAM4,2025-01,Domestic Cattle,0,18
 BCAM4,2025-01,Elk,0,18
 BCAM4,2025-01,Black-tailed Jackrabbit,0,18
-BCAM4,2025-01,Human-Pedestrian,0,18
+BCAM4,2025-03,American Badger,0,17
+BCAM4,2025-03,Bobcat,1,17
+BCAM4,2025-03,Coyote,13,17
+BCAM4,2025-03,Domestic Dog,0,17
+BCAM4,2025-03,Human,0,17
+BCAM4,2025-03,Human-Camera Trapper,0,17
+BCAM4,2025-03,Mule Deer,0,17
+BCAM4,2025-03,North American River Otter,0,17
+BCAM4,2025-03,Northern Elephant Seal,9,17
+BCAM4,2025-03,Northern Raccoon,0,17
+BCAM4,2025-03,Striped Skunk,0,17
+BCAM4,2025-03,Brush Rabbit,0,17
+BCAM4,2025-03,Californian Sea Lion,0,17
+BCAM4,2025-03,Domestic Cattle,0,17
+BCAM4,2025-03,Elk,0,17
+BCAM4,2025-03,Black-tailed Jackrabbit,0,17
+BCAM4,2025-04,American Badger,0,25
+BCAM4,2025-04,Bobcat,3,25
+BCAM4,2025-04,Coyote,12,25
+BCAM4,2025-04,Domestic Dog,0,25
+BCAM4,2025-04,Human,0,25
+BCAM4,2025-04,Human-Camera Trapper,0,25
+BCAM4,2025-04,Mule Deer,4,25
+BCAM4,2025-04,North American River Otter,0,25
+BCAM4,2025-04,Northern Elephant Seal,0,25
+BCAM4,2025-04,Northern Raccoon,0,25
+BCAM4,2025-04,Striped Skunk,0,25
+BCAM4,2025-04,Brush Rabbit,0,25
+BCAM4,2025-04,Californian Sea Lion,0,25
+BCAM4,2025-04,Domestic Cattle,0,25
+BCAM4,2025-04,Elk,0,25
+BCAM4,2025-04,Black-tailed Jackrabbit,0,25
 BCAM4,2022-12,American Badger,0,11
 BCAM4,2022-12,Bobcat,0,11
 BCAM4,2022-12,Coyote,7,11
-BCAM4,2022-12,Domestic Cattle,0,11
 BCAM4,2022-12,Domestic Dog,0,11
-BCAM4,2022-12,Human,8,11
-BCAM4,2022-12,Human-Camera Trapper,3,11
+BCAM4,2022-12,Human,0,11
+BCAM4,2022-12,Human-Camera Trapper,0,11
 BCAM4,2022-12,Mule Deer,1,11
 BCAM4,2022-12,North American River Otter,0,11
 BCAM4,2022-12,Northern Elephant Seal,42,11
@@ -2478,16 +2492,15 @@ BCAM4,2022-12,Northern Raccoon,0,11
 BCAM4,2022-12,Striped Skunk,0,11
 BCAM4,2022-12,Brush Rabbit,0,11
 BCAM4,2022-12,Californian Sea Lion,0,11
+BCAM4,2022-12,Domestic Cattle,0,11
 BCAM4,2022-12,Elk,0,11
 BCAM4,2022-12,Black-tailed Jackrabbit,0,11
-BCAM4,2022-12,Human-Pedestrian,0,11
 BCAM4,2023-01,American Badger,0,31
 BCAM4,2023-01,Bobcat,0,31
 BCAM4,2023-01,Coyote,25,31
-BCAM4,2023-01,Domestic Cattle,0,31
 BCAM4,2023-01,Domestic Dog,0,31
-BCAM4,2023-01,Human,9,31
-BCAM4,2023-01,Human-Camera Trapper,1,31
+BCAM4,2023-01,Human,0,31
+BCAM4,2023-01,Human-Camera Trapper,0,31
 BCAM4,2023-01,Mule Deer,0,31
 BCAM4,2023-01,North American River Otter,0,31
 BCAM4,2023-01,Northern Elephant Seal,163,31
@@ -2495,15 +2508,14 @@ BCAM4,2023-01,Northern Raccoon,0,31
 BCAM4,2023-01,Striped Skunk,0,31
 BCAM4,2023-01,Brush Rabbit,0,31
 BCAM4,2023-01,Californian Sea Lion,0,31
+BCAM4,2023-01,Domestic Cattle,0,31
 BCAM4,2023-01,Elk,0,31
 BCAM4,2023-01,Black-tailed Jackrabbit,0,31
-BCAM4,2023-01,Human-Pedestrian,0,31
 BCAM4,2023-02,American Badger,0,28
 BCAM4,2023-02,Bobcat,0,28
 BCAM4,2023-02,Coyote,22,28
-BCAM4,2023-02,Domestic Cattle,0,28
 BCAM4,2023-02,Domestic Dog,0,28
-BCAM4,2023-02,Human,2,28
+BCAM4,2023-02,Human,0,28
 BCAM4,2023-02,Human-Camera Trapper,0,28
 BCAM4,2023-02,Mule Deer,1,28
 BCAM4,2023-02,North American River Otter,0,28
@@ -2512,15 +2524,14 @@ BCAM4,2023-02,Northern Raccoon,0,28
 BCAM4,2023-02,Striped Skunk,0,28
 BCAM4,2023-02,Brush Rabbit,0,28
 BCAM4,2023-02,Californian Sea Lion,0,28
+BCAM4,2023-02,Domestic Cattle,0,28
 BCAM4,2023-02,Elk,0,28
 BCAM4,2023-02,Black-tailed Jackrabbit,0,28
-BCAM4,2023-02,Human-Pedestrian,0,28
 BCAM4,2023-03,American Badger,0,13
 BCAM4,2023-03,Bobcat,0,13
 BCAM4,2023-03,Coyote,21,13
-BCAM4,2023-03,Domestic Cattle,0,13
 BCAM4,2023-03,Domestic Dog,0,13
-BCAM4,2023-03,Human,2,13
+BCAM4,2023-03,Human,0,13
 BCAM4,2023-03,Human-Camera Trapper,0,13
 BCAM4,2023-03,Mule Deer,0,13
 BCAM4,2023-03,North American River Otter,0,13
@@ -2529,16 +2540,15 @@ BCAM4,2023-03,Northern Raccoon,0,13
 BCAM4,2023-03,Striped Skunk,0,13
 BCAM4,2023-03,Brush Rabbit,0,13
 BCAM4,2023-03,Californian Sea Lion,0,13
+BCAM4,2023-03,Domestic Cattle,0,13
 BCAM4,2023-03,Elk,0,13
 BCAM4,2023-03,Black-tailed Jackrabbit,0,13
-BCAM4,2023-03,Human-Pedestrian,0,13
 BCAM4,2024-02,American Badger,0,29
 BCAM4,2024-02,Bobcat,0,29
 BCAM4,2024-02,Coyote,6,29
-BCAM4,2024-02,Domestic Cattle,0,29
 BCAM4,2024-02,Domestic Dog,0,29
 BCAM4,2024-02,Human,0,29
-BCAM4,2024-02,Human-Camera Trapper,2,29
+BCAM4,2024-02,Human-Camera Trapper,0,29
 BCAM4,2024-02,Mule Deer,0,29
 BCAM4,2024-02,North American River Otter,0,29
 BCAM4,2024-02,Northern Elephant Seal,105,29
@@ -2546,16 +2556,15 @@ BCAM4,2024-02,Northern Raccoon,0,29
 BCAM4,2024-02,Striped Skunk,0,29
 BCAM4,2024-02,Brush Rabbit,0,29
 BCAM4,2024-02,Californian Sea Lion,0,29
+BCAM4,2024-02,Domestic Cattle,0,29
 BCAM4,2024-02,Elk,0,29
 BCAM4,2024-02,Black-tailed Jackrabbit,0,29
-BCAM4,2024-02,Human-Pedestrian,0,29
 BCAM4,2024-05,American Badger,0,31
 BCAM4,2024-05,Bobcat,0,31
 BCAM4,2024-05,Coyote,8,31
-BCAM4,2024-05,Domestic Cattle,0,31
 BCAM4,2024-05,Domestic Dog,0,31
 BCAM4,2024-05,Human,0,31
-BCAM4,2024-05,Human-Camera Trapper,2,31
+BCAM4,2024-05,Human-Camera Trapper,0,31
 BCAM4,2024-05,Mule Deer,4,31
 BCAM4,2024-05,North American River Otter,0,31
 BCAM4,2024-05,Northern Elephant Seal,0,31
@@ -2563,13 +2572,12 @@ BCAM4,2024-05,Northern Raccoon,1,31
 BCAM4,2024-05,Striped Skunk,0,31
 BCAM4,2024-05,Brush Rabbit,0,31
 BCAM4,2024-05,Californian Sea Lion,0,31
+BCAM4,2024-05,Domestic Cattle,0,31
 BCAM4,2024-05,Elk,0,31
 BCAM4,2024-05,Black-tailed Jackrabbit,0,31
-BCAM4,2024-05,Human-Pedestrian,0,31
 BCAM4,2024-10,American Badger,0,31
 BCAM4,2024-10,Bobcat,0,31
 BCAM4,2024-10,Coyote,8,31
-BCAM4,2024-10,Domestic Cattle,0,31
 BCAM4,2024-10,Domestic Dog,1,31
 BCAM4,2024-10,Human,7,31
 BCAM4,2024-10,Human-Camera Trapper,2,31
@@ -2580,16 +2588,15 @@ BCAM4,2024-10,Northern Raccoon,5,31
 BCAM4,2024-10,Striped Skunk,4,31
 BCAM4,2024-10,Brush Rabbit,0,31
 BCAM4,2024-10,Californian Sea Lion,0,31
+BCAM4,2024-10,Domestic Cattle,0,31
 BCAM4,2024-10,Elk,0,31
 BCAM4,2024-10,Black-tailed Jackrabbit,0,31
-BCAM4,2024-10,Human-Pedestrian,0,31
 BCAM4,2024-11,American Badger,0,30
 BCAM4,2024-11,Bobcat,0,30
 BCAM4,2024-11,Coyote,14,30
-BCAM4,2024-11,Domestic Cattle,0,30
 BCAM4,2024-11,Domestic Dog,0,30
-BCAM4,2024-11,Human,5,30
-BCAM4,2024-11,Human-Camera Trapper,2,30
+BCAM4,2024-11,Human,0,30
+BCAM4,2024-11,Human-Camera Trapper,1,30
 BCAM4,2024-11,Mule Deer,10,30
 BCAM4,2024-11,North American River Otter,0,30
 BCAM4,2024-11,Northern Elephant Seal,0,30
@@ -2597,33 +2604,31 @@ BCAM4,2024-11,Northern Raccoon,4,30
 BCAM4,2024-11,Striped Skunk,6,30
 BCAM4,2024-11,Brush Rabbit,0,30
 BCAM4,2024-11,Californian Sea Lion,0,30
+BCAM4,2024-11,Domestic Cattle,0,30
 BCAM4,2024-11,Elk,0,30
 BCAM4,2024-11,Black-tailed Jackrabbit,0,30
-BCAM4,2024-11,Human-Pedestrian,0,30
 BCAM4,2024-12,American Badger,0,31
 BCAM4,2024-12,Bobcat,0,31
 BCAM4,2024-12,Coyote,7,31
-BCAM4,2024-12,Domestic Cattle,0,31
 BCAM4,2024-12,Domestic Dog,0,31
-BCAM4,2024-12,Human,3,31
-BCAM4,2024-12,Human-Camera Trapper,2,31
+BCAM4,2024-12,Human,0,31
+BCAM4,2024-12,Human-Camera Trapper,0,31
 BCAM4,2024-12,Mule Deer,3,31
 BCAM4,2024-12,North American River Otter,0,31
-BCAM4,2024-12,Northern Elephant Seal,0,31
+BCAM4,2024-12,Northern Elephant Seal,9,31
 BCAM4,2024-12,Northern Raccoon,0,31
 BCAM4,2024-12,Striped Skunk,0,31
 BCAM4,2024-12,Brush Rabbit,0,31
 BCAM4,2024-12,Californian Sea Lion,0,31
+BCAM4,2024-12,Domestic Cattle,0,31
 BCAM4,2024-12,Elk,0,31
 BCAM4,2024-12,Black-tailed Jackrabbit,0,31
-BCAM4,2024-12,Human-Pedestrian,0,31
 BCAM4,2025-02,American Badger,0,12
 BCAM4,2025-02,Bobcat,0,12
 BCAM4,2025-02,Coyote,7,12
-BCAM4,2025-02,Domestic Cattle,0,12
 BCAM4,2025-02,Domestic Dog,0,12
 BCAM4,2025-02,Human,0,12
-BCAM4,2025-02,Human-Camera Trapper,1,12
+BCAM4,2025-02,Human-Camera Trapper,0,12
 BCAM4,2025-02,Mule Deer,0,12
 BCAM4,2025-02,North American River Otter,0,12
 BCAM4,2025-02,Northern Elephant Seal,5,12
@@ -2631,15 +2636,14 @@ BCAM4,2025-02,Northern Raccoon,0,12
 BCAM4,2025-02,Striped Skunk,0,12
 BCAM4,2025-02,Brush Rabbit,0,12
 BCAM4,2025-02,Californian Sea Lion,0,12
+BCAM4,2025-02,Domestic Cattle,0,12
 BCAM4,2025-02,Elk,0,12
 BCAM4,2025-02,Black-tailed Jackrabbit,0,12
-BCAM4,2025-02,Human-Pedestrian,0,12
 BCAM5,2022-12,American Badger,0,10
 BCAM5,2022-12,Bobcat,0,10
 BCAM5,2022-12,Coyote,12,10
-BCAM5,2022-12,Domestic Cattle,0,10
 BCAM5,2022-12,Domestic Dog,0,10
-BCAM5,2022-12,Human,7,10
+BCAM5,2022-12,Human,0,10
 BCAM5,2022-12,Human-Camera Trapper,0,10
 BCAM5,2022-12,Mule Deer,0,10
 BCAM5,2022-12,North American River Otter,0,10
@@ -2648,15 +2652,14 @@ BCAM5,2022-12,Northern Raccoon,0,10
 BCAM5,2022-12,Striped Skunk,0,10
 BCAM5,2022-12,Brush Rabbit,0,10
 BCAM5,2022-12,Californian Sea Lion,0,10
+BCAM5,2022-12,Domestic Cattle,0,10
 BCAM5,2022-12,Elk,0,10
 BCAM5,2022-12,Black-tailed Jackrabbit,0,10
-BCAM5,2022-12,Human-Pedestrian,0,10
 BCAM5,2023-01,American Badger,0,5
 BCAM5,2023-01,Bobcat,0,5
 BCAM5,2023-01,Coyote,6,5
-BCAM5,2023-01,Domestic Cattle,0,5
 BCAM5,2023-01,Domestic Dog,0,5
-BCAM5,2023-01,Human,2,5
+BCAM5,2023-01,Human,0,5
 BCAM5,2023-01,Human-Camera Trapper,0,5
 BCAM5,2023-01,Mule Deer,0,5
 BCAM5,2023-01,North American River Otter,0,5
@@ -2665,16 +2668,15 @@ BCAM5,2023-01,Northern Raccoon,0,5
 BCAM5,2023-01,Striped Skunk,0,5
 BCAM5,2023-01,Brush Rabbit,0,5
 BCAM5,2023-01,Californian Sea Lion,0,5
+BCAM5,2023-01,Domestic Cattle,0,5
 BCAM5,2023-01,Elk,0,5
 BCAM5,2023-01,Black-tailed Jackrabbit,0,5
-BCAM5,2023-01,Human-Pedestrian,0,5
 BCAM6,2023-01,American Badger,0,31
 BCAM6,2023-01,Bobcat,0,31
 BCAM6,2023-01,Coyote,21,31
-BCAM6,2023-01,Domestic Cattle,0,31
 BCAM6,2023-01,Domestic Dog,0,31
-BCAM6,2023-01,Human,5,31
-BCAM6,2023-01,Human-Camera Trapper,1,31
+BCAM6,2023-01,Human,0,31
+BCAM6,2023-01,Human-Camera Trapper,0,31
 BCAM6,2023-01,Mule Deer,0,31
 BCAM6,2023-01,North American River Otter,0,31
 BCAM6,2023-01,Northern Elephant Seal,77,31
@@ -2682,13 +2684,12 @@ BCAM6,2023-01,Northern Raccoon,0,31
 BCAM6,2023-01,Striped Skunk,2,31
 BCAM6,2023-01,Brush Rabbit,1,31
 BCAM6,2023-01,Californian Sea Lion,0,31
+BCAM6,2023-01,Domestic Cattle,0,31
 BCAM6,2023-01,Elk,0,31
 BCAM6,2023-01,Black-tailed Jackrabbit,0,31
-BCAM6,2023-01,Human-Pedestrian,0,31
 BCAM6,2023-02,American Badger,0,28
 BCAM6,2023-02,Bobcat,0,28
 BCAM6,2023-02,Coyote,36,28
-BCAM6,2023-02,Domestic Cattle,0,28
 BCAM6,2023-02,Domestic Dog,0,28
 BCAM6,2023-02,Human,0,28
 BCAM6,2023-02,Human-Camera Trapper,0,28
@@ -2699,15 +2700,14 @@ BCAM6,2023-02,Northern Raccoon,0,28
 BCAM6,2023-02,Striped Skunk,0,28
 BCAM6,2023-02,Brush Rabbit,0,28
 BCAM6,2023-02,Californian Sea Lion,0,28
+BCAM6,2023-02,Domestic Cattle,0,28
 BCAM6,2023-02,Elk,0,28
 BCAM6,2023-02,Black-tailed Jackrabbit,0,28
-BCAM6,2023-02,Human-Pedestrian,0,28
 BCAM6,2023-03,American Badger,0,13
 BCAM6,2023-03,Bobcat,0,13
 BCAM6,2023-03,Coyote,21,13
-BCAM6,2023-03,Domestic Cattle,0,13
 BCAM6,2023-03,Domestic Dog,0,13
-BCAM6,2023-03,Human,1,13
+BCAM6,2023-03,Human,0,13
 BCAM6,2023-03,Human-Camera Trapper,0,13
 BCAM6,2023-03,Mule Deer,1,13
 BCAM6,2023-03,North American River Otter,0,13
@@ -2716,16 +2716,15 @@ BCAM6,2023-03,Northern Raccoon,0,13
 BCAM6,2023-03,Striped Skunk,0,13
 BCAM6,2023-03,Brush Rabbit,0,13
 BCAM6,2023-03,Californian Sea Lion,0,13
+BCAM6,2023-03,Domestic Cattle,0,13
 BCAM6,2023-03,Elk,0,13
 BCAM6,2023-03,Black-tailed Jackrabbit,0,13
-BCAM6,2023-03,Human-Pedestrian,0,13
 BCAM6,2022-12,American Badger,0,10
 BCAM6,2022-12,Bobcat,0,10
 BCAM6,2022-12,Coyote,0,10
-BCAM6,2022-12,Domestic Cattle,0,10
 BCAM6,2022-12,Domestic Dog,0,10
-BCAM6,2022-12,Human,2,10
-BCAM6,2022-12,Human-Camera Trapper,1,10
+BCAM6,2022-12,Human,0,10
+BCAM6,2022-12,Human-Camera Trapper,0,10
 BCAM6,2022-12,Mule Deer,1,10
 BCAM6,2022-12,North American River Otter,0,10
 BCAM6,2022-12,Northern Elephant Seal,0,10
@@ -2733,13 +2732,12 @@ BCAM6,2022-12,Northern Raccoon,1,10
 BCAM6,2022-12,Striped Skunk,0,10
 BCAM6,2022-12,Brush Rabbit,0,10
 BCAM6,2022-12,Californian Sea Lion,0,10
+BCAM6,2022-12,Domestic Cattle,0,10
 BCAM6,2022-12,Elk,0,10
 BCAM6,2022-12,Black-tailed Jackrabbit,0,10
-BCAM6,2022-12,Human-Pedestrian,0,10
 BCAM7,2024-09,American Badger,0,25
 BCAM7,2024-09,Bobcat,11,25
 BCAM7,2024-09,Coyote,11,25
-BCAM7,2024-09,Domestic Cattle,0,25
 BCAM7,2024-09,Domestic Dog,0,25
 BCAM7,2024-09,Human,1,25
 BCAM7,2024-09,Human-Camera Trapper,1,25
@@ -2750,13 +2748,12 @@ BCAM7,2024-09,Northern Raccoon,12,25
 BCAM7,2024-09,Striped Skunk,2,25
 BCAM7,2024-09,Brush Rabbit,0,25
 BCAM7,2024-09,Californian Sea Lion,0,25
+BCAM7,2024-09,Domestic Cattle,0,25
 BCAM7,2024-09,Elk,0,25
 BCAM7,2024-09,Black-tailed Jackrabbit,0,25
-BCAM7,2024-09,Human-Pedestrian,0,25
 BCAM7,2024-10,American Badger,0,31
 BCAM7,2024-10,Bobcat,11,31
 BCAM7,2024-10,Coyote,31,31
-BCAM7,2024-10,Domestic Cattle,0,31
 BCAM7,2024-10,Domestic Dog,0,31
 BCAM7,2024-10,Human,0,31
 BCAM7,2024-10,Human-Camera Trapper,2,31
@@ -2767,16 +2764,15 @@ BCAM7,2024-10,Northern Raccoon,17,31
 BCAM7,2024-10,Striped Skunk,8,31
 BCAM7,2024-10,Brush Rabbit,0,31
 BCAM7,2024-10,Californian Sea Lion,0,31
+BCAM7,2024-10,Domestic Cattle,0,31
 BCAM7,2024-10,Elk,0,31
 BCAM7,2024-10,Black-tailed Jackrabbit,0,31
-BCAM7,2024-10,Human-Pedestrian,0,31
 BCAM7,2024-11,American Badger,0,30
 BCAM7,2024-11,Bobcat,3,30
 BCAM7,2024-11,Coyote,18,30
-BCAM7,2024-11,Domestic Cattle,0,30
 BCAM7,2024-11,Domestic Dog,0,30
-BCAM7,2024-11,Human,1,30
-BCAM7,2024-11,Human-Camera Trapper,2,30
+BCAM7,2024-11,Human,0,30
+BCAM7,2024-11,Human-Camera Trapper,1,30
 BCAM7,2024-11,Mule Deer,9,30
 BCAM7,2024-11,North American River Otter,1,30
 BCAM7,2024-11,Northern Elephant Seal,0,30
@@ -2784,16 +2780,15 @@ BCAM7,2024-11,Northern Raccoon,65,30
 BCAM7,2024-11,Striped Skunk,17,30
 BCAM7,2024-11,Brush Rabbit,0,30
 BCAM7,2024-11,Californian Sea Lion,0,30
+BCAM7,2024-11,Domestic Cattle,0,30
 BCAM7,2024-11,Elk,0,30
 BCAM7,2024-11,Black-tailed Jackrabbit,0,30
-BCAM7,2024-11,Human-Pedestrian,0,30
 BCAM7,2024-12,American Badger,0,31
 BCAM7,2024-12,Bobcat,1,31
 BCAM7,2024-12,Coyote,12,31
-BCAM7,2024-12,Domestic Cattle,0,31
 BCAM7,2024-12,Domestic Dog,0,31
 BCAM7,2024-12,Human,0,31
-BCAM7,2024-12,Human-Camera Trapper,2,31
+BCAM7,2024-12,Human-Camera Trapper,0,31
 BCAM7,2024-12,Mule Deer,5,31
 BCAM7,2024-12,North American River Otter,2,31
 BCAM7,2024-12,Northern Elephant Seal,0,31
@@ -2801,33 +2796,47 @@ BCAM7,2024-12,Northern Raccoon,37,31
 BCAM7,2024-12,Striped Skunk,0,31
 BCAM7,2024-12,Brush Rabbit,0,31
 BCAM7,2024-12,Californian Sea Lion,0,31
+BCAM7,2024-12,Domestic Cattle,0,31
 BCAM7,2024-12,Elk,0,31
 BCAM7,2024-12,Black-tailed Jackrabbit,0,31
-BCAM7,2024-12,Human-Pedestrian,0,31
 BCAM7,2025-03,American Badger,0,31
-BCAM7,2025-03,Bobcat,1,31
-BCAM7,2025-03,Coyote,11,31
-BCAM7,2025-03,Domestic Cattle,0,31
+BCAM7,2025-03,Bobcat,3,31
+BCAM7,2025-03,Coyote,21,31
 BCAM7,2025-03,Domestic Dog,0,31
 BCAM7,2025-03,Human,0,31
-BCAM7,2025-03,Human-Camera Trapper,1,31
-BCAM7,2025-03,Mule Deer,5,31
+BCAM7,2025-03,Human-Camera Trapper,0,31
+BCAM7,2025-03,Mule Deer,12,31
 BCAM7,2025-03,North American River Otter,1,31
 BCAM7,2025-03,Northern Elephant Seal,0,31
-BCAM7,2025-03,Northern Raccoon,9,31
+BCAM7,2025-03,Northern Raccoon,41,31
 BCAM7,2025-03,Striped Skunk,0,31
 BCAM7,2025-03,Brush Rabbit,0,31
 BCAM7,2025-03,Californian Sea Lion,0,31
+BCAM7,2025-03,Domestic Cattle,0,31
 BCAM7,2025-03,Elk,0,31
 BCAM7,2025-03,Black-tailed Jackrabbit,0,31
-BCAM7,2025-03,Human-Pedestrian,0,31
+BCAM7,2025-04,American Badger,0,25
+BCAM7,2025-04,Bobcat,3,25
+BCAM7,2025-04,Coyote,22,25
+BCAM7,2025-04,Domestic Dog,0,25
+BCAM7,2025-04,Human,0,25
+BCAM7,2025-04,Human-Camera Trapper,0,25
+BCAM7,2025-04,Mule Deer,17,25
+BCAM7,2025-04,North American River Otter,0,25
+BCAM7,2025-04,Northern Elephant Seal,0,25
+BCAM7,2025-04,Northern Raccoon,24,25
+BCAM7,2025-04,Striped Skunk,0,25
+BCAM7,2025-04,Brush Rabbit,0,25
+BCAM7,2025-04,Californian Sea Lion,0,25
+BCAM7,2025-04,Domestic Cattle,0,25
+BCAM7,2025-04,Elk,0,25
+BCAM7,2025-04,Black-tailed Jackrabbit,0,25
 BCAM7,2025-01,American Badger,0,31
 BCAM7,2025-01,Bobcat,0,31
 BCAM7,2025-01,Coyote,53,31
-BCAM7,2025-01,Domestic Cattle,0,31
 BCAM7,2025-01,Domestic Dog,0,31
 BCAM7,2025-01,Human,0,31
-BCAM7,2025-01,Human-Camera Trapper,2,31
+BCAM7,2025-01,Human-Camera Trapper,0,31
 BCAM7,2025-01,Mule Deer,2,31
 BCAM7,2025-01,North American River Otter,0,31
 BCAM7,2025-01,Northern Elephant Seal,0,31
@@ -2835,16 +2844,15 @@ BCAM7,2025-01,Northern Raccoon,19,31
 BCAM7,2025-01,Striped Skunk,0,31
 BCAM7,2025-01,Brush Rabbit,0,31
 BCAM7,2025-01,Californian Sea Lion,0,31
+BCAM7,2025-01,Domestic Cattle,0,31
 BCAM7,2025-01,Elk,0,31
 BCAM7,2025-01,Black-tailed Jackrabbit,0,31
-BCAM7,2025-01,Human-Pedestrian,0,31
 BCAM7,2025-02,American Badger,0,28
 BCAM7,2025-02,Bobcat,0,28
-BCAM7,2025-02,Coyote,17,28
-BCAM7,2025-02,Domestic Cattle,0,28
+BCAM7,2025-02,Coyote,18,28
 BCAM7,2025-02,Domestic Dog,0,28
 BCAM7,2025-02,Human,0,28
-BCAM7,2025-02,Human-Camera Trapper,4,28
+BCAM7,2025-02,Human-Camera Trapper,0,28
 BCAM7,2025-02,Mule Deer,4,28
 BCAM7,2025-02,North American River Otter,0,28
 BCAM7,2025-02,Northern Elephant Seal,0,28
@@ -2852,16 +2860,15 @@ BCAM7,2025-02,Northern Raccoon,5,28
 BCAM7,2025-02,Striped Skunk,0,28
 BCAM7,2025-02,Brush Rabbit,0,28
 BCAM7,2025-02,Californian Sea Lion,0,28
+BCAM7,2025-02,Domestic Cattle,0,28
 BCAM7,2025-02,Elk,0,28
 BCAM7,2025-02,Black-tailed Jackrabbit,0,28
-BCAM7,2025-02,Human-Pedestrian,0,28
 BCAM9,2024-01,American Badger,0,31
 BCAM9,2024-01,Bobcat,0,31
 BCAM9,2024-01,Coyote,4,31
-BCAM9,2024-01,Domestic Cattle,0,31
 BCAM9,2024-01,Domestic Dog,0,31
-BCAM9,2024-01,Human,1,31
-BCAM9,2024-01,Human-Camera Trapper,4,31
+BCAM9,2024-01,Human,0,31
+BCAM9,2024-01,Human-Camera Trapper,0,31
 BCAM9,2024-01,Mule Deer,0,31
 BCAM9,2024-01,North American River Otter,0,31
 BCAM9,2024-01,Northern Elephant Seal,1,31
@@ -2869,16 +2876,15 @@ BCAM9,2024-01,Northern Raccoon,0,31
 BCAM9,2024-01,Striped Skunk,0,31
 BCAM9,2024-01,Brush Rabbit,0,31
 BCAM9,2024-01,Californian Sea Lion,0,31
+BCAM9,2024-01,Domestic Cattle,0,31
 BCAM9,2024-01,Elk,0,31
 BCAM9,2024-01,Black-tailed Jackrabbit,0,31
-BCAM9,2024-01,Human-Pedestrian,0,31
 BCAM9,2024-02,American Badger,0,29
 BCAM9,2024-02,Bobcat,0,29
 BCAM9,2024-02,Coyote,4,29
-BCAM9,2024-02,Domestic Cattle,0,29
 BCAM9,2024-02,Domestic Dog,0,29
 BCAM9,2024-02,Human,0,29
-BCAM9,2024-02,Human-Camera Trapper,2,29
+BCAM9,2024-02,Human-Camera Trapper,0,29
 BCAM9,2024-02,Mule Deer,0,29
 BCAM9,2024-02,North American River Otter,0,29
 BCAM9,2024-02,Northern Elephant Seal,10,29
@@ -2886,16 +2892,15 @@ BCAM9,2024-02,Northern Raccoon,0,29
 BCAM9,2024-02,Striped Skunk,0,29
 BCAM9,2024-02,Brush Rabbit,0,29
 BCAM9,2024-02,Californian Sea Lion,0,29
+BCAM9,2024-02,Domestic Cattle,0,29
 BCAM9,2024-02,Elk,0,29
 BCAM9,2024-02,Black-tailed Jackrabbit,0,29
-BCAM9,2024-02,Human-Pedestrian,0,29
 BCAM9,2024-04,American Badger,0,30
 BCAM9,2024-04,Bobcat,0,30
 BCAM9,2024-04,Coyote,5,30
-BCAM9,2024-04,Domestic Cattle,0,30
 BCAM9,2024-04,Domestic Dog,0,30
-BCAM9,2024-04,Human,2,30
-BCAM9,2024-04,Human-Camera Trapper,2,30
+BCAM9,2024-04,Human,0,30
+BCAM9,2024-04,Human-Camera Trapper,0,30
 BCAM9,2024-04,Mule Deer,0,30
 BCAM9,2024-04,North American River Otter,0,30
 BCAM9,2024-04,Northern Elephant Seal,0,30
@@ -2903,15 +2908,14 @@ BCAM9,2024-04,Northern Raccoon,3,30
 BCAM9,2024-04,Striped Skunk,0,30
 BCAM9,2024-04,Brush Rabbit,0,30
 BCAM9,2024-04,Californian Sea Lion,0,30
+BCAM9,2024-04,Domestic Cattle,0,30
 BCAM9,2024-04,Elk,0,30
 BCAM9,2024-04,Black-tailed Jackrabbit,0,30
-BCAM9,2024-04,Human-Pedestrian,0,30
 BCAM9,2024-07,American Badger,0,31
 BCAM9,2024-07,Bobcat,0,31
 BCAM9,2024-07,Coyote,1,31
-BCAM9,2024-07,Domestic Cattle,0,31
 BCAM9,2024-07,Domestic Dog,0,31
-BCAM9,2024-07,Human,1,31
+BCAM9,2024-07,Human,0,31
 BCAM9,2024-07,Human-Camera Trapper,0,31
 BCAM9,2024-07,Mule Deer,1,31
 BCAM9,2024-07,North American River Otter,0,31
@@ -2920,16 +2924,15 @@ BCAM9,2024-07,Northern Raccoon,5,31
 BCAM9,2024-07,Striped Skunk,0,31
 BCAM9,2024-07,Brush Rabbit,0,31
 BCAM9,2024-07,Californian Sea Lion,0,31
+BCAM9,2024-07,Domestic Cattle,0,31
 BCAM9,2024-07,Elk,1,31
 BCAM9,2024-07,Black-tailed Jackrabbit,0,31
-BCAM9,2024-07,Human-Pedestrian,0,31
 BCAM9,2024-08,American Badger,0,31
 BCAM9,2024-08,Bobcat,0,31
 BCAM9,2024-08,Coyote,1,31
-BCAM9,2024-08,Domestic Cattle,0,31
 BCAM9,2024-08,Domestic Dog,0,31
-BCAM9,2024-08,Human,3,31
-BCAM9,2024-08,Human-Camera Trapper,2,31
+BCAM9,2024-08,Human,0,31
+BCAM9,2024-08,Human-Camera Trapper,0,31
 BCAM9,2024-08,Mule Deer,0,31
 BCAM9,2024-08,North American River Otter,0,31
 BCAM9,2024-08,Northern Elephant Seal,0,31
@@ -2937,16 +2940,15 @@ BCAM9,2024-08,Northern Raccoon,5,31
 BCAM9,2024-08,Striped Skunk,0,31
 BCAM9,2024-08,Brush Rabbit,0,31
 BCAM9,2024-08,Californian Sea Lion,0,31
+BCAM9,2024-08,Domestic Cattle,0,31
 BCAM9,2024-08,Elk,0,31
 BCAM9,2024-08,Black-tailed Jackrabbit,0,31
-BCAM9,2024-08,Human-Pedestrian,0,31
 BCAM9,2024-11,American Badger,0,30
 BCAM9,2024-11,Bobcat,0,30
 BCAM9,2024-11,Coyote,2,30
-BCAM9,2024-11,Domestic Cattle,0,30
 BCAM9,2024-11,Domestic Dog,0,30
 BCAM9,2024-11,Human,2,30
-BCAM9,2024-11,Human-Camera Trapper,2,30
+BCAM9,2024-11,Human-Camera Trapper,1,30
 BCAM9,2024-11,Mule Deer,0,30
 BCAM9,2024-11,North American River Otter,0,30
 BCAM9,2024-11,Northern Elephant Seal,0,30
@@ -2954,16 +2956,15 @@ BCAM9,2024-11,Northern Raccoon,9,30
 BCAM9,2024-11,Striped Skunk,0,30
 BCAM9,2024-11,Brush Rabbit,0,30
 BCAM9,2024-11,Californian Sea Lion,0,30
+BCAM9,2024-11,Domestic Cattle,0,30
 BCAM9,2024-11,Elk,0,30
 BCAM9,2024-11,Black-tailed Jackrabbit,0,30
-BCAM9,2024-11,Human-Pedestrian,0,30
 BCAM9,2025-01,American Badger,0,31
 BCAM9,2025-01,Bobcat,0,31
 BCAM9,2025-01,Coyote,2,31
-BCAM9,2025-01,Domestic Cattle,0,31
 BCAM9,2025-01,Domestic Dog,0,31
 BCAM9,2025-01,Human,0,31
-BCAM9,2025-01,Human-Camera Trapper,2,31
+BCAM9,2025-01,Human-Camera Trapper,0,31
 BCAM9,2025-01,Mule Deer,0,31
 BCAM9,2025-01,North American River Otter,0,31
 BCAM9,2025-01,Northern Elephant Seal,0,31
@@ -2971,13 +2972,12 @@ BCAM9,2025-01,Northern Raccoon,15,31
 BCAM9,2025-01,Striped Skunk,0,31
 BCAM9,2025-01,Brush Rabbit,0,31
 BCAM9,2025-01,Californian Sea Lion,0,31
+BCAM9,2025-01,Domestic Cattle,0,31
 BCAM9,2025-01,Elk,0,31
 BCAM9,2025-01,Black-tailed Jackrabbit,0,31
-BCAM9,2025-01,Human-Pedestrian,0,31
 BCAM9,2023-09,American Badger,0,26
 BCAM9,2023-09,Bobcat,0,26
 BCAM9,2023-09,Coyote,0,26
-BCAM9,2023-09,Domestic Cattle,0,26
 BCAM9,2023-09,Domestic Dog,0,26
 BCAM9,2023-09,Human,1,26
 BCAM9,2023-09,Human-Camera Trapper,3,26
@@ -2988,13 +2988,12 @@ BCAM9,2023-09,Northern Raccoon,5,26
 BCAM9,2023-09,Striped Skunk,0,26
 BCAM9,2023-09,Brush Rabbit,0,26
 BCAM9,2023-09,Californian Sea Lion,0,26
+BCAM9,2023-09,Domestic Cattle,0,26
 BCAM9,2023-09,Elk,0,26
 BCAM9,2023-09,Black-tailed Jackrabbit,0,26
-BCAM9,2023-09,Human-Pedestrian,0,26
 BCAM9,2023-10,American Badger,0,31
 BCAM9,2023-10,Bobcat,0,31
 BCAM9,2023-10,Coyote,0,31
-BCAM9,2023-10,Domestic Cattle,0,31
 BCAM9,2023-10,Domestic Dog,0,31
 BCAM9,2023-10,Human,4,31
 BCAM9,2023-10,Human-Camera Trapper,1,31
@@ -3005,67 +3004,15 @@ BCAM9,2023-10,Northern Raccoon,13,31
 BCAM9,2023-10,Striped Skunk,0,31
 BCAM9,2023-10,Brush Rabbit,0,31
 BCAM9,2023-10,Californian Sea Lion,0,31
+BCAM9,2023-10,Domestic Cattle,0,31
 BCAM9,2023-10,Elk,0,31
 BCAM9,2023-10,Black-tailed Jackrabbit,0,31
-BCAM9,2023-10,Human-Pedestrian,0,31
-BCAM9,2023-12,American Badger,0,11
-BCAM9,2023-12,Bobcat,0,11
-BCAM9,2023-12,Coyote,0,11
-BCAM9,2023-12,Domestic Cattle,0,11
-BCAM9,2023-12,Domestic Dog,0,11
-BCAM9,2023-12,Human,1,11
-BCAM9,2023-12,Human-Camera Trapper,1,11
-BCAM9,2023-12,Mule Deer,1,11
-BCAM9,2023-12,North American River Otter,0,11
-BCAM9,2023-12,Northern Elephant Seal,1,11
-BCAM9,2023-12,Northern Raccoon,1,11
-BCAM9,2023-12,Striped Skunk,0,11
-BCAM9,2023-12,Brush Rabbit,0,11
-BCAM9,2023-12,Californian Sea Lion,0,11
-BCAM9,2023-12,Elk,0,11
-BCAM9,2023-12,Black-tailed Jackrabbit,0,11
-BCAM9,2023-12,Human-Pedestrian,0,11
-BCAM9,2024-05,American Badger,0,31
-BCAM9,2024-05,Bobcat,0,31
-BCAM9,2024-05,Coyote,0,31
-BCAM9,2024-05,Domestic Cattle,0,31
-BCAM9,2024-05,Domestic Dog,0,31
-BCAM9,2024-05,Human,4,31
-BCAM9,2024-05,Human-Camera Trapper,2,31
-BCAM9,2024-05,Mule Deer,0,31
-BCAM9,2024-05,North American River Otter,0,31
-BCAM9,2024-05,Northern Elephant Seal,0,31
-BCAM9,2024-05,Northern Raccoon,6,31
-BCAM9,2024-05,Striped Skunk,0,31
-BCAM9,2024-05,Brush Rabbit,0,31
-BCAM9,2024-05,Californian Sea Lion,0,31
-BCAM9,2024-05,Elk,0,31
-BCAM9,2024-05,Black-tailed Jackrabbit,0,31
-BCAM9,2024-05,Human-Pedestrian,0,31
-BCAM9,2024-06,American Badger,0,30
-BCAM9,2024-06,Bobcat,0,30
-BCAM9,2024-06,Coyote,0,30
-BCAM9,2024-06,Domestic Cattle,0,30
-BCAM9,2024-06,Domestic Dog,0,30
-BCAM9,2024-06,Human,3,30
-BCAM9,2024-06,Human-Camera Trapper,4,30
-BCAM9,2024-06,Mule Deer,0,30
-BCAM9,2024-06,North American River Otter,0,30
-BCAM9,2024-06,Northern Elephant Seal,0,30
-BCAM9,2024-06,Northern Raccoon,8,30
-BCAM9,2024-06,Striped Skunk,0,30
-BCAM9,2024-06,Brush Rabbit,0,30
-BCAM9,2024-06,Californian Sea Lion,0,30
-BCAM9,2024-06,Elk,0,30
-BCAM9,2024-06,Black-tailed Jackrabbit,0,30
-BCAM9,2024-06,Human-Pedestrian,0,30
 BCAM9,2024-09,American Badger,0,30
 BCAM9,2024-09,Bobcat,0,30
 BCAM9,2024-09,Coyote,0,30
-BCAM9,2024-09,Domestic Cattle,0,30
 BCAM9,2024-09,Domestic Dog,0,30
 BCAM9,2024-09,Human,1,30
-BCAM9,2024-09,Human-Camera Trapper,2,30
+BCAM9,2024-09,Human-Camera Trapper,1,30
 BCAM9,2024-09,Mule Deer,1,30
 BCAM9,2024-09,North American River Otter,0,30
 BCAM9,2024-09,Northern Elephant Seal,0,30
@@ -3073,13 +3020,12 @@ BCAM9,2024-09,Northern Raccoon,1,30
 BCAM9,2024-09,Striped Skunk,0,30
 BCAM9,2024-09,Brush Rabbit,0,30
 BCAM9,2024-09,Californian Sea Lion,0,30
+BCAM9,2024-09,Domestic Cattle,0,30
 BCAM9,2024-09,Elk,0,30
 BCAM9,2024-09,Black-tailed Jackrabbit,0,30
-BCAM9,2024-09,Human-Pedestrian,0,30
 BCAM9,2024-10,American Badger,0,31
 BCAM9,2024-10,Bobcat,0,31
 BCAM9,2024-10,Coyote,0,31
-BCAM9,2024-10,Domestic Cattle,0,31
 BCAM9,2024-10,Domestic Dog,0,31
 BCAM9,2024-10,Human,3,31
 BCAM9,2024-10,Human-Camera Trapper,3,31
@@ -3090,33 +3036,15 @@ BCAM9,2024-10,Northern Raccoon,8,31
 BCAM9,2024-10,Striped Skunk,0,31
 BCAM9,2024-10,Brush Rabbit,0,31
 BCAM9,2024-10,Californian Sea Lion,0,31
+BCAM9,2024-10,Domestic Cattle,0,31
 BCAM9,2024-10,Elk,0,31
 BCAM9,2024-10,Black-tailed Jackrabbit,0,31
-BCAM9,2024-10,Human-Pedestrian,0,31
-BCAM9,2024-12,American Badger,0,31
-BCAM9,2024-12,Bobcat,0,31
-BCAM9,2024-12,Coyote,0,31
-BCAM9,2024-12,Domestic Cattle,0,31
-BCAM9,2024-12,Domestic Dog,0,31
-BCAM9,2024-12,Human,1,31
-BCAM9,2024-12,Human-Camera Trapper,2,31
-BCAM9,2024-12,Mule Deer,0,31
-BCAM9,2024-12,North American River Otter,1,31
-BCAM9,2024-12,Northern Elephant Seal,0,31
-BCAM9,2024-12,Northern Raccoon,14,31
-BCAM9,2024-12,Striped Skunk,0,31
-BCAM9,2024-12,Brush Rabbit,0,31
-BCAM9,2024-12,Californian Sea Lion,0,31
-BCAM9,2024-12,Elk,0,31
-BCAM9,2024-12,Black-tailed Jackrabbit,0,31
-BCAM9,2024-12,Human-Pedestrian,0,31
 BCAM9,2023-11,American Badger,0,11
 BCAM9,2023-11,Bobcat,0,11
 BCAM9,2023-11,Coyote,0,11
-BCAM9,2023-11,Domestic Cattle,0,11
 BCAM9,2023-11,Domestic Dog,0,11
 BCAM9,2023-11,Human,0,11
-BCAM9,2023-11,Human-Camera Trapper,2,11
+BCAM9,2023-11,Human-Camera Trapper,1,11
 BCAM9,2023-11,Mule Deer,0,11
 BCAM9,2023-11,North American River Otter,2,11
 BCAM9,2023-11,Northern Elephant Seal,0,11
@@ -3124,16 +3052,47 @@ BCAM9,2023-11,Northern Raccoon,2,11
 BCAM9,2023-11,Striped Skunk,0,11
 BCAM9,2023-11,Brush Rabbit,0,11
 BCAM9,2023-11,Californian Sea Lion,0,11
+BCAM9,2023-11,Domestic Cattle,0,11
 BCAM9,2023-11,Elk,0,11
 BCAM9,2023-11,Black-tailed Jackrabbit,0,11
-BCAM9,2023-11,Human-Pedestrian,0,11
+BCAM9,2023-12,American Badger,0,11
+BCAM9,2023-12,Bobcat,0,11
+BCAM9,2023-12,Coyote,0,11
+BCAM9,2023-12,Domestic Dog,0,11
+BCAM9,2023-12,Human,0,11
+BCAM9,2023-12,Human-Camera Trapper,0,11
+BCAM9,2023-12,Mule Deer,1,11
+BCAM9,2023-12,North American River Otter,0,11
+BCAM9,2023-12,Northern Elephant Seal,1,11
+BCAM9,2023-12,Northern Raccoon,1,11
+BCAM9,2023-12,Striped Skunk,0,11
+BCAM9,2023-12,Brush Rabbit,0,11
+BCAM9,2023-12,Californian Sea Lion,0,11
+BCAM9,2023-12,Domestic Cattle,0,11
+BCAM9,2023-12,Elk,0,11
+BCAM9,2023-12,Black-tailed Jackrabbit,0,11
+BCAM9,2024-12,American Badger,0,31
+BCAM9,2024-12,Bobcat,0,31
+BCAM9,2024-12,Coyote,0,31
+BCAM9,2024-12,Domestic Dog,0,31
+BCAM9,2024-12,Human,0,31
+BCAM9,2024-12,Human-Camera Trapper,0,31
+BCAM9,2024-12,Mule Deer,0,31
+BCAM9,2024-12,North American River Otter,1,31
+BCAM9,2024-12,Northern Elephant Seal,0,31
+BCAM9,2024-12,Northern Raccoon,14,31
+BCAM9,2024-12,Striped Skunk,0,31
+BCAM9,2024-12,Brush Rabbit,0,31
+BCAM9,2024-12,Californian Sea Lion,0,31
+BCAM9,2024-12,Domestic Cattle,0,31
+BCAM9,2024-12,Elk,0,31
+BCAM9,2024-12,Black-tailed Jackrabbit,0,31
 BCAM9,2024-03,American Badger,0,31
 BCAM9,2024-03,Bobcat,0,31
 BCAM9,2024-03,Coyote,0,31
-BCAM9,2024-03,Domestic Cattle,0,31
 BCAM9,2024-03,Domestic Dog,0,31
 BCAM9,2024-03,Human,0,31
-BCAM9,2024-03,Human-Camera Trapper,2,31
+BCAM9,2024-03,Human-Camera Trapper,0,31
 BCAM9,2024-03,Mule Deer,0,31
 BCAM9,2024-03,North American River Otter,0,31
 BCAM9,2024-03,Northern Elephant Seal,0,31
@@ -3141,30 +3100,92 @@ BCAM9,2024-03,Northern Raccoon,6,31
 BCAM9,2024-03,Striped Skunk,0,31
 BCAM9,2024-03,Brush Rabbit,0,31
 BCAM9,2024-03,Californian Sea Lion,0,31
+BCAM9,2024-03,Domestic Cattle,0,31
 BCAM9,2024-03,Elk,0,31
 BCAM9,2024-03,Black-tailed Jackrabbit,0,31
-BCAM9,2024-03,Human-Pedestrian,0,31
+BCAM9,2024-05,American Badger,0,31
+BCAM9,2024-05,Bobcat,0,31
+BCAM9,2024-05,Coyote,0,31
+BCAM9,2024-05,Domestic Dog,0,31
+BCAM9,2024-05,Human,0,31
+BCAM9,2024-05,Human-Camera Trapper,0,31
+BCAM9,2024-05,Mule Deer,0,31
+BCAM9,2024-05,North American River Otter,0,31
+BCAM9,2024-05,Northern Elephant Seal,0,31
+BCAM9,2024-05,Northern Raccoon,6,31
+BCAM9,2024-05,Striped Skunk,0,31
+BCAM9,2024-05,Brush Rabbit,0,31
+BCAM9,2024-05,Californian Sea Lion,0,31
+BCAM9,2024-05,Domestic Cattle,0,31
+BCAM9,2024-05,Elk,0,31
+BCAM9,2024-05,Black-tailed Jackrabbit,0,31
+BCAM9,2024-06,American Badger,0,30
+BCAM9,2024-06,Bobcat,0,30
+BCAM9,2024-06,Coyote,0,30
+BCAM9,2024-06,Domestic Dog,0,30
+BCAM9,2024-06,Human,0,30
+BCAM9,2024-06,Human-Camera Trapper,0,30
+BCAM9,2024-06,Mule Deer,0,30
+BCAM9,2024-06,North American River Otter,0,30
+BCAM9,2024-06,Northern Elephant Seal,0,30
+BCAM9,2024-06,Northern Raccoon,8,30
+BCAM9,2024-06,Striped Skunk,0,30
+BCAM9,2024-06,Brush Rabbit,0,30
+BCAM9,2024-06,Californian Sea Lion,0,30
+BCAM9,2024-06,Domestic Cattle,0,30
+BCAM9,2024-06,Elk,0,30
+BCAM9,2024-06,Black-tailed Jackrabbit,0,30
 BCAM9,2025-02,American Badger,0,28
 BCAM9,2025-02,Bobcat,0,28
 BCAM9,2025-02,Coyote,0,28
-BCAM9,2025-02,Domestic Cattle,0,28
 BCAM9,2025-02,Domestic Dog,0,28
 BCAM9,2025-02,Human,0,28
-BCAM9,2025-02,Human-Camera Trapper,3,28
+BCAM9,2025-02,Human-Camera Trapper,0,28
 BCAM9,2025-02,Mule Deer,0,28
 BCAM9,2025-02,North American River Otter,0,28
 BCAM9,2025-02,Northern Elephant Seal,0,28
-BCAM9,2025-02,Northern Raccoon,13,28
+BCAM9,2025-02,Northern Raccoon,17,28
 BCAM9,2025-02,Striped Skunk,0,28
 BCAM9,2025-02,Brush Rabbit,0,28
 BCAM9,2025-02,Californian Sea Lion,0,28
+BCAM9,2025-02,Domestic Cattle,0,28
 BCAM9,2025-02,Elk,0,28
 BCAM9,2025-02,Black-tailed Jackrabbit,0,28
-BCAM9,2025-02,Human-Pedestrian,0,28
+BCAM9,2025-03,American Badger,0,31
+BCAM9,2025-03,Bobcat,0,31
+BCAM9,2025-03,Coyote,0,31
+BCAM9,2025-03,Domestic Dog,0,31
+BCAM9,2025-03,Human,0,31
+BCAM9,2025-03,Human-Camera Trapper,0,31
+BCAM9,2025-03,Mule Deer,0,31
+BCAM9,2025-03,North American River Otter,0,31
+BCAM9,2025-03,Northern Elephant Seal,0,31
+BCAM9,2025-03,Northern Raccoon,19,31
+BCAM9,2025-03,Striped Skunk,0,31
+BCAM9,2025-03,Brush Rabbit,0,31
+BCAM9,2025-03,Californian Sea Lion,0,31
+BCAM9,2025-03,Domestic Cattle,0,31
+BCAM9,2025-03,Elk,0,31
+BCAM9,2025-03,Black-tailed Jackrabbit,0,31
+BCAM9,2025-04,American Badger,0,25
+BCAM9,2025-04,Bobcat,0,25
+BCAM9,2025-04,Coyote,0,25
+BCAM9,2025-04,Domestic Dog,0,25
+BCAM9,2025-04,Human,0,25
+BCAM9,2025-04,Human-Camera Trapper,0,25
+BCAM9,2025-04,Mule Deer,0,25
+BCAM9,2025-04,North American River Otter,0,25
+BCAM9,2025-04,Northern Elephant Seal,0,25
+BCAM9,2025-04,Northern Raccoon,8,25
+BCAM9,2025-04,Striped Skunk,0,25
+BCAM9,2025-04,Brush Rabbit,0,25
+BCAM9,2025-04,Californian Sea Lion,0,25
+BCAM9,2025-04,Domestic Cattle,0,25
+BCAM9,2025-04,Elk,0,25
+BCAM9,2025-04,Black-tailed Jackrabbit,0,25
 CA_Beach_PointReyes_Loc03,2023-09,American Badger,0,23
 CA_Beach_PointReyes_Loc03,2023-09,Bobcat,2,23
 CA_Beach_PointReyes_Loc03,2023-09,Coyote,2,23
-CA_Beach_PointReyes_Loc03,2023-09,Domestic Cattle,0,23
 CA_Beach_PointReyes_Loc03,2023-09,Domestic Dog,0,23
 CA_Beach_PointReyes_Loc03,2023-09,Human,9,23
 CA_Beach_PointReyes_Loc03,2023-09,Human-Camera Trapper,3,23
@@ -3175,13 +3196,12 @@ CA_Beach_PointReyes_Loc03,2023-09,Northern Raccoon,63,23
 CA_Beach_PointReyes_Loc03,2023-09,Striped Skunk,0,23
 CA_Beach_PointReyes_Loc03,2023-09,Brush Rabbit,0,23
 CA_Beach_PointReyes_Loc03,2023-09,Californian Sea Lion,0,23
+CA_Beach_PointReyes_Loc03,2023-09,Domestic Cattle,0,23
 CA_Beach_PointReyes_Loc03,2023-09,Elk,0,23
 CA_Beach_PointReyes_Loc03,2023-09,Black-tailed Jackrabbit,0,23
-CA_Beach_PointReyes_Loc03,2023-09,Human-Pedestrian,0,23
 CA_Beach_PointReyes_Loc03,2023-10,American Badger,0,15
 CA_Beach_PointReyes_Loc03,2023-10,Bobcat,0,15
 CA_Beach_PointReyes_Loc03,2023-10,Coyote,11,15
-CA_Beach_PointReyes_Loc03,2023-10,Domestic Cattle,0,15
 CA_Beach_PointReyes_Loc03,2023-10,Domestic Dog,0,15
 CA_Beach_PointReyes_Loc03,2023-10,Human,4,15
 CA_Beach_PointReyes_Loc03,2023-10,Human-Camera Trapper,1,15
@@ -3192,13 +3212,12 @@ CA_Beach_PointReyes_Loc03,2023-10,Northern Raccoon,48,15
 CA_Beach_PointReyes_Loc03,2023-10,Striped Skunk,0,15
 CA_Beach_PointReyes_Loc03,2023-10,Brush Rabbit,0,15
 CA_Beach_PointReyes_Loc03,2023-10,Californian Sea Lion,0,15
+CA_Beach_PointReyes_Loc03,2023-10,Domestic Cattle,0,15
 CA_Beach_PointReyes_Loc03,2023-10,Elk,0,15
 CA_Beach_PointReyes_Loc03,2023-10,Black-tailed Jackrabbit,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Human-Pedestrian,0,15
 CA_Beach_PointReyes_Loc03,2023-11,American Badger,0,4
 CA_Beach_PointReyes_Loc03,2023-11,Bobcat,0,4
 CA_Beach_PointReyes_Loc03,2023-11,Coyote,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Domestic Cattle,0,4
 CA_Beach_PointReyes_Loc03,2023-11,Domestic Dog,0,4
 CA_Beach_PointReyes_Loc03,2023-11,Human,0,4
 CA_Beach_PointReyes_Loc03,2023-11,Human-Camera Trapper,1,4
@@ -3209,6 +3228,6 @@ CA_Beach_PointReyes_Loc03,2023-11,Northern Raccoon,10,4
 CA_Beach_PointReyes_Loc03,2023-11,Striped Skunk,0,4
 CA_Beach_PointReyes_Loc03,2023-11,Brush Rabbit,0,4
 CA_Beach_PointReyes_Loc03,2023-11,Californian Sea Lion,0,4
+CA_Beach_PointReyes_Loc03,2023-11,Domestic Cattle,0,4
 CA_Beach_PointReyes_Loc03,2023-11,Elk,0,4
 CA_Beach_PointReyes_Loc03,2023-11,Black-tailed Jackrabbit,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Human-Pedestrian,0,4
