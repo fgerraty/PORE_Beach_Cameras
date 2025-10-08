@@ -11,12 +11,19 @@
 
 #PORE Beach Camera Project Data
 PORE_deployments <- read_csv("data/raw/PORE_deployments.csv") 
-PORE_sequences <- read_csv("data/raw/PORE_sequences.csv") 
+PORE_sequences <- read_csv("data/raw/PORE_sequences.csv",
+                           col_types = cols(
+                             sex = col_character(),
+                             age = col_character()
+                           )) 
 
 #Snapshot USA 2023 Data
 SnapshotUSA_2023_Deployments <- read_csv("data/raw/SnapshotUSA_2023_Deployments.csv") %>%
   mutate(deployment_id = paste0(deployment_id, "_2023")) 
-SnapshotUSA_2023_Sequences <- read_csv("data/raw/SnapshotUSA_2023_Sequences.csv") %>% 
+SnapshotUSA_2023_Sequences <- read_csv("data/raw/SnapshotUSA_2023_Sequences.csv",
+                                       col_types = cols(
+                                         sex = col_character(),
+                                         age = col_character())) %>% 
   mutate(deployment_id = paste0(deployment_id, "_2023"))
 
 
