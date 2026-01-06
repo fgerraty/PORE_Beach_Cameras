@@ -10,6 +10,7 @@
 #################################
 
 #PORE Beach Camera Project Data
+PORE_sites <- read_csv("data/raw/PORE_sites.csv") 
 PORE_deployments <- read_csv("data/raw/PORE_deployments.csv") 
 PORE_sequences <- read_csv("data/raw/PORE_sequences.csv",
                            col_types = cols(
@@ -52,7 +53,7 @@ deployments <- bind_rows(PORE_deployments,
     placename == "CA_Beach_PointReyes_Loc01" ~ "BCAM14",
     placename == "CA_Beach_PointReyes_Loc2" ~ "BCAM9",
     placename == "CA_Beach_PointReyes_Loc02" ~ "BCAM9",
-    #  placename == "CA_Beach_PointReyes_Loc3" ~ "SNAP3",  #No BCAM name for SNAP3 
+    placename == "CA_Beach_PointReyes_Loc03" ~ "BCAM8",
     placename == "CA_Beach_PointReyes_Loc4" ~ "BCAM3",
     placename == "CA_Beach_PointReyes_Loc04" ~ "BCAM3",
     placename == "CA_Beach_PointReyes_Loc5" ~ "BCAM26",
@@ -66,8 +67,12 @@ deployments <- bind_rows(PORE_deployments,
     placename == "CA_Beach_PointReyes_Loc9" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc09" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc10" ~ "BCAM7", 
-    .default = placename))
-
+    .default = placename)) %>% 
+  
+  #Append accurate site metadata
+  select(-latitude, -longitude) %>% 
+  left_join(PORE_sites, by = join_by(placename))
+  
 
 sequences <- rbind(PORE_sequences, 
                    SnapshotUSA_2023_Sequences,
@@ -84,7 +89,7 @@ sequences <- rbind(PORE_sequences,
     placename == "CA_Beach_PointReyes_Loc01" ~ "BCAM14",
     placename == "CA_Beach_PointReyes_Loc2" ~ "BCAM9",
     placename == "CA_Beach_PointReyes_Loc02" ~ "BCAM9",
-    #  placename == "CA_Beach_PointReyes_Loc3" ~ "SNAP3",  #No BCAM name for SNAP3 
+    placename == "CA_Beach_PointReyes_Loc03" ~ "BCAM8",
     placename == "CA_Beach_PointReyes_Loc4" ~ "BCAM3",
     placename == "CA_Beach_PointReyes_Loc04" ~ "BCAM3",
     placename == "CA_Beach_PointReyes_Loc5" ~ "BCAM26",
@@ -101,7 +106,10 @@ sequences <- rbind(PORE_sequences,
     .default = placename),
     
     #Ensure all blank photos have a value of 1 in the is_blank column
-    is_blank = if_else(common_name == "Blank", 1,0))
+    is_blank = if_else(common_name == "Blank", 1,0)) %>% 
+  
+    #Append accurate site metadata
+    left_join(PORE_sites, by = join_by(placename))
 
 
 ######################################

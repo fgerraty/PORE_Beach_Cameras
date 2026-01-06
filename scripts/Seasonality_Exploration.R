@@ -4,6 +4,8 @@
 #####################################
 
 #Import data
+
+PORE_sites <- read_csv("data/raw/PORE_sites.csv") 
 summarized_detection_rate_monthly <- read_csv("data/processed/summarized_detection_rate_monthly.csv")   
 summarized_detection_rate_monthly_wide <- read_csv("data/processed/summarized_detection_rate_monthly_wide.csv")   
 summarized_detection_rate_weekly <- read_csv("data/processed/summarized_detection_rate_weekly.csv") %>% 

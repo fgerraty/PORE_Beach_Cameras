@@ -9,6 +9,9 @@
 # PART 1: Import Data ######
 ############################
 
+#Import site data
+PORE_sites <- read_csv("data/raw/PORE_sites.csv") 
+
 #Import clean deployment data
 deployments <- read.csv("data/processed/deployments.csv") %>% 
   # Convert columns to date-times 
@@ -100,3 +103,37 @@ independent_mammal_detections %>% group_by(common_name) %>% summarize(n())
 
 write_csv(independent_mammal_detections, 
           "data/processed/independent_mammal_detections.csv")   
+
+
+######################################
+# PART 5: Plot Detection Summary #####
+######################################
+
+mammal_detections <- independent_mammal_detections %>% 
+  #Remove irrelevant taxa 
+  filter(! common_name %in% c("Human-Camera Trapper", "Northern Elephant Seal", "Californian Sea Lion")) %>% 
+  #Append metadata
+  left_join(PORE_sites, by = join_by(placename)) %>% 
+  #Count detections for each species by beach
+  group_by(common_name, beach) %>% 
+  summarize(n = n()) %>% 
+  ungroup() %>% 
+  #Turn common name into a factor organized by declining detection rates on both beaches
+  group_by(common_name) %>% 
+  mutate(total_n = sum(n)) %>% 
+  ungroup() %>% 
+  mutate(common_name = fct_reorder(common_name, total_n, .desc = TRUE))
+
+mammal_detection_summary_plot <- ggplot(mammal_detections, aes(x=common_name, y=n, fill = beach))+
+  geom_bar(stat = "identity")+
+  labs(x="", y="Number of Independent Detections", fill = "Beach")+
+  scale_fill_manual(values = c("#608cf7", "#e89a50"), labels = c("Drakes Beach", "Point Reyes Beach"))+
+  theme_custom()+
+  theme(axis.text.x = element_text(face = "bold", angle = 45, hjust = 1, vjust = 1),
+        legend.position = "inside",
+        legend.position.inside = c(.7, .7))
+
+#Export Plot
+ggsave("output/mammal_detection_summary.png", mammal_detection_summary_plot, 
+       width = 7, height = 5, units = "in", dpi = 600)
+  

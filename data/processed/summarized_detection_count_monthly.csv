@@ -3183,51 +3183,51 @@ BCAM9,2025-04,Californian Sea Lion,0,25
 BCAM9,2025-04,Domestic Cattle,0,25
 BCAM9,2025-04,Elk,0,25
 BCAM9,2025-04,Black-tailed Jackrabbit,0,25
-CA_Beach_PointReyes_Loc03,2023-09,American Badger,0,23
-CA_Beach_PointReyes_Loc03,2023-09,Bobcat,2,23
-CA_Beach_PointReyes_Loc03,2023-09,Coyote,2,23
-CA_Beach_PointReyes_Loc03,2023-09,Domestic Dog,0,23
-CA_Beach_PointReyes_Loc03,2023-09,Human,9,23
-CA_Beach_PointReyes_Loc03,2023-09,Human-Camera Trapper,3,23
-CA_Beach_PointReyes_Loc03,2023-09,Mule Deer,20,23
-CA_Beach_PointReyes_Loc03,2023-09,North American River Otter,58,23
-CA_Beach_PointReyes_Loc03,2023-09,Northern Elephant Seal,0,23
-CA_Beach_PointReyes_Loc03,2023-09,Northern Raccoon,63,23
-CA_Beach_PointReyes_Loc03,2023-09,Striped Skunk,0,23
-CA_Beach_PointReyes_Loc03,2023-09,Brush Rabbit,0,23
-CA_Beach_PointReyes_Loc03,2023-09,Californian Sea Lion,0,23
-CA_Beach_PointReyes_Loc03,2023-09,Domestic Cattle,0,23
-CA_Beach_PointReyes_Loc03,2023-09,Elk,0,23
-CA_Beach_PointReyes_Loc03,2023-09,Black-tailed Jackrabbit,0,23
-CA_Beach_PointReyes_Loc03,2023-10,American Badger,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Bobcat,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Coyote,11,15
-CA_Beach_PointReyes_Loc03,2023-10,Domestic Dog,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Human,4,15
-CA_Beach_PointReyes_Loc03,2023-10,Human-Camera Trapper,1,15
-CA_Beach_PointReyes_Loc03,2023-10,Mule Deer,8,15
-CA_Beach_PointReyes_Loc03,2023-10,North American River Otter,29,15
-CA_Beach_PointReyes_Loc03,2023-10,Northern Elephant Seal,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Northern Raccoon,48,15
-CA_Beach_PointReyes_Loc03,2023-10,Striped Skunk,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Brush Rabbit,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Californian Sea Lion,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Domestic Cattle,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Elk,0,15
-CA_Beach_PointReyes_Loc03,2023-10,Black-tailed Jackrabbit,0,15
-CA_Beach_PointReyes_Loc03,2023-11,American Badger,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Bobcat,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Coyote,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Domestic Dog,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Human,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Human-Camera Trapper,1,4
-CA_Beach_PointReyes_Loc03,2023-11,Mule Deer,2,4
-CA_Beach_PointReyes_Loc03,2023-11,North American River Otter,6,4
-CA_Beach_PointReyes_Loc03,2023-11,Northern Elephant Seal,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Northern Raccoon,10,4
-CA_Beach_PointReyes_Loc03,2023-11,Striped Skunk,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Brush Rabbit,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Californian Sea Lion,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Domestic Cattle,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Elk,0,4
-CA_Beach_PointReyes_Loc03,2023-11,Black-tailed Jackrabbit,0,4
+CA_Beach_PointReyes_Loc03,2023-09,American Badger,0,NA
+CA_Beach_PointReyes_Loc03,2023-09,Bobcat,2,NA
+CA_Beach_PointReyes_Loc03,2023-09,Coyote,2,NA
+CA_Beach_PointReyes_Loc03,2023-09,Domestic Dog,0,NA
+CA_Beach_PointReyes_Loc03,2023-09,Human,9,NA
+CA_Beach_PointReyes_Loc03,2023-09,Human-Camera Trapper,3,NA
+CA_Beach_PointReyes_Loc03,2023-09,Mule Deer,20,NA
+CA_Beach_PointReyes_Loc03,2023-09,North American River Otter,58,NA
+CA_Beach_PointReyes_Loc03,2023-09,Northern Elephant Seal,0,NA
+CA_Beach_PointReyes_Loc03,2023-09,Northern Raccoon,63,NA
+CA_Beach_PointReyes_Loc03,2023-09,Striped Skunk,0,NA
+CA_Beach_PointReyes_Loc03,2023-09,Brush Rabbit,0,NA
+CA_Beach_PointReyes_Loc03,2023-09,Californian Sea Lion,0,NA
+CA_Beach_PointReyes_Loc03,2023-09,Domestic Cattle,0,NA
+CA_Beach_PointReyes_Loc03,2023-09,Elk,0,NA
+CA_Beach_PointReyes_Loc03,2023-09,Black-tailed Jackrabbit,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,American Badger,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,Bobcat,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,Coyote,11,NA
+CA_Beach_PointReyes_Loc03,2023-10,Domestic Dog,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,Human,4,NA
+CA_Beach_PointReyes_Loc03,2023-10,Human-Camera Trapper,1,NA
+CA_Beach_PointReyes_Loc03,2023-10,Mule Deer,8,NA
+CA_Beach_PointReyes_Loc03,2023-10,North American River Otter,29,NA
+CA_Beach_PointReyes_Loc03,2023-10,Northern Elephant Seal,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,Northern Raccoon,48,NA
+CA_Beach_PointReyes_Loc03,2023-10,Striped Skunk,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,Brush Rabbit,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,Californian Sea Lion,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,Domestic Cattle,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,Elk,0,NA
+CA_Beach_PointReyes_Loc03,2023-10,Black-tailed Jackrabbit,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,American Badger,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Bobcat,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Coyote,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Domestic Dog,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Human,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Human-Camera Trapper,1,NA
+CA_Beach_PointReyes_Loc03,2023-11,Mule Deer,2,NA
+CA_Beach_PointReyes_Loc03,2023-11,North American River Otter,6,NA
+CA_Beach_PointReyes_Loc03,2023-11,Northern Elephant Seal,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Northern Raccoon,10,NA
+CA_Beach_PointReyes_Loc03,2023-11,Striped Skunk,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Brush Rabbit,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Californian Sea Lion,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Domestic Cattle,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Elk,0,NA
+CA_Beach_PointReyes_Loc03,2023-11,Black-tailed Jackrabbit,0,NA
