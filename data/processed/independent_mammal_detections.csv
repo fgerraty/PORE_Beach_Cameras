@@ -5996,3 +5996,668 @@ CA_Beach_PointReyes_Loc9_Dep2_2024,BCAM13,E5991,Mammalia,Cetartiodactyla,Bovidae
 CA_Beach_PointReyes_Loc9_Dep3_2024,BCAM13,E5992,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2024-11-03T05:49:46Z,2024-11-03T05:50:11Z,1,2,2024-11,2024-44
 CA_Beach_PointReyes_Loc9_Dep3_2024,BCAM13,E5993,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2024-11-03T15:51:59Z,2024-11-03T15:52:10Z,1,1,2024-11,2024-44
 CA_Beach_PointReyes_Loc9_Dep3_2024,BCAM13,E5994,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2024-11-07T11:52:24Z,2024-11-07T11:53:38Z,1,1,2024-11,2024-45
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E5995,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-08T23:17:58Z,2025-10-08T23:18:08Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E5996,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-09T22:48:01Z,2025-10-09T22:48:05Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E5997,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-19T23:17:08Z,2025-10-19T23:17:12Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E5998,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-12T13:36:48Z,2025-09-12T13:37:33Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E5999,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-12T12:43:32Z,2025-10-12T12:43:36Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E6000,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-21T11:49:43Z,2025-10-21T11:50:44Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E6001,Mammalia,Cetartiodactyla,Bovidae,Bos,taurus,Domestic Cattle,2025-09-14T12:11:41Z,2025-09-14T12:11:57Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E6002,Mammalia,Cetartiodactyla,Bovidae,Bos,taurus,Domestic Cattle,2025-09-14T13:33:20Z,2025-09-14T13:35:31Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E6003,Mammalia,Cetartiodactyla,Bovidae,Bos,taurus,Domestic Cattle,2025-09-14T14:18:54Z,2025-09-14T14:45:23Z,3,1,2025-09,2025-37
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E6004,Mammalia,Cetartiodactyla,Bovidae,Bos,taurus,Domestic Cattle,2025-09-15T14:54:13Z,2025-09-15T16:05:05Z,10,6,2025-09,2025-38
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E6005,Mammalia,Cetartiodactyla,Bovidae,Bos,taurus,Domestic Cattle,2025-09-15T16:37:08Z,2025-09-15T16:38:08Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc10_D1_2025,BCAM20,E6006,Mammalia,Cetartiodactyla,Bovidae,Bos,taurus,Domestic Cattle,2025-09-23T16:23:03Z,2025-09-23T16:25:09Z,1,2,2025-09,2025-39
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6007,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-25T21:51:08Z,2025-09-25T21:51:26Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6008,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-06T08:50:35Z,2025-10-06T08:50:39Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6009,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-06T14:48:44Z,2025-10-06T14:48:52Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6010,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-13T05:11:09Z,2025-09-13T05:12:57Z,2,1,2025-09,2025-37
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6011,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-13T20:52:34Z,2025-09-13T20:58:53Z,2,1,2025-09,2025-37
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6012,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-19T01:41:33Z,2025-09-19T01:41:37Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6013,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-20T05:37:19Z,2025-09-20T05:39:25Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6014,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-22T14:51:26Z,2025-09-22T14:51:29Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6015,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-22T22:23:44Z,2025-09-22T22:23:48Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6016,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-23T00:11:17Z,2025-09-23T00:11:27Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6017,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T05:59:23Z,2025-09-28T05:59:25Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6018,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T17:27:50Z,2025-09-28T17:27:54Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6019,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-02T10:14:58Z,2025-10-02T10:17:06Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6020,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-02T12:40:44Z,2025-10-02T12:40:48Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6021,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-02T15:17:18Z,2025-10-02T15:17:21Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6022,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T02:37:03Z,2025-10-03T02:37:07Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6023,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T08:52:13Z,2025-10-03T08:52:17Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6024,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T10:12:58Z,2025-10-03T10:13:02Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6025,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T20:38:27Z,2025-10-03T20:38:31Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6026,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-06T02:46:45Z,2025-10-06T02:46:49Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6027,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-08T01:27:24Z,2025-10-08T01:27:26Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6028,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-09T22:53:04Z,2025-10-09T22:53:08Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6029,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-11T09:58:04Z,2025-10-11T09:58:06Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6030,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-11T14:49:22Z,2025-10-11T14:55:57Z,3,1,2025-10,2025-41
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6031,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-11T16:05:24Z,2025-10-11T16:05:28Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6032,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-17T18:02:57Z,2025-10-17T18:02:59Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6033,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-22T05:45:14Z,2025-09-22T05:45:24Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6034,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-29T23:34:51Z,2025-09-29T23:36:41Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6035,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-15T22:23:41Z,2025-10-15T22:23:45Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6036,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-10-15T01:46:59Z,2025-10-15T01:47:03Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6037,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-25T02:09:18Z,2025-09-25T02:09:22Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6038,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-06T02:13:55Z,2025-10-06T02:14:17Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6039,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-14T00:15:01Z,2025-10-14T00:15:03Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6040,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-15T00:47:06Z,2025-10-15T00:47:10Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6041,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-12T14:07:36Z,2025-09-12T14:07:56Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc11_D1_2025,BCAM21,E6042,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-21T12:20:10Z,2025-10-21T12:21:02Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6043,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-14T06:43:37Z,2025-09-14T06:52:00Z,3,3,2025-09,2025-37
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6044,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-17T19:54:47Z,2025-09-17T19:54:56Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6045,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-19T00:13:26Z,2025-09-19T00:15:13Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6046,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-19T01:41:48Z,2025-09-19T01:54:00Z,3,2,2025-09,2025-38
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6047,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-19T02:54:49Z,2025-09-19T02:57:22Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6048,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-22T01:25:13Z,2025-09-22T01:25:29Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6049,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-02T23:33:21Z,2025-10-02T23:33:38Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6050,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-03T22:03:05Z,2025-10-03T22:28:07Z,2,2,2025-10,2025-40
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6051,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-09T01:45:19Z,2025-10-09T01:52:18Z,2,2,2025-10,2025-41
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6052,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-10T12:34:15Z,2025-10-10T12:34:31Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6053,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-14T15:29:00Z,2025-09-14T15:29:44Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6054,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-22T22:04:58Z,2025-09-22T22:05:26Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6055,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-24T06:35:12Z,2025-09-24T06:35:16Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6056,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-01T21:04:25Z,2025-10-01T21:04:29Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6057,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-24T19:42:53Z,2025-09-24T19:42:57Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6058,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-15T02:12:25Z,2025-10-15T02:12:29Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6059,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-12T14:38:30Z,2025-09-12T14:40:01Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6060,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-07T13:57:20Z,2025-10-07T13:57:23Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6061,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-07T15:28:25Z,2025-10-07T15:28:28Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc12_D1_2025,BCAM22,E6062,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-21T12:48:07Z,2025-10-21T12:49:22Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc13_D1_2025,BCAM23,E6063,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-17T08:01:20Z,2025-09-17T08:01:20Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc13_D1_2025,BCAM23,E6064,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T14:38:12Z,2025-09-14T14:39:20Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6065,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-12T21:44:50Z,2025-09-12T21:44:54Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6066,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-06T03:43:01Z,2025-10-06T03:43:05Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6067,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-08T23:55:34Z,2025-10-08T23:55:38Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6068,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-26T23:06:41Z,2025-09-26T23:06:45Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6069,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-15T18:12:24Z,2025-09-15T18:12:28Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6070,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-12T16:01:22Z,2025-09-12T16:02:42Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6071,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-17T16:04:08Z,2025-09-17T16:09:38Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6072,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-22T18:17:17Z,2025-09-22T18:18:53Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6073,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-06T19:57:54Z,2025-10-06T19:57:59Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6074,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-16T18:38:35Z,2025-10-16T18:38:36Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6075,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-18T14:33:48Z,2025-10-18T14:42:22Z,3,1,2025-10,2025-42
+CA_Beach_PointReyes_loc14_D1_2025,BCAM24,E6076,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-21T10:21:41Z,2025-10-21T10:23:25Z,2,1,2025-10,2025-43
+CA_Beach_PointReyes_loc15_D1_2025,BCAM25,E6077,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-17T11:57:50Z,2025-10-17T11:58:22Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc15_D1_2025,BCAM25,E6078,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-27T23:11:56Z,2025-09-27T23:12:00Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc15_D1_2025,BCAM25,E6079,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-09T21:34:31Z,2025-10-09T21:34:35Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc15_D1_2025,BCAM25,E6080,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-22T03:00:47Z,2025-09-22T03:00:51Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc15_D1_2025,BCAM25,E6081,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-12T12:20:27Z,2025-09-12T12:22:13Z,2,1,2025-09,2025-37
+CA_Beach_PointReyes_loc15_D1_2025,BCAM25,E6082,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-05T17:09:42Z,2025-10-05T17:09:57Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc15_D1_2025,BCAM25,E6083,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-11T16:09:50Z,2025-10-11T16:09:54Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc15_D1_2025,BCAM25,E6084,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-17T11:57:50Z,2025-10-17T11:58:22Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc15_D1_2025,BCAM25,E6085,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-21T10:44:01Z,2025-10-21T10:45:19Z,2,1,2025-10,2025-43
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6086,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-15T02:31:40Z,2025-09-15T02:43:59Z,2,2,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6087,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-16T01:32:34Z,2025-09-16T02:02:16Z,2,2,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6088,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-16T04:57:36Z,2025-09-16T04:57:56Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6089,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-17T00:29:09Z,2025-09-17T00:29:49Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6090,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-17T02:00:53Z,2025-09-17T02:03:42Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6091,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-18T02:52:47Z,2025-09-18T02:59:40Z,3,2,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6092,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-18T08:55:12Z,2025-09-18T08:55:12Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6093,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-18T22:50:30Z,2025-09-18T22:50:39Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6094,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T00:49:44Z,2025-09-19T00:49:54Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6095,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T02:29:17Z,2025-09-19T02:32:45Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6096,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T03:28:20Z,2025-09-19T03:29:06Z,1,3,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6097,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-20T02:27:24Z,2025-09-20T02:27:28Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6098,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-20T03:31:26Z,2025-09-20T03:31:34Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6099,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-20T20:39:35Z,2025-09-20T20:39:44Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6100,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-21T02:38:39Z,2025-09-21T02:39:04Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6101,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-21T23:27:09Z,2025-09-21T23:53:45Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6102,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-22T01:37:47Z,2025-09-22T01:37:57Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6103,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-22T04:06:36Z,2025-09-22T04:06:46Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6104,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-23T01:04:31Z,2025-09-23T01:04:39Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6105,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-23T02:05:36Z,2025-09-23T02:05:40Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6106,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-23T02:58:39Z,2025-09-23T03:05:38Z,2,2,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6107,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-23T03:41:32Z,2025-09-23T03:41:36Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6108,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-24T01:27:28Z,2025-09-24T01:27:49Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6109,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-24T02:37:47Z,2025-09-24T02:37:58Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6110,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-24T06:45:53Z,2025-09-24T06:46:04Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6111,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-24T21:19:35Z,2025-09-24T21:19:45Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6112,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-25T01:37:36Z,2025-09-25T01:37:47Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6113,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-26T03:33:39Z,2025-09-26T03:33:49Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6114,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-26T05:14:35Z,2025-09-26T05:14:46Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6115,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-27T02:51:55Z,2025-09-27T02:51:59Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6116,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-29T01:32:52Z,2025-09-29T01:32:56Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6117,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-29T02:20:08Z,2025-09-29T02:20:18Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6118,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-29T06:12:05Z,2025-09-29T06:12:17Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6119,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-30T01:01:31Z,2025-09-30T01:01:36Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6120,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-02T03:54:37Z,2025-10-02T04:02:02Z,3,2,2025-10,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6121,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-17T23:44:01Z,2025-09-17T23:44:11Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6122,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-19T05:35:38Z,2025-09-19T05:35:48Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6123,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-19T07:46:14Z,2025-09-19T07:46:18Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6124,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-19T20:51:32Z,2025-09-19T20:51:37Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6125,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-20T23:12:01Z,2025-09-20T23:12:11Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6126,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-23T21:42:30Z,2025-09-23T21:42:40Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6127,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-24T21:20:57Z,2025-09-24T21:21:06Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6128,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-27T20:45:35Z,2025-09-27T20:45:47Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6129,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T02:38:00Z,2025-09-28T02:38:11Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6130,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T20:59:01Z,2025-09-28T20:59:05Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6131,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-30T08:19:11Z,2025-09-30T08:19:11Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6132,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-01T23:07:49Z,2025-10-01T23:07:54Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6133,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-05T06:44:37Z,2025-10-05T07:03:36Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6134,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-05T08:17:17Z,2025-10-05T08:18:11Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6135,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-14T14:05:57Z,2025-09-14T14:06:01Z,1,2,2025-09,2025-37
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6135,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T13:46:57Z,2025-09-14T13:49:36Z,2,1,2025-09,2025-37
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6136,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-15T14:11:06Z,2025-09-15T14:11:10Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6137,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-17T16:10:15Z,2025-09-17T16:25:36Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6138,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-20T14:20:14Z,2025-09-20T14:20:24Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6139,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-21T10:40:29Z,2025-09-21T10:41:15Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6140,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-21T13:42:58Z,2025-09-21T13:43:09Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6141,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-25T15:37:21Z,2025-09-25T15:37:21Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6142,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-26T12:07:27Z,2025-09-26T12:07:46Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6143,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-28T12:14:09Z,2025-09-28T12:15:04Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6144,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-05T12:34:04Z,2025-10-05T12:45:48Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc16_D1_2025,BCAM26,E6145,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-05T14:43:50Z,2025-10-05T14:47:36Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6146,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-09-14T12:32:15Z,2025-09-14T12:39:38Z,2,1,2025-09,2025-37
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6147,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-09-14T13:17:08Z,2025-09-14T13:17:12Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6148,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-06T15:47:57Z,2025-10-06T15:48:18Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6149,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-11T08:53:42Z,2025-10-11T08:53:55Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6150,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T20:41:04Z,2025-09-28T20:41:08Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6151,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-02T04:32:32Z,2025-10-02T04:32:36Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6152,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-10T00:04:34Z,2025-10-10T00:04:38Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6153,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-10T23:00:25Z,2025-10-10T23:00:29Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6154,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-13T20:20:54Z,2025-10-13T20:20:58Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6155,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-15T04:05:53Z,2025-10-15T04:05:57Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6156,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-14T05:16:29Z,2025-10-14T05:16:33Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6157,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-12T12:41:10Z,2025-09-12T12:44:32Z,2,1,2025-09,2025-37
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6158,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-14T12:32:15Z,2025-09-14T12:39:38Z,2,2,2025-09,2025-37
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6159,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-18T12:43:03Z,2025-09-18T12:43:12Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6160,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-26T15:12:38Z,2025-09-26T15:12:42Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6161,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-29T12:41:30Z,2025-09-29T12:41:40Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6162,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-04T14:55:54Z,2025-10-04T14:56:36Z,1,2,2025-10,2025-40
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6163,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-05T11:22:54Z,2025-10-05T11:23:03Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6164,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-05T13:01:47Z,2025-10-05T13:08:53Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6165,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-06T15:15:19Z,2025-10-06T15:16:01Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6166,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-06T15:47:57Z,2025-10-06T15:48:18Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6167,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-06T17:15:55Z,2025-10-06T17:19:29Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6168,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-09T11:15:34Z,2025-10-09T11:34:32Z,3,1,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6169,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-11T08:30:42Z,2025-10-11T08:53:55Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6170,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-12T14:44:25Z,2025-10-12T15:11:52Z,4,3,2025-10,2025-41
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6171,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-13T14:49:56Z,2025-10-13T14:49:59Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6172,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-16T18:13:12Z,2025-10-16T18:14:21Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6173,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-19T15:12:03Z,2025-10-19T15:24:37Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc17_D1_2025,BCAM27,E6174,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-21T11:08:05Z,2025-10-21T11:10:04Z,2,1,2025-10,2025-43
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6175,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-14T08:23:52Z,2025-10-14T08:23:52Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6176,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-14T21:33:23Z,2025-09-14T21:33:33Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6177,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-15T05:00:18Z,2025-09-15T05:00:22Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6178,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-17T02:02:38Z,2025-09-17T02:03:17Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6179,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-17T20:02:21Z,2025-09-17T20:02:25Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6180,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-25T05:25:51Z,2025-09-25T05:28:01Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6181,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-28T00:09:30Z,2025-09-28T00:09:56Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6182,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-28T03:29:19Z,2025-09-28T03:29:53Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6183,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-03T04:24:43Z,2025-10-03T04:35:10Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6184,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-08T19:50:09Z,2025-10-08T19:50:13Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6185,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-10T02:03:54Z,2025-10-10T02:04:15Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6186,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-13T02:57:40Z,2025-10-13T02:57:45Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6187,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-13T23:54:45Z,2025-10-13T23:54:50Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6188,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-14T01:25:33Z,2025-10-14T01:25:37Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6189,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-17T23:13:05Z,2025-10-17T23:13:10Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6190,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-19T00:51:48Z,2025-10-19T00:51:59Z,1,2,2025-10,2025-42
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6191,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T02:43:49Z,2025-10-03T02:43:53Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6192,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T05:33:32Z,2025-10-03T05:33:37Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6193,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-07T22:31:47Z,2025-10-07T22:31:52Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6194,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-08T01:33:50Z,2025-10-08T01:33:54Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6195,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-19T23:19:36Z,2025-10-19T23:19:41Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6196,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-09-14T23:36:15Z,2025-09-14T23:36:19Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6197,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-09-15T06:05:04Z,2025-09-15T06:05:08Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6198,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-10-17T20:52:35Z,2025-10-17T21:21:24Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6199,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-15T00:35:35Z,2025-09-15T00:35:39Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6200,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-15T02:30:18Z,2025-09-15T02:30:28Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6201,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-18T06:02:40Z,2025-09-18T06:02:44Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6202,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-18T06:33:58Z,2025-09-18T06:39:54Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6203,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-22T22:35:06Z,2025-09-22T22:35:11Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6204,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-23T04:27:52Z,2025-09-23T04:27:56Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6205,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-25T02:49:33Z,2025-09-25T03:00:08Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6206,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T13:27:22Z,2025-09-14T13:28:52Z,2,1,2025-09,2025-37
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6207,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-14T15:32:10Z,2025-09-14T15:32:15Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6208,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-20T11:01:10Z,2025-09-20T11:01:48Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6209,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-20T11:34:17Z,2025-09-20T11:34:21Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6210,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-20T12:13:37Z,2025-09-20T12:13:41Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6211,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-02T09:22:19Z,2025-10-02T09:22:54Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6212,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-04T15:08:49Z,2025-10-04T15:08:53Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6213,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-18T13:31:10Z,2025-10-18T13:42:47Z,3,1,2025-10,2025-42
+CA_Beach_PointReyes_loc1_D1_2025,BCAM1,E6214,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-20T11:43:53Z,2025-10-20T11:45:31Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6215,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-02T23:58:28Z,2025-10-02T23:58:32Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6216,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-15T00:33:17Z,2025-09-15T00:37:24Z,2,2,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6217,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-17T00:38:36Z,2025-09-17T00:38:40Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6218,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T01:49:34Z,2025-09-19T01:49:44Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6219,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T05:56:11Z,2025-09-19T05:59:35Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6220,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T23:11:49Z,2025-09-19T23:11:53Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6221,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-20T03:16:40Z,2025-09-20T03:16:44Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6222,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-20T04:02:14Z,2025-09-20T04:02:18Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6223,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-22T20:30:08Z,2025-09-22T20:38:30Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6224,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-23T06:01:56Z,2025-09-23T06:02:06Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6225,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-24T21:46:22Z,2025-09-24T21:46:32Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6226,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-24T22:53:12Z,2025-09-24T22:53:27Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6227,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-27T02:11:44Z,2025-09-27T02:11:48Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6228,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-29T00:31:34Z,2025-09-29T00:32:25Z,1,3,2025-09,2025-40
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6229,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-29T05:29:11Z,2025-09-29T05:29:15Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6230,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-01T21:50:49Z,2025-10-01T21:53:24Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6231,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-05T02:14:28Z,2025-10-05T02:15:21Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6232,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-05T03:25:56Z,2025-10-05T03:26:00Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6233,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-07T20:40:16Z,2025-10-07T20:40:20Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6234,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-08T00:52:36Z,2025-10-08T00:52:40Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6235,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-15T01:28:50Z,2025-10-15T01:29:00Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6236,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-15T18:58:06Z,2025-10-15T18:58:54Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6237,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-20T01:13:19Z,2025-10-20T01:13:23Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6238,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-17T00:13:52Z,2025-09-17T00:13:56Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6239,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-17T23:56:33Z,2025-09-17T23:56:37Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6240,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T20:47:47Z,2025-09-28T20:47:51Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6241,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T20:59:34Z,2025-10-03T20:59:38Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6242,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-17T22:24:03Z,2025-09-17T22:24:07Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6243,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-18T00:42:23Z,2025-09-18T00:42:34Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6244,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-01T04:49:48Z,2025-10-01T04:50:13Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6245,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-12T23:31:12Z,2025-10-12T23:31:22Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6246,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-16T20:18:05Z,2025-10-16T20:37:35Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6247,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-17T20:05:05Z,2025-10-17T20:05:09Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6248,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-20T02:10:17Z,2025-10-20T02:10:21Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6249,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-14T22:58:05Z,2025-10-14T22:58:36Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6250,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T14:01:03Z,2025-09-14T14:02:10Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6251,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-20T12:10:00Z,2025-09-20T12:12:15Z,2,2,2025-09,2025-38
+CA_Beach_PointReyes_loc2_D1_2025,BCAM3,E6252,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-20T13:08:11Z,2025-10-20T13:09:14Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6253,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-15T23:42:38Z,2025-09-15T23:42:42Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6254,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-17T02:10:20Z,2025-09-17T02:14:13Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6255,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-17T05:44:21Z,2025-09-17T05:44:37Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6256,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-17T21:18:36Z,2025-09-17T21:32:12Z,3,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6257,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T03:32:36Z,2025-09-19T03:50:18Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6258,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T05:19:20Z,2025-09-19T05:19:31Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6259,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T05:57:13Z,2025-09-19T05:58:10Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6260,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T08:46:11Z,2025-09-19T08:46:29Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6261,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T20:47:02Z,2025-09-19T20:48:31Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6262,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T21:24:52Z,2025-09-19T21:29:01Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6263,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-21T02:15:24Z,2025-09-21T02:15:33Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6264,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-21T04:44:33Z,2025-09-21T04:45:15Z,1,3,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6265,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-24T02:49:41Z,2025-09-24T03:25:41Z,3,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6266,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-25T05:38:36Z,2025-09-25T05:38:45Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6267,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-25T22:06:50Z,2025-09-25T22:07:04Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6268,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-26T04:54:36Z,2025-09-26T04:54:52Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6269,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-27T00:30:18Z,2025-09-27T00:31:38Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6270,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-27T03:01:43Z,2025-09-27T03:01:47Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6271,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-28T21:57:50Z,2025-09-28T22:21:33Z,3,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6272,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-28T23:57:55Z,2025-09-29T00:26:23Z,5,2,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6273,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-29T18:17:55Z,2025-09-29T18:21:42Z,2,1,2025-09,2025-40
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6274,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-01T02:07:46Z,2025-10-01T02:24:03Z,3,2,2025-10,2025-40
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6275,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-01T20:17:38Z,2025-10-01T20:30:53Z,2,2,2025-10,2025-40
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6276,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-07T03:16:53Z,2025-10-07T03:16:57Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6277,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-07T04:54:52Z,2025-10-07T04:57:10Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6278,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-07T23:11:52Z,2025-10-07T23:12:02Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6279,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-07T23:55:38Z,2025-10-07T23:57:15Z,2,2,2025-10,2025-41
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6280,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-08T22:30:30Z,2025-10-08T22:30:40Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6281,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-08T23:12:48Z,2025-10-08T23:13:05Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6282,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-09T03:03:38Z,2025-10-09T03:04:49Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6283,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-14T01:00:52Z,2025-10-14T01:02:00Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6284,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-15T02:09:47Z,2025-10-15T02:10:20Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6285,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-20T03:48:17Z,2025-10-20T03:50:04Z,1,2,2025-10,2025-43
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6286,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-20T04:39:01Z,2025-10-20T04:47:46Z,2,1,2025-10,2025-43
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6287,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-27T01:18:04Z,2025-09-27T01:18:19Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6288,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-27T10:12:17Z,2025-09-27T10:12:21Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6289,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-08T00:11:29Z,2025-10-08T00:11:37Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6290,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-19T20:07:21Z,2025-10-19T20:09:27Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6291,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-15T05:51:34Z,2025-09-15T05:51:44Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6292,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-15T21:05:02Z,2025-09-15T21:05:06Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6293,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-23T22:59:28Z,2025-09-23T22:59:39Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6294,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-24T23:11:01Z,2025-09-24T23:11:12Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6295,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-27T23:24:50Z,2025-09-27T23:24:54Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6296,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-15T19:53:59Z,2025-10-15T20:00:26Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6297,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-16T22:17:04Z,2025-10-16T22:17:08Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6298,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-19T01:53:46Z,2025-10-19T01:53:50Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6299,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-09-16T03:14:27Z,2025-09-16T03:14:31Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6300,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-26T20:30:16Z,2025-09-26T20:30:20Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6301,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-29T19:23:51Z,2025-09-29T19:23:55Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6302,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T12:59:27Z,2025-09-14T13:00:33Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6303,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-20T09:28:54Z,2025-09-20T09:31:21Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6304,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-21T11:53:09Z,2025-09-21T11:55:02Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6305,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-05T14:45:00Z,2025-10-05T14:46:18Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6306,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-12T12:57:14Z,2025-10-12T12:57:33Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc3_D1_2025,BCAM4,E6307,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-20T14:20:05Z,2025-10-20T14:21:22Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6308,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-14T12:22:56Z,2025-09-14T12:23:01Z,1,3,2025-09,2025-37
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6309,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-14T16:33:26Z,2025-09-14T16:36:41Z,2,3,2025-09,2025-37
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6310,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-14T19:50:00Z,2025-09-14T19:50:04Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6311,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-18T10:16:32Z,2025-09-18T10:16:32Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6312,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-24T07:21:27Z,2025-09-24T07:21:27Z,1,2,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6313,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-24T17:22:58Z,2025-09-24T17:23:36Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6314,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-25T07:18:36Z,2025-09-25T07:18:40Z,1,2,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6315,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-26T11:00:52Z,2025-09-26T11:00:57Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6316,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-28T12:59:37Z,2025-09-28T12:59:41Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6317,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-30T07:11:07Z,2025-09-30T07:11:11Z,1,3,2025-09,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6318,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-09-30T14:03:07Z,2025-09-30T14:03:07Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6319,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-01T15:49:50Z,2025-10-01T15:49:50Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6320,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-01T16:22:50Z,2025-10-01T16:22:54Z,1,2,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6321,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-01T17:06:40Z,2025-10-01T17:06:44Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6322,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-02T15:40:54Z,2025-10-02T15:40:54Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6323,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-03T06:31:28Z,2025-10-03T06:31:32Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6324,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-03T08:05:46Z,2025-10-03T08:05:46Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6325,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-03T08:38:45Z,2025-10-03T08:40:59Z,2,2,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6326,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-04T07:32:47Z,2025-10-04T07:36:34Z,2,2,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6327,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-05T08:37:07Z,2025-10-05T08:37:11Z,1,2,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6328,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-05T10:15:32Z,2025-10-05T10:15:58Z,1,2,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6329,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-08T11:40:20Z,2025-10-08T11:40:25Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6330,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-11T13:14:44Z,2025-10-11T13:16:13Z,2,2,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6331,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-15T08:21:33Z,2025-10-15T08:21:50Z,1,2,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6332,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-20T12:29:22Z,2025-10-20T12:29:27Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6333,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-15T18:37:42Z,2025-09-15T18:37:46Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6334,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-16T22:00:59Z,2025-09-16T22:01:48Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6335,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-20T01:33:58Z,2025-09-20T01:34:02Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6336,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-20T06:44:54Z,2025-09-20T06:45:03Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6337,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-21T22:12:42Z,2025-09-21T22:12:46Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6338,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-23T11:02:58Z,2025-09-23T11:03:08Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6339,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-24T10:10:50Z,2025-09-24T10:10:50Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6340,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-25T05:38:10Z,2025-09-25T05:38:14Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6341,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-26T08:47:21Z,2025-09-26T08:48:08Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6342,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-05T13:17:40Z,2025-10-05T13:17:44Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6343,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-09T15:53:17Z,2025-10-09T15:53:22Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6344,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-14T06:44:09Z,2025-10-14T06:44:20Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6345,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-16T01:31:05Z,2025-10-16T01:31:10Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6346,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-16T05:31:15Z,2025-10-16T05:31:19Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6347,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-14T23:04:49Z,2025-09-14T23:18:11Z,3,1,2025-09,2025-37
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6348,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-15T19:50:09Z,2025-09-15T19:53:59Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6349,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-16T22:00:59Z,2025-09-16T22:12:06Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6350,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-17T19:51:26Z,2025-09-17T19:51:30Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6351,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-17T21:13:11Z,2025-09-17T21:13:16Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6352,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-18T20:39:49Z,2025-09-18T20:39:53Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6353,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-19T19:14:56Z,2025-09-19T19:14:56Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6354,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-19T22:42:23Z,2025-09-19T22:42:27Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6355,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-20T20:32:16Z,2025-09-20T20:56:57Z,3,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6356,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-21T00:57:36Z,2025-09-21T00:57:40Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6357,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-21T20:21:27Z,2025-09-21T20:22:08Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6358,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-22T17:48:32Z,2025-09-22T17:51:18Z,3,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6359,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-24T00:22:36Z,2025-09-24T00:22:40Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6360,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-24T19:54:07Z,2025-09-24T19:54:17Z,1,2,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6361,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-25T13:23:57Z,2025-09-25T13:23:59Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6362,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-25T18:53:59Z,2025-09-25T19:17:02Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6363,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-25T23:00:56Z,2025-09-25T23:03:46Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6364,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-26T22:17:39Z,2025-09-26T22:35:53Z,4,2,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6365,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-27T14:38:33Z,2025-09-27T14:39:16Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6366,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T02:47:29Z,2025-09-28T02:47:33Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6367,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T04:13:21Z,2025-09-28T04:13:25Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6368,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T17:57:43Z,2025-09-28T17:57:43Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6369,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T23:11:04Z,2025-09-28T23:11:08Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6370,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-29T04:16:49Z,2025-09-29T04:16:53Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6371,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-29T21:01:37Z,2025-09-29T21:01:41Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6372,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-30T04:57:14Z,2025-09-30T04:57:18Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6373,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-30T19:28:00Z,2025-09-30T19:47:18Z,2,1,2025-09,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6374,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-30T22:15:35Z,2025-09-30T22:34:18Z,2,1,2025-09,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6375,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-01T08:50:09Z,2025-10-01T08:50:13Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6376,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-02T15:39:42Z,2025-10-02T15:39:46Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6377,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-02T23:17:01Z,2025-10-02T23:17:06Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6378,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T00:46:54Z,2025-10-03T00:46:58Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6379,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T12:36:23Z,2025-10-03T12:36:28Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6380,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T20:19:26Z,2025-10-03T20:46:01Z,3,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6381,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-04T16:00:33Z,2025-10-04T16:00:37Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6382,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-04T19:03:45Z,2025-10-04T19:03:49Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6383,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-04T19:40:07Z,2025-10-04T20:07:13Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6384,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-05T02:36:26Z,2025-10-05T02:36:58Z,1,2,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6385,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-05T23:39:40Z,2025-10-05T23:39:44Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6386,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-07T04:20:45Z,2025-10-07T04:20:49Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6387,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-07T07:59:58Z,2025-10-07T08:01:28Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6388,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-08T01:48:36Z,2025-10-08T02:01:59Z,4,2,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6389,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-08T05:32:35Z,2025-10-08T05:32:39Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6390,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-08T21:11:24Z,2025-10-08T21:25:06Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6391,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-09T20:54:06Z,2025-10-09T20:54:10Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6392,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-10T04:38:47Z,2025-10-10T04:38:51Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6393,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-10T16:56:50Z,2025-10-10T16:56:50Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6394,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-10T22:45:12Z,2025-10-10T23:07:34Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6395,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-12T04:54:17Z,2025-10-12T04:54:21Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6396,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-12T16:29:57Z,2025-10-12T16:29:57Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6397,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-12T19:44:38Z,2025-10-12T19:53:05Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6398,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-13T22:25:46Z,2025-10-13T22:25:50Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6399,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-14T02:47:47Z,2025-10-14T02:48:22Z,1,2,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6400,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-14T23:14:02Z,2025-10-14T23:16:36Z,2,2,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6401,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-15T23:43:24Z,2025-10-15T23:43:28Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6402,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-16T17:25:22Z,2025-10-16T17:37:42Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6403,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-17T19:30:26Z,2025-10-17T19:30:53Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6404,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-17T21:35:09Z,2025-10-17T21:35:22Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6405,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-18T15:56:48Z,2025-10-18T16:21:13Z,3,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6406,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-18T17:05:11Z,2025-10-18T17:05:15Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6407,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-19T17:37:42Z,2025-10-19T17:37:46Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6408,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-19T20:49:42Z,2025-10-19T20:49:46Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6409,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-14T20:09:00Z,2025-09-14T20:09:28Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6410,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-14T20:43:08Z,2025-09-14T20:43:13Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6411,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-15T23:31:21Z,2025-09-15T23:31:25Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6412,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-16T00:50:21Z,2025-09-16T00:50:25Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6413,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-16T04:58:02Z,2025-09-16T04:58:25Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6414,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-16T19:57:20Z,2025-09-16T19:57:24Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6415,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-17T20:39:26Z,2025-09-17T20:39:30Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6416,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-17T22:06:15Z,2025-09-17T22:06:20Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6417,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-18T03:09:36Z,2025-09-18T03:09:38Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6418,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-18T04:56:06Z,2025-09-18T04:56:16Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6419,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-19T03:07:17Z,2025-09-19T03:09:16Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6420,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-19T05:17:33Z,2025-09-19T05:17:37Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6421,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-19T06:07:16Z,2025-09-19T06:07:20Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6422,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-19T20:55:04Z,2025-09-19T20:55:06Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6423,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-20T04:30:29Z,2025-09-20T04:30:33Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6424,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-21T01:19:07Z,2025-09-21T01:19:11Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6425,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-21T05:49:33Z,2025-09-21T05:49:38Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6426,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-22T04:16:00Z,2025-09-22T04:18:49Z,2,3,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6427,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-22T04:55:20Z,2025-09-22T04:55:24Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6428,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-22T23:57:21Z,2025-09-22T23:57:54Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6429,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-23T01:34:32Z,2025-09-23T02:04:34Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6430,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-23T20:41:15Z,2025-09-23T20:41:19Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6431,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-24T03:46:21Z,2025-09-24T03:46:25Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6432,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-24T04:20:52Z,2025-09-24T04:21:02Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6433,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-25T02:54:01Z,2025-09-25T02:54:11Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6434,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-26T04:45:14Z,2025-09-26T04:45:18Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6435,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-26T20:12:18Z,2025-09-26T20:30:17Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6436,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-26T21:45:00Z,2025-09-26T21:45:04Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6437,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-27T01:32:09Z,2025-09-27T01:32:13Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6438,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-27T02:19:57Z,2025-09-27T02:34:47Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6439,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-27T03:10:40Z,2025-09-27T03:33:07Z,4,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6440,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-27T05:00:16Z,2025-09-27T05:24:49Z,3,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6441,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-27T20:18:51Z,2025-09-27T20:18:55Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6442,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-28T04:42:08Z,2025-09-28T04:42:24Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6443,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-03T22:58:37Z,2025-10-03T23:17:19Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6444,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-04T06:09:37Z,2025-10-04T06:31:41Z,4,3,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6445,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-05T03:16:10Z,2025-10-05T03:16:24Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6446,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-07T03:36:36Z,2025-10-07T03:58:44Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6447,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-08T02:36:14Z,2025-10-08T02:36:18Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6448,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-09T03:01:39Z,2025-10-09T03:01:43Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6449,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-09T21:11:59Z,2025-10-09T21:12:03Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6450,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-10T01:31:50Z,2025-10-10T01:31:55Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6451,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-10T21:30:38Z,2025-10-10T21:30:42Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6452,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-13T19:47:32Z,2025-10-13T19:47:36Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6453,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-13T22:55:33Z,2025-10-13T22:55:37Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6454,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-14T19:32:16Z,2025-10-14T19:46:43Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6455,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-14T21:41:09Z,2025-10-14T22:05:06Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6456,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-15T05:35:07Z,2025-10-15T05:41:42Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6457,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-15T23:55:54Z,2025-10-15T23:55:56Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6458,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-16T05:35:41Z,2025-10-16T05:35:45Z,1,3,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6459,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-17T19:17:00Z,2025-10-17T19:17:11Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6460,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-17T20:29:46Z,2025-10-17T20:29:50Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6461,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-18T20:58:49Z,2025-10-18T20:58:53Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6462,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-20T03:20:37Z,2025-10-20T03:20:41Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6463,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-20T05:31:30Z,2025-10-20T05:31:34Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6464,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-10-17T20:07:34Z,2025-10-17T20:08:06Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6465,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-15T19:23:02Z,2025-09-15T19:27:05Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6466,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-15T21:33:48Z,2025-09-15T21:33:52Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6467,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-17T18:55:33Z,2025-09-17T18:55:37Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6468,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-18T17:37:56Z,2025-09-18T17:49:39Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6469,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-18T19:00:01Z,2025-09-18T19:11:50Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6470,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-19T06:26:11Z,2025-09-19T06:26:15Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6471,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-19T07:50:41Z,2025-09-19T07:50:46Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6472,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-19T10:40:56Z,2025-09-19T10:41:00Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6473,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-19T14:47:45Z,2025-09-19T14:47:49Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6474,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-19T19:39:51Z,2025-09-19T20:00:08Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6475,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-19T22:13:44Z,2025-09-19T22:13:48Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6476,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-20T06:37:46Z,2025-09-20T07:12:12Z,5,1,2025-09,2025-38
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6477,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-24T04:25:51Z,2025-09-24T04:26:01Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6478,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-24T20:56:49Z,2025-09-24T21:25:54Z,3,1,2025-09,2025-39
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6479,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-02T16:38:56Z,2025-10-02T16:41:20Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6480,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-04T20:37:12Z,2025-10-04T20:37:17Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6481,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-05T05:56:57Z,2025-10-05T05:57:02Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6482,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-07T21:10:15Z,2025-10-07T21:10:19Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6483,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-08T16:12:17Z,2025-10-08T16:21:02Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6484,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-16T04:53:15Z,2025-10-16T04:53:19Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6485,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-18T20:59:56Z,2025-10-18T21:00:39Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6486,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-19T18:42:24Z,2025-10-19T18:42:29Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6487,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T11:54:10Z,2025-09-14T11:57:13Z,2,2,2025-09,2025-37
+CA_Beach_PointReyes_loc4_D1_2025,BCAM7,E6488,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-20T15:15:11Z,2025-10-20T15:17:03Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6489,Mammalia,Carnivora,Mustelidae,Lontra,canadensis,North American River Otter,2025-10-03T00:46:35Z,2025-10-03T00:46:45Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6490,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-21T21:32:01Z,2025-09-21T21:32:05Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6491,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-26T05:27:27Z,2025-09-26T05:27:39Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6492,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-27T00:57:31Z,2025-09-27T00:57:35Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6493,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-29T04:33:47Z,2025-09-29T04:33:49Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6494,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-15T21:12:28Z,2025-09-15T21:12:32Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6495,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-19T22:45:08Z,2025-09-19T22:45:12Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6496,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-09-30T23:54:23Z,2025-09-30T23:54:33Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6497,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-01T20:48:28Z,2025-10-01T20:48:32Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6498,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-03T03:08:52Z,2025-10-03T03:08:57Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6499,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-13T21:20:35Z,2025-10-13T21:20:39Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6500,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-13T21:56:32Z,2025-10-13T21:56:36Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6501,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T14:20:35Z,2025-09-14T14:23:56Z,2,1,2025-09,2025-37
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6502,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-14T17:25:27Z,2025-09-14T17:25:48Z,1,2,2025-09,2025-37
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6503,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-05T14:51:55Z,2025-10-05T14:52:14Z,1,2,2025-10,2025-40
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6504,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-19T15:42:01Z,2025-10-19T16:03:10Z,6,1,2025-10,2025-42
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6505,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-20T07:29:38Z,2025-10-20T07:32:52Z,2,1,2025-10,2025-43
+CA_Beach_PointReyes_loc5_D1_2025,BCAM9,E6506,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-20T12:17:36Z,2025-10-20T12:20:27Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6507,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-15T08:09:58Z,2025-09-15T08:10:02Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6508,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-16T06:40:24Z,2025-09-16T06:40:56Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6509,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-18T00:37:39Z,2025-09-18T00:37:52Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6510,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-19T10:03:40Z,2025-09-19T10:03:50Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6511,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-25T02:00:02Z,2025-09-25T02:01:17Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6512,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-27T00:01:48Z,2025-09-27T00:01:58Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6513,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-27T22:20:03Z,2025-09-27T22:20:19Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6514,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-27T22:50:17Z,2025-09-27T22:50:27Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6515,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-28T21:13:03Z,2025-09-28T21:13:21Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6516,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-29T00:17:30Z,2025-09-29T00:29:32Z,2,1,2025-09,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6517,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-29T21:11:34Z,2025-09-29T21:11:44Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6518,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-02T04:10:59Z,2025-10-02T04:40:18Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6519,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-04T00:22:00Z,2025-10-04T00:22:39Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6520,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-04T05:09:45Z,2025-10-04T05:10:02Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6521,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-07T03:40:31Z,2025-10-07T03:56:28Z,5,1,2025-10,2025-41
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6522,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-08T20:27:33Z,2025-10-08T20:57:22Z,3,1,2025-10,2025-41
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6523,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-13T00:28:26Z,2025-10-13T00:28:30Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6524,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-10-15T04:19:18Z,2025-10-15T04:19:34Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6525,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-15T00:10:37Z,2025-09-15T00:10:55Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6526,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-27T16:11:30Z,2025-09-27T16:11:34Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6527,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-01T08:05:38Z,2025-10-01T08:05:41Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6528,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-01T23:24:08Z,2025-10-01T23:24:12Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6529,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-02T00:58:26Z,2025-10-02T00:58:30Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6530,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-02T23:31:20Z,2025-10-02T23:31:24Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6531,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T00:15:13Z,2025-10-03T00:15:17Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6532,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T02:37:39Z,2025-10-03T02:37:43Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6533,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-04T01:20:59Z,2025-10-04T01:21:03Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6534,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-04T03:51:34Z,2025-10-04T03:54:15Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6535,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-04T04:24:59Z,2025-10-04T04:25:03Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6536,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-05T00:23:44Z,2025-10-05T00:23:48Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6537,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-07T02:41:13Z,2025-10-07T02:41:21Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6538,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-11T01:58:26Z,2025-10-11T01:58:30Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6539,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-14T19:17:33Z,2025-10-14T19:17:37Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6540,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-15T19:08:36Z,2025-10-15T19:08:40Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6541,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-18T07:11:53Z,2025-10-18T07:11:56Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6542,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-18T18:45:43Z,2025-10-18T18:50:31Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6543,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-20T07:26:40Z,2025-10-20T07:26:43Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6544,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-14T00:45:45Z,2025-10-14T00:55:25Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6545,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-15T03:01:37Z,2025-10-15T03:01:47Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6546,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-10-20T01:12:01Z,2025-10-20T01:12:16Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6547,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-01T18:24:25Z,2025-10-01T18:24:28Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6548,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-01T19:04:15Z,2025-10-01T19:04:18Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6549,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-10-12T07:14:06Z,2025-10-12T07:14:15Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6550,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T12:34:20Z,2025-09-14T12:36:12Z,2,1,2025-09,2025-37
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6551,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-20T11:49:54Z,2025-09-20T11:49:58Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6552,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-12T13:21:47Z,2025-10-12T13:22:48Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc6_D1_2025,BCAM11,E6553,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-20T14:39:08Z,2025-10-20T14:40:11Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6554,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-17T03:47:41Z,2025-09-17T03:47:45Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6555,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-19T00:04:02Z,2025-09-19T00:04:11Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6556,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-20T21:18:05Z,2025-09-20T21:18:09Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6557,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-27T13:56:07Z,2025-09-27T13:56:22Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6558,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-27T18:06:02Z,2025-09-27T18:09:07Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6559,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T19:06:00Z,2025-09-28T19:06:16Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6560,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T21:20:18Z,2025-09-28T21:23:28Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6561,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-29T00:56:37Z,2025-09-29T00:57:31Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6562,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-29T02:03:57Z,2025-09-29T02:10:09Z,3,1,2025-09,2025-40
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6563,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-29T02:55:50Z,2025-09-29T02:55:54Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6564,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-29T09:30:35Z,2025-09-29T09:30:39Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6565,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-30T20:56:46Z,2025-09-30T20:57:07Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6566,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T00:12:06Z,2025-10-03T00:12:10Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6567,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T17:56:27Z,2025-10-03T17:56:31Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6568,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-03T23:10:12Z,2025-10-03T23:10:22Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6569,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-06T19:17:59Z,2025-10-06T19:18:09Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6570,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-07T02:39:59Z,2025-10-07T02:40:23Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6571,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-07T20:32:58Z,2025-10-07T20:33:02Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6572,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-08T16:52:19Z,2025-10-08T17:02:41Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6573,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-10T16:41:47Z,2025-10-10T16:41:54Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6574,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-15T08:01:51Z,2025-10-15T08:01:54Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6575,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-19T16:54:23Z,2025-10-19T16:54:58Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6576,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-19T17:38:20Z,2025-10-19T17:38:53Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6577,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-19T22:12:31Z,2025-10-19T22:13:07Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6578,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-08T00:20:16Z,2025-10-08T00:20:20Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6579,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-09T02:03:58Z,2025-10-09T02:04:02Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6580,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-09T02:36:27Z,2025-10-09T02:36:37Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6581,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-19T22:47:32Z,2025-10-19T22:47:36Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6582,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-10-12T23:32:41Z,2025-10-12T23:32:45Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6583,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-10-18T23:28:43Z,2025-10-18T23:28:47Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6584,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,Striped Skunk,2025-10-19T00:54:50Z,2025-10-19T00:55:07Z,1,2,2025-10,2025-42
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6585,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-28T19:49:58Z,2025-09-28T20:03:03Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6586,Mammalia,Carnivora,Felidae,Lynx,rufus,Bobcat,2025-09-29T02:06:24Z,2025-09-29T02:07:02Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6587,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T12:17:32Z,2025-09-14T12:18:38Z,1,2,2025-09,2025-37
+CA_Beach_PointReyes_loc7_D1_2025,BCAM13,E6588,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-20T14:54:52Z,2025-10-20T14:55:37Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6589,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-24T19:24:44Z,2025-09-24T19:41:26Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6590,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-29T20:53:05Z,2025-09-29T20:53:09Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6591,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-02T19:41:17Z,2025-10-02T19:45:22Z,2,2,2025-10,2025-40
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6592,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-05T19:53:56Z,2025-10-05T19:54:00Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6593,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-05T20:28:28Z,2025-10-05T20:53:43Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6594,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-09-18T13:08:54Z,2025-09-18T13:09:19Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6595,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-09-18T13:53:20Z,2025-09-18T13:53:35Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6596,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-09-24T09:20:56Z,2025-09-24T09:23:05Z,2,1,2025-09,2025-39
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6597,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-03T16:53:22Z,2025-10-03T17:11:24Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6598,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-07T16:52:27Z,2025-10-07T16:52:31Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6599,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-11T15:08:17Z,2025-10-11T15:09:24Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6600,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-12T15:05:32Z,2025-10-12T15:12:09Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6601,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-13T18:42:54Z,2025-10-13T18:46:03Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6602,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-14T16:30:55Z,2025-10-14T16:31:05Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6603,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-15T08:29:58Z,2025-10-15T08:30:02Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6604,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-18T11:27:18Z,2025-10-18T11:49:14Z,4,2,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6605,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-18T17:07:29Z,2025-10-18T17:34:14Z,3,2,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6606,Mammalia,Carnivora,Canidae,Canis,familiaris,Domestic Dog,2025-10-19T12:20:40Z,2025-10-19T12:20:43Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6607,Mammalia,Cetartiodactyla,Cervidae,Odocoileus,hemionus,Mule Deer,2025-09-21T01:05:25Z,2025-09-21T01:05:41Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6608,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-09T21:30:43Z,2025-10-09T21:30:47Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6609,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-10T01:43:34Z,2025-10-10T01:43:38Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6610,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-14T15:47:49Z,2025-09-14T15:49:36Z,1,2,2025-09,2025-37
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6611,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-15T15:36:09Z,2025-09-15T15:36:13Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6612,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-18T13:08:54Z,2025-09-18T13:09:19Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6613,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-18T13:53:20Z,2025-09-18T13:53:35Z,1,2,2025-09,2025-38
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6614,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-22T15:34:29Z,2025-09-22T15:34:38Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6615,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-24T09:20:56Z,2025-09-24T09:23:05Z,2,2,2025-09,2025-39
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6616,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-09-28T18:44:14Z,2025-09-28T18:44:31Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6617,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-03T16:53:22Z,2025-10-03T17:11:24Z,2,1,2025-10,2025-40
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6618,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-06T14:42:26Z,2025-10-06T15:03:21Z,2,2,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6619,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-10T14:00:40Z,2025-10-10T14:00:49Z,1,2,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6620,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-11T12:27:43Z,2025-10-11T12:32:16Z,2,3,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6621,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-11T15:08:17Z,2025-10-11T15:09:24Z,1,3,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6622,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-12T12:51:58Z,2025-10-12T12:54:20Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6623,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-12T15:05:32Z,2025-10-12T15:12:09Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6624,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-13T18:42:54Z,2025-10-13T18:46:03Z,2,1,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6625,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-14T16:30:55Z,2025-10-14T16:31:05Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6626,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-15T15:15:28Z,2025-10-15T15:15:32Z,1,1,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6627,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-17T11:22:19Z,2025-10-17T11:31:10Z,2,2,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6628,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-18T11:27:18Z,2025-10-18T11:49:14Z,4,3,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6629,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-18T17:07:29Z,2025-10-18T17:34:14Z,3,1,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6630,Mammalia,Primates,Hominidae,Homo,sapiens,Human,2025-10-19T16:14:27Z,2025-10-19T16:24:37Z,2,2,2025-10,2025-42
+CA_Beach_PointReyes_loc8_D1_2025,BCAM15,E6631,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-20T11:10:44Z,2025-10-20T11:12:52Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6632,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-13T23:09:16Z,2025-09-13T23:09:25Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6633,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-09-13T23:51:46Z,2025-09-13T23:51:50Z,1,1,2025-09,2025-37
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6634,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-02T22:32:11Z,2025-10-02T22:32:25Z,1,2,2025-10,2025-40
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6635,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-02T23:11:50Z,2025-10-02T23:11:54Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6636,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-05T20:29:28Z,2025-10-05T20:30:24Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6637,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-09T19:50:22Z,2025-10-09T21:07:06Z,10,3,2025-10,2025-41
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6638,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-09T22:33:34Z,2025-10-09T22:51:38Z,2,1,2025-10,2025-41
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6639,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-10T23:05:56Z,2025-10-10T23:06:06Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6640,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-11T02:58:00Z,2025-10-11T02:58:04Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6641,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-11T03:29:15Z,2025-10-11T03:29:19Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6642,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-11T23:14:08Z,2025-10-11T23:14:12Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6643,Mammalia,Cetartiodactyla,Cervidae,Cervus,canadensis,Elk,2025-10-11T23:48:09Z,2025-10-11T23:48:20Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6644,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-18T03:31:45Z,2025-09-18T03:31:57Z,1,1,2025-09,2025-38
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6645,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-20T04:33:23Z,2025-09-20T04:57:57Z,2,1,2025-09,2025-38
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6646,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-24T21:37:14Z,2025-09-24T21:37:20Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6647,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-25T05:09:32Z,2025-09-25T05:09:36Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6648,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-28T02:29:28Z,2025-09-28T02:29:32Z,1,1,2025-09,2025-39
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6649,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-09-30T22:18:41Z,2025-09-30T22:18:45Z,1,1,2025-09,2025-40
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6650,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-04T03:40:03Z,2025-10-04T03:40:07Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6651,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-04T04:18:22Z,2025-10-04T04:18:26Z,1,1,2025-10,2025-40
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6652,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-08T21:37:02Z,2025-10-08T21:37:11Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6653,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-09T03:10:18Z,2025-10-09T03:10:27Z,1,1,2025-10,2025-41
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6654,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-20T00:28:23Z,2025-10-20T00:28:27Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6655,Mammalia,Carnivora,Canidae,Canis,latrans,Coyote,2025-10-21T11:11:41Z,2025-10-21T11:11:45Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6656,Mammalia,Carnivora,Procyonidae,Procyon,lotor,Northern Raccoon,2025-10-20T02:10:13Z,2025-10-20T02:10:17Z,1,1,2025-10,2025-43
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6657,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-09-12T13:09:41Z,2025-09-12T13:13:44Z,3,1,2025-09,2025-37
+CA_Beach_PointReyes_loc9_D1_2025,BCAM19,E6658,Mammalia,Primates,Hominidae,Homo,sapiens,Human-Camera Trapper,2025-10-21T11:27:20Z,2025-10-21T11:28:30Z,1,1,2025-10,2025-43

@@ -36,18 +36,27 @@ SnapshotUSA_2024_Deployments <- read_csv("data/raw/SnapshotUSA_2024_Deployments.
 SnapshotUSA_2024_Sequences <- read_csv("data/raw/SnapshotUSA_2024_Sequences.csv") %>% 
   mutate(deployment_id = paste0(deployment_id, "_2024"))
 
+#Snapshot USA 2025 Data (be sure to make deployment names unique between years)
+SnapshotUSA_2025_Deployments <- read_csv("data/raw/SnapshotUSA_2025_Deployments.csv") %>%
+  mutate(deployment_id = paste0(deployment_id, "_2025"),
+         start_date = ymd(start_date),
+         end_date = ymd(end_date))
+SnapshotUSA_2025_Sequences <- read_csv("data/raw/SnapshotUSA_2025_Sequences.csv") %>% 
+  mutate(deployment_id = paste0(deployment_id, "_2025"))
+
 ###############################################
 # PART 2: Clean and Merge Camera Trap Data ####
 ###############################################
 
 deployments <- bind_rows(PORE_deployments, 
                          SnapshotUSA_2023_Deployments, 
-                         SnapshotUSA_2024_Deployments) %>% 
+                         SnapshotUSA_2024_Deployments, 
+                         SnapshotUSA_2025_Deployments) %>% 
   
   #Calculate deployment length (in # days/nights)
   mutate(deployment_length = floor(interval(start_date, end_date)/days(1))) %>% 
   
-  #Correct place names from SNAPSHOT USA Projects
+  #Correct place names from SNAPSHOT USA (2023-2024)
   mutate(placename = case_when(
     placename == "CA_Beach_PointReyes_Loc1" ~ "BCAM14",
     placename == "CA_Beach_PointReyes_Loc01" ~ "BCAM14",
@@ -69,6 +78,28 @@ deployments <- bind_rows(PORE_deployments,
     placename == "CA_Beach_PointReyes_Loc10" ~ "BCAM7", 
     .default = placename)) %>% 
   
+  #Correct place names from SNAPSHOT USA (2025)
+  
+  mutate(placename = case_when(
+    placename == "CA_Beach_PointReyes_loc1" ~ "BCAM1",
+    placename == "CA_Beach_PointReyes_loc2" ~ "BCAM3",
+    placename == "CA_Beach_PointReyes_loc3" ~ "BCAM4",
+    placename == "CA_Beach_PointReyes_loc4" ~ "BCAM7",
+    placename == "CA_Beach_PointReyes_loc5" ~ "BCAM9",
+    placename == "CA_Beach_PointReyes_loc6" ~ "BCAM11",
+    placename == "CA_Beach_PointReyes_loc7" ~ "BCAM13",
+    placename == "CA_Beach_PointReyes_loc8" ~ "BCAM15",
+    placename == "CA_Beach_PointReyes_loc9" ~ "BCAM19",
+    placename == "CA_Beach_PointReyes_loc10" ~ "BCAM20",
+    placename == "CA_Beach_PointReyes_loc11" ~ "BCAM21",
+    placename == "CA_Beach_PointReyes_loc12" ~ "BCAM22",
+    placename == "CA_Beach_PointReyes_loc13" ~ "BCAM23",
+    placename == "CA_Beach_PointReyes_loc14" ~ "BCAM24",
+    placename == "CA_Beach_PointReyes_loc15" ~ "BCAM25",
+    placename == "CA_Beach_PointReyes_loc16" ~ "BCAM26",
+    placename == "CA_Beach_PointReyes_loc17" ~ "BCAM27",
+    .default = placename)) %>% 
+  
   #Append accurate site metadata
   select(-latitude, -longitude) %>% 
   left_join(PORE_sites, by = join_by(placename))
@@ -76,14 +107,15 @@ deployments <- bind_rows(PORE_deployments,
 
 sequences <- rbind(PORE_sequences, 
                    SnapshotUSA_2023_Sequences,
-                   SnapshotUSA_2024_Sequences) %>% 
+                   SnapshotUSA_2024_Sequences, 
+                   SnapshotUSA_2025_Sequences) %>% 
   
   #Add place names to sequences 
   
   left_join(., deployments[,c("deployment_id", "placename")]) %>% 
   
   
-  #Correct place names from SNAPSHOT USA Projects
+  #Correct place names from SNAPSHOT USA (2023-2024)
   mutate(placename = case_when(
     placename == "CA_Beach_PointReyes_Loc1" ~ "BCAM14",
     placename == "CA_Beach_PointReyes_Loc01" ~ "BCAM14",
@@ -103,10 +135,32 @@ sequences <- rbind(PORE_sequences,
     placename == "CA_Beach_PointReyes_Loc9" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc09" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc10" ~ "BCAM7", 
-    .default = placename),
-    
+    .default = placename)) %>% 
+  
+  #Correct place names from SNAPSHOT USA (2025)
+  
+  mutate(placename = case_when(
+    placename == "CA_Beach_PointReyes_loc1" ~ "BCAM1",
+    placename == "CA_Beach_PointReyes_loc2" ~ "BCAM3",
+    placename == "CA_Beach_PointReyes_loc3" ~ "BCAM4",
+    placename == "CA_Beach_PointReyes_loc4" ~ "BCAM7",
+    placename == "CA_Beach_PointReyes_loc5" ~ "BCAM9",
+    placename == "CA_Beach_PointReyes_loc6" ~ "BCAM11",
+    placename == "CA_Beach_PointReyes_loc7" ~ "BCAM13",
+    placename == "CA_Beach_PointReyes_loc8" ~ "BCAM15",
+    placename == "CA_Beach_PointReyes_loc9" ~ "BCAM19",
+    placename == "CA_Beach_PointReyes_loc10" ~ "BCAM20",
+    placename == "CA_Beach_PointReyes_loc11" ~ "BCAM21",
+    placename == "CA_Beach_PointReyes_loc12" ~ "BCAM22",
+    placename == "CA_Beach_PointReyes_loc13" ~ "BCAM23",
+    placename == "CA_Beach_PointReyes_loc14" ~ "BCAM24",
+    placename == "CA_Beach_PointReyes_loc15" ~ "BCAM25",
+    placename == "CA_Beach_PointReyes_loc16" ~ "BCAM26",
+    placename == "CA_Beach_PointReyes_loc17" ~ "BCAM27",
+    .default = placename)) %>% 
+  
     #Ensure all blank photos have a value of 1 in the is_blank column
-    is_blank = if_else(common_name == "Blank", 1,0)) %>% 
+    mutate(is_blank = if_else(common_name == "Blank", 1,0)) %>% 
   
     #Append accurate site metadata
     left_join(PORE_sites, by = join_by(placename))
