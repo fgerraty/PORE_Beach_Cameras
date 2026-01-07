@@ -6,7 +6,7 @@
 #Import data
 summarized_detection_count_weekly_wide <- read_csv("data/processed/summarized_detection_count_weekly_wide.csv") %>% 
   as_tibble() %>% 
-  filter(sampling_days == 7) #Filter for only complete weeks
+  filter(sampling_days == 7) #Filter out months with little sampling effort
 
 #Model fitting
 
@@ -27,30 +27,33 @@ summary(coyote)
 
 
 
-raccoon <- glmmTMB(northern_raccoon ~ northern_elephant_seal + human + coyote 
-                      + (1|placename),
+raccoon <- glmmTMB(northern_raccoon ~ #northern_elephant_seal + 
+                     human + coyote 
+                      + bobcat 
+                   + (1|placename),
                       family = poisson, 
-                      data = summarized_detection_count_weekly_wide)
+                      data = summarized_detection_count_monthly_wide)
 summary(raccoon)
 
 
 
-bobcat <- glmmTMB(bobcat ~ northern_elephant_seal + human + coyote
+bobcat <- glmmTMB(bobcat ~ #northern_elephant_seal + 
+                    human + coyote
                       + (1|placename),
                       family = poisson, 
-                      data = summarized_detection_count_weekly_wide)
+                      data = summarized_detection_count_monthly_wide)
 summary(bobcat)
 
 
 
-deer <- glmmTMB(mule_deer ~ northern_elephant_seal + human + coyote + (1|placename),
+deer <- glmmTMB(mule_deer ~ northern_elephant_seal + human + coyote +(1|placename),
                      family = poisson, 
-                     data = summarized_detection_count_weekly_wide)
+                     data = summarized_detection_count_monthly_wide)
 summary(deer)
 
 
 #Structural equation model 
 
-pSEM <- psem(human, coyote, bobcat, raccoon, deer, data = summarized_detection_count_weekly_wide)
+pSEM <- psem(human, coyote, bobcat, raccoon, deer, data = summarized_detection_count_monthly_wide)
 
 summary(pSEM)

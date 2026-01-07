@@ -120,3 +120,35 @@ mammal_seasonality
 #Export Plot
 ggsave("output/mammal_seasonality.png", mammal_seasonality, 
        width = 7, height = 4.5, units = "in", dpi = 600)
+
+
+
+# Exploring between beaches
+
+across_beaches <- summarized_detection_rate_monthly %>% 
+  left_join(PORE_sites, by = join_by(placename)) %>% 
+  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon",
+                            #  "Northern Elephant Seal", 
+                            
+                            "Mule Deer")) %>% 
+  group_by(month, common_name, beach) %>% 
+  summarise(mean = mean(detection_rate), 
+            se = sd(detection_rate)/sqrt(n())) %>% 
+  mutate(common_name = factor(common_name, levels = c("Coyote", "Bobcat", "Northern Raccoon",
+                                                      "Mule Deer")))
+
+across_beaches_plot <- ggplot(across_beaches, aes(x=month, y=mean, fill = common_name))+
+  geom_bar(stat = "identity", position = "dodge")+
+  geom_linerange(aes(ymin = mean-se, ymax = mean+se), position = position_dodge(width = .9),
+                 color = "grey70")+
+  facet_grid(rows = "beach")+
+  scale_x_discrete(labels = month.name)+
+  labs(x = "Month", y = "Detection Rate\n(# Detections / Trap Night)",
+       fill = "Species")+
+  scale_fill_manual(values = c("#FFCB47", "#8AA1B1", "#9AC2C9", "#B9D8C2"))+
+  theme_custom()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "inside",
+        legend.position.inside = c(.5,.75))
+across_beaches_plot
+
