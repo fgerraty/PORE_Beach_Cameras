@@ -9,7 +9,7 @@
 # Part 1: Load Packages --------------------------------------------------
 
 # Load packages
-packages <- c("tidyverse", "lubridate", "rtide", "ggthemes", "overlap", "janitor", "piecewiseSEM", "glmmTMB", "GLMMadaptive", "mgcv", "ggpubr", "GGally")
+packages <- c("tidyverse", "lubridate", "rtide", "ggthemes", "overlap", "janitor", "piecewiseSEM", "glmmTMB", "GLMMadaptive", "mgcv", "ggpubr", "GGally", "zoo")
 
 pacman::p_load(packages, character.only = TRUE); rm(packages)
 
