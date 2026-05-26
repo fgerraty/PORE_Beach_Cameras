@@ -19,10 +19,9 @@ summarized_detection_rate_weekly_wide <- read_csv("data/processed/summarized_det
 
 #Explore plotting
 selected_mammals <- summarized_detection_rate_monthly %>% 
-  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon",
-                          #  "Northern Elephant Seal", 
-                            
-                            "Mule Deer")) %>% 
+  left_join(PORE_sites) %>% 
+  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer"),
+         site_type == "seal") %>% 
   group_by(month, common_name) %>% 
   summarise(mean = mean(detection_rate), 
             se = sd(detection_rate)/sqrt(n())) %>% 
@@ -71,8 +70,9 @@ ggsave("output/coyote_human_seal_seasonality.png", coyote_human_seal_seasonality
 
 
 temp <- summarized_detection_rate_weekly %>% 
-  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon",
-                            "Mule Deer")) %>% 
+  left_join(PORE_sites) %>% 
+  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer"),
+         site_type == "seal") %>% 
   group_by(season, common_name) %>% 
   summarise(mean = mean(detection_rate), 
             se = sd(detection_rate)/sqrt(n())) %>% 
@@ -96,6 +96,8 @@ ggplot(temp, aes(x=common_name, y=mean, fill = season))+
 
 
 temp <- summarized_detection_rate_monthly %>% 
+  left_join(PORE_sites) %>% 
+  filter(site_type == "seal") %>% 
   mutate(season = if_else(month %in% c("01", "02", "03"), "seal", "non-seal")) %>% 
   filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon",
                             "Mule Deer")) %>% 
@@ -149,6 +151,9 @@ across_beaches_plot <- ggplot(across_beaches, aes(x=month, y=mean, fill = common
   theme_custom()+
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
         legend.position = "inside",
-        legend.position.inside = c(.5,.75))
+        legend.position.inside = c(.38,.87))
 across_beaches_plot
 
+#Export Plot
+ggsave("output/multi_beach_seasonality.png", across_beaches_plot, 
+       width = 7, height = 7, units = "in", dpi = 600)

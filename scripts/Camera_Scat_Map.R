@@ -42,8 +42,7 @@ deployments <- read_csv("data/processed/deployments.csv") %>%
 
 #Import scat data
 
-PR_scat <- read_csv("data/raw/PR_scat.csv", 
-                    skip = 1) %>% 
+PR_scat <- read_csv("data/raw/PR_scat.csv") %>% 
   clean_names()
 
 
