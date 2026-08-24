@@ -116,77 +116,83 @@ all_tide_data <- deployments %>%
   pmap_dfr(~ get_tide_data(..1, ..2, ..3))   %>% 
   
   #Combine with reference dataset
-
   left_join(tide_data)
 
 
-#Plot tide heights across all deployment periods
-ggplot(all_tide_data, aes(x=TideHeight))+
-  geom_histogram(fill = "grey70")+
-  theme_few()
+################################################
+# Data prep: 30min independence intervals, #####
+# with tide and occurrence data ################
+################################################
 
-ggplot(all_tide_data, aes(x=RelativeTideHeight))+
-  geom_histogram(fill = "grey70")+
-  theme_few()
+#Create 30min time bins of camera operation
+time_bins <- deployments %>%
+  select(deployment_id, start_date, end_date) %>%
+  mutate(bin_start = map2(start_date, end_date,
+      ~ seq(from = floor_date(.x, unit = "30 minutes"),
+            to   = floor_date(.y, unit = "30 minutes"),
+            by   = "30 mins"))) %>%
+  unnest(bin_start) %>%
+  mutate(bin_end = bin_start + minutes(30)) %>%
+  select(deployment_id, bin_start, bin_end)
 
-ggplot(all_tide_data, aes(x=TideCyclePosition))+
-  geom_histogram(fill = "grey70")+
-  theme_few()
+#Pull tide data of time bins
+tide_summary <- tide_data %>%
+  mutate(bin_start = floor_date(DateTime, unit = "30 minutes")) %>%
+  group_by(bin_start) %>%
+  summarise(
+    tide_height = mean(TideHeight, na.rm = TRUE),
+    sin_sum = sum(sin(TideCyclePosition * 2 * pi), na.rm = TRUE),
+    cos_sum = sum(cos(TideCyclePosition * 2 * pi), na.rm = TRUE),
+    n_obs = sum(!is.na(TideCyclePosition)),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    mean_angle = atan2(sin_sum, cos_sum),
+    tide_cycle_position = (mean_angle %% (2 * pi)) / (2 * pi)
+  ) %>%
+  select(bin_start, tide_height, tide_cycle_position, n_obs) %>% 
+  filter(n_obs==3)
+
+#Bin wildlife sequences
+sequences_binned <- sequences %>%
+  filter(common_name %in% c("Coyote", "Northern Raccoon", "Mule Deer", "Bobcat", 
+                            "North American River Otter", "Striped Skunk")) %>% 
+  mutate(species =common_name,
+         bin_start = floor_date(start_time, unit = "30 minutes")) %>%
+  select(deployment_id, species, bin_start) %>%
+  distinct() %>% 
+  mutate(present = 1)
+
+# Expand to all bin x species combinations so absences are explicit (not just missing rows)
+all_species <- c("Coyote", "Northern Raccoon", "Mule Deer", "Bobcat", 
+                 "North American River Otter", "Striped Skunk")
+
+analysis_df <- time_bins %>%
+  tidyr::crossing(species = all_species) %>%
+  left_join(
+    sequences_binned,
+    by = c("deployment_id", "bin_start", "species")) %>%
+  mutate(present = replace_na(present, 0)) %>% 
+  #Incorporate tide data
+  left_join(tide_summary,
+    by = c("bin_start")) %>% 
+  left_join(select(deployments, "deployment_id", "placename"))
 
 
 
-# Working: Assessing mammal detections and their relation to tide height ------
-
-independent_mammal_detections <- read_csv("data/processed/independent_mammal_detections.csv") %>% 
-  filter(common_name %in% c("Coyote", "Mule Deer", "Northern Raccoon", "Bobcat", "Striped Skunk")) %>% 
-  #Round start time to the nearest hour using lubridate, so as to be able to match the time to the tide height
-  mutate(start_time_10m = floor_date(event_start, unit = "10 minutes")) %>% 
-  left_join(tide_data %>% 
-              select(DateTime, TideHeight, TideTrend, RelativeTideHeight, TideCyclePosition),
-              by = c("start_time_10m" = "DateTime"))
-  
-
-#Plot tide heights for species detections
-ggplot(independent_mammal_detections, aes(x=TideHeight))+
-  geom_histogram()+
-  facet_wrap(facets = "common_name", scales = "free_y")+
-  theme_few()+
-  theme(legend.position = "none")
-
-#Plot relative tide for species detections
-ggplot(independent_mammal_detections, aes(x=RelativeTideHeight, fill = TideTrend))+
-  geom_histogram()+
-  facet_wrap(facets = "common_name", scales = "free_y")+
-  theme_few()
-
-#Plot tide cycle position for species detections
-ggplot(independent_mammal_detections, aes(x=TideCyclePosition, fill = TideTrend))+
-  geom_histogram()+
-  facet_wrap(facets = "common_name", scales = "free_y")+
-  theme_few()
-
-
-temp <- independent_mammal_detections %>% 
-  select(deployment_id, placename, start_time_10m, common_name) %>% 
-  mutate(values = 1) %>% 
-  pivot_wider(names_from = common_name, values_from = values, values_fill = 0) %>% 
-  clean_names()
-
-temp2 <- all_tide_data %>% 
-  left_join(temp, by = c("deployment_id", "DateTime" = "start_time_10m")) %>% 
-  mutate(mule_deer = replace_na(mule_deer, 0),
-         coyote = replace_na(coyote, 0),
-         northern_raccoon = replace_na(northern_raccoon, 0),
-         striped_skunk = replace_na(striped_skunk, 0),
-         bobcat = replace_na(bobcat, 0))
 
 library(glmmTMB)
-mod <- glmmTMB(coyote ~ TideHeight + (1|deployment_id),
-             data = temp2, 
-             family = binomial(link = "logit"))
+
+mod <- glmmTMB(present ~ tide_height + (1|placename),
+               data = filter(analysis_df, species == "Coyote"), 
+               family = binomial(link = "logit"))
 summary(mod)
 
 
-ggplot(temp2, aes(x=TideHeight, y=coyote))+
-  geom_smooth(method = "gam")#+
-  coord_cartesian(ylim = c(0, 0.01))
+# Check assumptions with DHARMa package
+tide_res = simulateResiduals(mod)
+plot(tide_res, rank = T)
+testDispersion(tide_res)
+plotResiduals(tide_res, filter(analysis_df, species == "Coyote")$placename, xlab = "Site", main=NULL)
+
+
