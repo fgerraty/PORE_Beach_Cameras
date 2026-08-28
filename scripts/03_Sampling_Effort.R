@@ -106,7 +106,7 @@ summarized_detection_rate_monthly <- independent_mammal_detections %>%
   separate(year_month, into = c("year", "month"), sep = "-", remove = FALSE)
 
 summarized_detection_rate_monthly_wide <- summarized_detection_rate_monthly %>% 
-  select(-n_detections, -sampling_days) %>% 
+  select(-n_detections) %>% 
   pivot_wider(names_from = common_name, values_from = detection_rate) %>% 
   clean_names()
 
@@ -122,7 +122,7 @@ summarized_detection_rate_weekly <- independent_mammal_detections %>%
   separate(year_week, into = c("year", "week"), sep = "-", remove = FALSE)
 
 summarized_detection_rate_weekly_wide <- summarized_detection_rate_weekly %>% 
-  select(-n_detections, -sampling_days) %>% 
+  select(-n_detections) %>% 
   pivot_wider(names_from = common_name, values_from = detection_rate) %>% 
   clean_names()
 
