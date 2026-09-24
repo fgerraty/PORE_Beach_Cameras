@@ -75,7 +75,8 @@ summarized_detection_count_monthly <- independent_mammal_detections %>%
   summarise(n_detections = n(), .groups = "drop") %>% 
   pivot_wider(names_from = common_name, values_from = n_detections, values_fill = 0) %>% 
   pivot_longer(cols = c(3:ncol(.)), names_to ="common_name", values_to = "n_detections") %>% 
-  left_join(monthly_sampling_effort, by = join_by(placename, year_month))
+  left_join(monthly_sampling_effort, by = join_by(placename, year_month)) |> 
+  drop_na(sampling_days)
 
 summarized_detection_count_monthly_wide <- summarized_detection_count_monthly %>% 
   pivot_wider(names_from = common_name, values_from = n_detections) %>% 
@@ -88,7 +89,8 @@ summarized_detection_count_weekly <- independent_mammal_detections %>%
   summarise(n_detections = n(), .groups = "drop") %>% 
   pivot_wider(names_from = common_name, values_from = n_detections, values_fill = 0) %>% 
   pivot_longer(cols = c(3:ncol(.)), names_to ="common_name", values_to = "n_detections") %>% 
-  left_join(weekly_sampling_effort, by = join_by(placename, year_week))
+  left_join(weekly_sampling_effort, by = join_by(placename, year_week)) |> 
+  drop_na(sampling_days)
 
 summarized_detection_count_weekly_wide <- summarized_detection_count_weekly %>% 
   pivot_wider(names_from = common_name, values_from = n_detections) %>% 
@@ -103,7 +105,8 @@ summarized_detection_rate_monthly <- independent_mammal_detections %>%
   pivot_longer(cols = c(3:ncol(.)), names_to ="common_name", values_to = "n_detections") %>% 
   left_join(monthly_sampling_effort, by = join_by(placename, year_month)) %>% 
   mutate(detection_rate = n_detections/sampling_days) %>% 
-  separate(year_month, into = c("year", "month"), sep = "-", remove = FALSE)
+  separate(year_month, into = c("year", "month"), sep = "-", remove = FALSE) |> 
+  drop_na(sampling_days)
 
 summarized_detection_rate_monthly_wide <- summarized_detection_rate_monthly %>% 
   select(-n_detections) %>% 
@@ -119,7 +122,8 @@ summarized_detection_rate_weekly <- independent_mammal_detections %>%
   pivot_longer(cols = c(3:ncol(.)), names_to ="common_name", values_to = "n_detections") %>% 
   left_join(weekly_sampling_effort, by = join_by(placename, year_week)) %>% 
   mutate(detection_rate = n_detections/sampling_days) %>% 
-  separate(year_week, into = c("year", "week"), sep = "-", remove = FALSE)
+  separate(year_week, into = c("year", "week"), sep = "-", remove = FALSE) |> 
+  drop_na(sampling_days)
 
 summarized_detection_rate_weekly_wide <- summarized_detection_rate_weekly %>% 
   select(-n_detections) %>% 

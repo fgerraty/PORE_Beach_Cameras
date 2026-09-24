@@ -133,6 +133,7 @@ across_beaches <- summarized_detection_rate_monthly %>%
                             #  "Northern Elephant Seal", 
                             
                             "Mule Deer")) %>% 
+  drop_na(sampling_days) |> 
   group_by(month, common_name, beach) %>% 
   summarise(mean = mean(detection_rate), 
             se = sd(detection_rate)/sqrt(n())) %>% 

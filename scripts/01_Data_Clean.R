@@ -12,6 +12,7 @@
 #PORE Beach Camera Project Data
 PORE_sites <- read_csv("data/raw/PORE_sites.csv") 
 PORE_deployments <- read_csv("data/raw/PORE_deployments.csv") 
+deployment_gaps <- read_csv("data/raw/deployment_gaps.csv")
 PORE_sequences <- read_csv("data/raw/PORE_sequences.csv",
                            col_types = cols(
                              sex = col_character(),
@@ -19,29 +20,29 @@ PORE_sequences <- read_csv("data/raw/PORE_sequences.csv",
                            )) 
 
 #Snapshot USA 2023 Data
-SnapshotUSA_2023_Deployments <- read_csv("data/raw/SnapshotUSA_2023_Deployments.csv") %>%
+SnapshotUSA_2023_Deployments <- read_csv("data/raw/SnapshotUSA_2023_Deployments.csv") |>
   mutate(deployment_id = paste0(deployment_id, "_2023")) 
 SnapshotUSA_2023_Sequences <- read_csv("data/raw/SnapshotUSA_2023_Sequences.csv",
                                        col_types = cols(
                                          sex = col_character(),
-                                         age = col_character())) %>% 
+                                         age = col_character())) |> 
   mutate(deployment_id = paste0(deployment_id, "_2023"))
 
 
 #Snapshot USA 2024 Data (be sure to make deployment names unique between years)
-SnapshotUSA_2024_Deployments <- read_csv("data/raw/SnapshotUSA_2024_Deployments.csv") %>%
+SnapshotUSA_2024_Deployments <- read_csv("data/raw/SnapshotUSA_2024_Deployments.csv") |>
   mutate(deployment_id = paste0(deployment_id, "_2024"),
          start_date = mdy_hm(start_date),
          end_date = mdy_hm(end_date))
-SnapshotUSA_2024_Sequences <- read_csv("data/raw/SnapshotUSA_2024_Sequences.csv") %>% 
+SnapshotUSA_2024_Sequences <- read_csv("data/raw/SnapshotUSA_2024_Sequences.csv") |> 
   mutate(deployment_id = paste0(deployment_id, "_2024"))
 
 #Snapshot USA 2025 Data (be sure to make deployment names unique between years)
-SnapshotUSA_2025_Deployments <- read_csv("data/raw/SnapshotUSA_2025_Deployments.csv") %>%
+SnapshotUSA_2025_Deployments <- read_csv("data/raw/SnapshotUSA_2025_Deployments.csv") |>
   mutate(deployment_id = paste0(deployment_id, "_2025"),
          start_date = ymd(start_date),
          end_date = ymd(end_date))
-SnapshotUSA_2025_Sequences <- read_csv("data/raw/SnapshotUSA_2025_Sequences.csv") %>% 
+SnapshotUSA_2025_Sequences <- read_csv("data/raw/SnapshotUSA_2025_Sequences.csv") |> 
   mutate(deployment_id = paste0(deployment_id, "_2025"))
 
 ###############################################
@@ -51,10 +52,14 @@ SnapshotUSA_2025_Sequences <- read_csv("data/raw/SnapshotUSA_2025_Sequences.csv"
 deployments <- bind_rows(PORE_deployments, 
                          SnapshotUSA_2023_Deployments, 
                          SnapshotUSA_2024_Deployments, 
-                         SnapshotUSA_2025_Deployments) %>% 
+                         SnapshotUSA_2025_Deployments) |> 
+  left_join(deployment_gaps, by = join_by(project_id, deployment_id, placename, start_date, end_date)) |> 
+  
+  #Fix end dates in cases where cameras failed
+  mutate(end_date = if_else(!is.na(failure_1_start), failure_1_start, end_date)) |> 
   
   #Calculate deployment length (in # days/nights)
-  mutate(deployment_length = floor(interval(start_date, end_date)/days(1))) %>% 
+  mutate(deployment_length = floor(interval(start_date, end_date)/days(1))) |> 
   
   #Correct place names from SNAPSHOT USA (2023-2024)
   mutate(placename = case_when(
@@ -76,7 +81,7 @@ deployments <- bind_rows(PORE_deployments,
     placename == "CA_Beach_PointReyes_Loc9" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc09" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc10" ~ "BCAM7", 
-    .default = placename)) %>% 
+    .default = placename)) |> 
   
   #Correct place names from SNAPSHOT USA (2025)
   
@@ -98,22 +103,29 @@ deployments <- bind_rows(PORE_deployments,
     placename == "CA_Beach_PointReyes_loc15" ~ "BCAM25",
     placename == "CA_Beach_PointReyes_loc16" ~ "BCAM26",
     placename == "CA_Beach_PointReyes_loc17" ~ "BCAM27",
-    .default = placename)) %>% 
+    .default = placename)) |> 
   
   #Append accurate site metadata
-  select(-latitude, -longitude) %>% 
+  select(-latitude, -longitude) |> 
   left_join(PORE_sites, by = join_by(placename))
   
 
 sequences <- rbind(PORE_sequences, 
                    SnapshotUSA_2023_Sequences,
                    SnapshotUSA_2024_Sequences, 
-                   SnapshotUSA_2025_Sequences) %>% 
+                   SnapshotUSA_2025_Sequences) |> 
   
   #Add place names to sequences 
   
-  left_join(., deployments[,c("deployment_id", "placename")]) %>% 
+  left_join(deployments[,c("deployment_id", "placename", "failure_1_start", "failure_1_end")], 
+            by = join_by(deployment_id)) |> 
   
+  #Filter for sequences during failure periods
+  
+  filter(
+    is.na(failure_1_start) | is.na(failure_1_end) |
+      start_time < failure_1_start | start_time > failure_1_end) |> 
+  select(-failure_1_start, -failure_1_end) |> 
   
   #Correct place names from SNAPSHOT USA (2023-2024)
   mutate(placename = case_when(
@@ -135,7 +147,7 @@ sequences <- rbind(PORE_sequences,
     placename == "CA_Beach_PointReyes_Loc9" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc09" ~ "BCAM13",
     placename == "CA_Beach_PointReyes_Loc10" ~ "BCAM7", 
-    .default = placename)) %>% 
+    .default = placename)) |> 
   
   #Correct place names from SNAPSHOT USA (2025)
   
@@ -157,10 +169,10 @@ sequences <- rbind(PORE_sequences,
     placename == "CA_Beach_PointReyes_loc15" ~ "BCAM25",
     placename == "CA_Beach_PointReyes_loc16" ~ "BCAM26",
     placename == "CA_Beach_PointReyes_loc17" ~ "BCAM27",
-    .default = placename)) %>% 
+    .default = placename)) |> 
   
     #Ensure all blank photos have a value of 1 in the is_blank column
-    mutate(is_blank = if_else(common_name == "Blank", 1,0)) %>% 
+    mutate(is_blank = if_else(common_name == "Blank", 1,0)) |> 
   
     #Append accurate site metadata
     left_join(PORE_sites, by = join_by(placename))
