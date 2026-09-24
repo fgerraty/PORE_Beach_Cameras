@@ -26,62 +26,43 @@ coyote_sequences <- read.csv("data/processed/sequences.csv") |>
 # Clean Data ####
 #################
 
-# Function to split a comma/semicolon-separated field, keeping positions intact
+# Function to split comma/semicolon-separated field
 split_codes <- function(x) {
   if (is.na(x) || str_trim(x) == "") return(character(0))
   str_trim(str_split(x, "[,;]")[[1]])
 }
 
 
-coyote_seq <- coyote_sequences %>%
+coyote_individuals <- coyote_sequences %>%
+  select(deployment_id, placename, sequence_id, start_time, end_time,
+         markings, individual_animal_notes) %>%
+  # Tally and clean PBV and mange status
   mutate(
-    marking_raw = map(markings, split_codes),
-    note_raw    = map(individual_animal_notes, split_codes),
-    n_marks     = lengths(marking_raw),
-    n_notes     = lengths(note_raw),
-    
-    # otherwise the pairing can't be trusted, so they become NA
-    note_aligned = map2(marking_raw, note_raw,
-                        \(m, n) if (length(n) == length(m)) n else rep(NA_character_, length(m))),
-    notes_mismatch = n_notes > 0 & n_notes != n_marks,
-    
-    # Drop empty / "?" markings by position, from both lists together
-    keep_idx   = map(marking_raw, ~ which(.x != "" & !str_detect(.x, "\\?"))),
-    mange_list = map2(marking_raw,  keep_idx, ~ .x[.y]),
-    notes_list = map2(note_aligned, keep_idx, ~ .x[.y]),
-    
-    n_coyotes_id = map_int(mange_list, length),
-    mange_status = map_chr(mange_list, function(m) {
-      if (length(m) == 0) {
-        "Unknown"
-      } else if (length(unique(m)) == 1) {
-        unique(m)
-      } else {
-        "Mixed"
-      }})) %>%
-  select(-marking_raw, -note_raw, -note_aligned, -keep_idx)
-
-
-coyote_seq %>%
-  filter(notes_mismatch) %>%
-  select(sequence_id, markings, individual_animal_notes)
-
-coyote_individuals <- coyote_seq %>%
-  select(deployment_id, sequence_id, start_time, end_time, placename,
-         mange_list, notes_list) %>%
-  unnest(c(mange_list, notes_list), keep_empty = TRUE) %>%   # keep sequences with no usable marking
-  rename(status = mange_list,
-         individual_note = notes_list) %>%
-  mutate(
-    status = coalesce(status, "Unknown"),
-    status_clean = str_to_lower(str_squish(status)),
-    health_group = case_when(
-      str_detect(status_clean, "unknown")  ~ "Unknown",          # must come before "mange"
-      str_detect(status_clean, "possible") ~ "Possible mange",
-      str_detect(status_clean, "mange")    ~ "Mange",            # Mange, Mange: Mild, Mange: Severe
-      str_detect(status_clean, "healthy")  ~ "Healthy",
-      TRUE ~ NA_character_
-    ))
+    across(c(markings, individual_animal_notes), ~ na_if(str_trim(.x), "")),
+    n_marks = coalesce(str_count(markings, "[,;]") + 1L, 1L),
+    n_notes = str_count(individual_animal_notes, "[,;]") + 1L, # NA if no notes
+    notes_mismatch = !is.na(n_notes) & n_notes != n_marks,
+    # Missing or mismatched notes -> blank placeholder  #check these!!!!
+    individual_animal_notes2 = if_else(is.na(n_notes) | notes_mismatch,
+                                      str_dup(",", n_marks - 1L),
+                                      individual_animal_notes)) %>%
+  
+  # Separate to one row per coyote
+  separate_longer_delim(c(markings, individual_animal_notes2), delim = regex("[,;]")) %>%
+  mutate(across(c(markings, individual_animal_notes), ~ na_if(str_trim(.x), ""))) %>% #clean spaces before/after labels
+  
+  # Flag blank and "?" markings for QA/QC
+  group_by(deployment_id, sequence_id) %>%
+  mutate(usable = !is.na(markings) & !str_detect(markings, "\\?")) %>%
+  ungroup() %>%
+  mutate(status = if_else(usable, markings, "Unknown")) %>% #flag unknowns for QA/QC
+  select(deployment_id, placename, sequence_id, start_time, end_time,
+         status, individual_note = individual_animal_notes, notes_mismatch) |> 
+  mutate(health_group = case_when(
+            str_detect(status, "Unknown")  ~ "Unknown",          # must come before "mange"
+            str_detect(status, "Mange")    ~ "Mange",            # Mange, Mange: Mild, Mange: Severe
+            str_detect(status, "Healthy")  ~ "Healthy",
+            TRUE ~ NA_character_))
 
 
 independent <- 30 * 60  # 30 minutes (in seconds)
@@ -145,10 +126,16 @@ site_summary <- diurnality_events |>
   left_join(PORE_sites)
 
 
+temp <- site_summary |> 
+  group_by(site_type) |> 
+  summarise(mean_prop = mean(prop_mange))
+
 
 ggplot(site_summary, aes(x=site_type, y=prop_mange))+
   geom_point()+
-  geom_smooth()
+  geom_smooth()+
+  geom_boxplot()+
+  theme_classic()
 
 
 #####################################################
@@ -208,6 +195,9 @@ watson.two.test(healthy_circ, mange_circ)
 # MAP OF MANGE ####
 ###################
 
+library(sf)
+library(ggspatial)
+
 PORE <-  st_read("data/shapefiles/Administrative_Boundaries of_National Park_System_Units/nps_boundary.shp") %>% 
   subset(UNIT_CODE == "PORE")%>% 
   st_transform(crs= "WGS84")
@@ -217,6 +207,8 @@ counties <- st_read("data/shapefiles/stanford-jm667wq2232-shapefile/jm667wq2232.
   st_make_valid() %>% 
   st_union() 
 
+#Create new shapefile with overlap of counties and PORE shapefiles
+PORE_land <-st_intersection (counties, PORE) 
 
 
 # 1. Site-level proportions --------------------------------------------
@@ -405,3 +397,46 @@ pie_map
 
 ggsave("output/map/mange_pies.png", pie_map,
        width = 5, height = 4, units = "in", dpi = 600)
+
+#################
+#Seasonality ####
+#################
+
+season_labels <- c("Jan-Mar", "Apr-Jun", "Jul-Sep", "Oct-Dec")
+
+# 1. Effort: camera-days per season (all deployments, all years) ------------
+effort <- deployments %>%
+  filter(!is.na(start_date), !is.na(end_date)) %>%
+  mutate(start_day = as_date(start_date),
+         n_days    = as.integer(as_date(end_date) - start_day) + 1) %>%
+  uncount(n_days, .id = "day_num") %>%            # one row per camera-day
+  mutate(day    = start_day + day_num - 1,
+         season = factor(quarter(day), levels = 1:4, labels = season_labels)) %>%
+  count(season, name = "camera_days")
+
+# 2. Detections per season and health group --------------------------------
+detections <- independent_coyote_detections %>%
+  filter(health_group %in% c("Healthy", "Mange")) %>%
+  mutate(season = factor(quarter(event_start), levels = 1:4, labels = season_labels)) %>%
+  count(season, health_group, name = "n_detections") %>%
+  complete(season, health_group, fill = list(n_detections = 0))   # keep zero-count combinations
+
+# 3. Rate per 100 camera-days, with exact Poisson 95% CI --------------------
+rates <- detections %>%
+  left_join(effort, by = "season") %>%
+  mutate(rate  = n_detections / camera_days * 100,
+         lower = if_else(n_detections == 0, 0, qchisq(0.025, 2 * n_detections) / 2) / camera_days * 100,
+         upper = qchisq(0.975, 2 * (n_detections + 1)) / 2 / camera_days * 100,
+         health_group = factor(health_group, levels = c("Healthy", "Mange")))
+
+# 4. Plot -------------------------------------------------------------------
+dodge <- position_dodge(width = 0.8)
+
+season_plot <- ggplot(rates, aes(season, rate, fill = health_group)) +
+  geom_col(position = dodge, width = 0.7, color = "black", linewidth = 0.3) +
+  geom_errorbar(aes(ymin = lower, ymax = upper), position = dodge, width = 0.2) +
+  geom_text(aes(y = upper, label = n_detections), position = dodge, vjust = -0.5, size = 3) +
+  scale_fill_manual(values = c(Healthy = "grey85", Mange = "#B2182B")) +
+  labs(x = "Season", y = "Detections per 100 camera-days", fill = NULL) +
+  theme_bw()
+season_plot

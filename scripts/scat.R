@@ -176,7 +176,7 @@ scat_data_clean <- scat_data |>
   filter(!common_name %in% 
            c("Bobcat (filter)", "Human (contamination)", "Coyote (filter)")) |> 
   distinct(sample, defecator, species, common_name) |>   # one row per sample x prey item
-  left_join(PR_scat |> select(sample, season), by = "sample") |> 
+  left_join(PR_scat |> select(sample, season, date, latitude, longitude), by = "sample") |> 
   left_join(group_lookup)
 
 
@@ -402,5 +402,29 @@ wpoo_season |>
   facet_wrap(~season, scales = "free_y") +
   labs(x = NULL, y = "wPOO (%)", title = "Diet composition by season (weighted % occurrence)") +
   theme_minimal()
+
+
+coyote_marine_wpoo <- wpoo_season |> 
+  filter(defecator == "Coyote") |> 
+  filter(group %in% c("Northern elephant seal", "Cormorant", "Marine fish", 
+                      "Other pinniped", "Other seabird")) |> 
+  mutate(season = factor(season, levels = c("Winter (Jan-Mar)", 
+                                            "Spring (Apr-Jun)",
+                                            "Summer (Jul-Sep)", 
+                                            "Fall (Oct-Dec)")),
+         group = factor(group, levels = c("Marine fish", 
+                                          "Other seabird",
+                                          "Cormorant", 
+                                          "Other pinniped",
+                                          "Northern elephant seal")))
+
+
+ggplot(coyote_marine_wpoo, aes(x=season, y=wPOO_pct, fill=group))+
+  geom_col(position = "stack") +
+  labs(x = NULL, y = "Weighted Proportion of Occurrence (wPOO)", 
+       fill = "Prey item")+
+  scale_fill_viridis(discrete = TRUE, direction = -1)+
+  theme_custom()
+
 
 
