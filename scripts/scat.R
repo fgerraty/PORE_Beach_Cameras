@@ -9,6 +9,7 @@ PR_scat <- read_csv("data/raw/PR_scat.csv") %>%
   clean_names |> 
   mutate(date = dmy(collection_date),
          month = month(date),
+         year = year(date),
          season = case_when(
            month %in% c(1,2,3) ~ "Winter (Jan-Mar)", 
            month %in% c(4:6) ~ "Spring (Apr-Jun)", 
@@ -204,7 +205,7 @@ group_order <- c("California vole", "Botta's pocket gopher", "Deer mouse",
 
 foo_plot_df <- foo_overall |> 
   complete(defecator,group = group_order,
-           fill = list(n_present = 0, FOO_pct = 0)) |> 
+           fill = list(sum_weight = 0, wPOO_pct = 0)) |> 
   mutate(group = factor(group, levels = rev(group_order)),
          FOO_signed = if_else(defecator == "Bobcat", -FOO_pct, FOO_pct))
 
@@ -227,6 +228,7 @@ coyote_bobcat_diet_plot <- ggplot(foo_plot_df, aes(x=group, y = FOO_signed, fill
   theme(panel.grid.major = element_line(color = "grey90", 
                                         linewidth = 0.3),
         legend.position = "none")
+coyote_bobcat_diet_plot
 
 ggsave("output/extra_plots/coyote_bobcat_diet_plot.png", coyote_bobcat_diet_plot, 
        width=4, height=6, units="in", dpi=600)
@@ -270,6 +272,7 @@ rarefaction_plot <- ggiNEXT(out, type = 1, facet.var = "Order.q") +
   theme_custom()+
   theme(panel.grid.major = element_line(color = "grey90", 
                                   linewidth = 0.3))
+rarefaction_plot
 
 ggsave("output/extra_plots/rarefaction_plot.png", rarefaction_plot, 
        width=5, height=6, units="in", dpi=600)
@@ -318,14 +321,20 @@ coyote_marine <- wpoo_season |>
                                           "Northern elephant seal")))
 
 
-ggplot(coyote_marine, aes(x=season, y=wPOO_pct, fill=group))+
+coyote_marine_plot <- ggplot(coyote_marine, aes(x=season, y=wPOO_pct, fill=group))+
   geom_col(position = "stack") +
-  labs(x = NULL, y = "Weighted Percentage of Occurrence (wPoO)", fill = "Prey item")+
   scale_fill_viridis(discrete = TRUE, direction = -1)+
+  scale_x_discrete(labels = c("Winter\n(Jan-Mar)", 
+                              "Spring\n(Apr-Jun)",
+                              "Summer\n(Jul-Sep)", 
+                              "Fall\n(Oct-Dec)"))+
+  labs(x = NULL, y = "Weighted Percentage of Occurrence (wPoO)", fill = "Prey item")+
+
   theme_custom()
+coyote_marine_plot
 
-
-
+ggsave("output/extra_plots/coyote_marine.png", coyote_marine_plot, 
+       width=7, height=5, units="in", dpi=600)
 
 
 
