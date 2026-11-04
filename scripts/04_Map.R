@@ -47,7 +47,7 @@ inset <- ggplot() +
   geom_sf(data = counties, fill="#FAEED9")+
   geom_sf(data=PORE_land, fill = "#D1E3B3")+
   geom_point(data = PORE_sites, 
-             mapping = aes(longitude, latitude, color = site_type))+
+             mapping = aes(longitude, latitude, shape = site_type))+
   coord_sf(crs = st_crs(4326),
            xlim = c(-123.05, -122.88),
            ylim = c(37.98, 38.1),
@@ -56,9 +56,9 @@ inset <- ggplot() +
   theme(panel.background = element_rect(fill = "#BDE8FE"))+
   scale_x_continuous(breaks=c(-123, -122.9), name = "")+ # Sets the x (longitude) labels 
   scale_y_continuous(breaks = c(38.0, 38.05), name = "")+
-  scale_color_manual(values = c("darkgreen",  "#F27F0C"), 
+  scale_shape_manual(values = c(17, 16), 
                      labels = c("Non-Rookery", "Rookery"))+
-  labs(color = c("Camera Trap\nSite Type"))+
+  labs(shape = c("Camera Trap\nSite Type"))+
   theme(legend.position = "inside", 
         legend.position.inside = c(.18, .82),
         legend.box.background = element_rect(color = "black", linewidth = 1),
@@ -87,7 +87,9 @@ main_map <- ggplot() +
   geom_sf(data = counties, fill="#FAEED9")+
   geom_sf(data=PORE_land, fill = "#D1E3B3")+
   geom_point(data = PORE_sites, 
-             mapping = aes(longitude, latitude, color = site_type))+
+             mapping = aes(longitude, latitude, 
+                           shape = site_type),
+             size = 1)+
   geom_rect(aes(  # outer bounding box / border
     xmin = -123.04, 
     xmax = -122.88, 
@@ -101,7 +103,7 @@ main_map <- ggplot() +
            ylim = c(37.85, 38.25),
            expand = FALSE)+
   theme_bw()+
-  scale_color_manual(values = c("darkgreen",  "#F27F0C"), 
+  scale_shape_manual(values = c(17,16), 
                      labels = c("Non-Rookery", "Rookery"))+
   
   theme(panel.background = element_rect(fill = "#BDE8FE"),
@@ -112,7 +114,7 @@ main_map <- ggplot() +
 main_map
 
 ggsave("output/map/main_map.png", main_map, 
-       width = 3.5, height = 4, units = "in", dpi = 600)
+       width = 3, height = 4, units = "in", dpi = 600)
 
 
 #########################
@@ -125,10 +127,11 @@ ca_df <- subset(states, region == "california")
 california <- ggplot() + 
   coord_fixed(1.3) + 
   geom_polygon(data = ca_df, mapping = aes(x = long, y = lat, group = group), 
-               color = "black", fill = "lightgrey") +
+               color = "black", fill = "grey85") +
   geom_rect(aes(xmin = -123.05, xmax = -122.7, ymin = 37.85, ymax = 38.25),
             color = "red", fill = NA, linewidth = 1) +
   theme_void()
+california
 
 ggsave("output/map/california.png", california, 
        width = 3, height = 4, units = "in", dpi = 600)

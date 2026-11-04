@@ -52,7 +52,8 @@ annual_pup_maximumum <- seal_data_filtered %>%
 ggplot(annual_pup_maximumum, aes(x=year, y=maximum_count, fill = SiteCode))+
   geom_bar(stat="identity")+
   labs(x="Year", y="Elephant Seal Pups\n(annual max. count)", fill = "Site")+
-  scale_fill_manual(values = c("#ed1c24", "#662d91"), labels = c("Drakes Beach", "South Beach"))+
+  scale_fill_manual(values = c("#E38E49", "#6B5B95"),
+                    labels = c("Drakes Beach", "South Beach"))+
   scale_x_continuous(breaks = c(2000, 2005, 2010, 2015, 2020, 2025))+
   theme_custom()+
   theme(axis.text.x = element_text(angle = 45, hjust = 1),

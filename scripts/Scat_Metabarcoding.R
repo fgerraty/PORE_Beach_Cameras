@@ -218,6 +218,10 @@ scat_data_clean |>
 
 # Calculate overall weighted proportion of occurrence (wPOO) ####
 
+n_scats_overall <- scat_data_clean |> 
+  distinct(sample, defecator) |> 
+  count(defecator, name = "n_scats")
+
 items_per_scat_overall <- scat_data_clean |> 
   distinct(sample, defecator, common_name) |> 
   count(sample, defecator, name = "n_items")
@@ -272,6 +276,10 @@ ggsave("output/extra_plots/coyote_bobcat_diet_plot.png", coyote_bobcat_diet_plot
 
 # Calculate seasonal weighted proportion of occurrence (wPOO) ####
 
+n_scats_season <- scat_data_clean |> 
+  distinct(sample, defecator, season) |> 
+  count(defecator, season, name = "n_scats")
+
 items_per_scat_season <- scat_data_clean |> 
   distinct(sample, defecator, season, common_name) |> 
   count(sample, defecator, season, name = "n_items")
@@ -308,7 +316,7 @@ megagroup_cols <- c(
   "Other small mammal"      = "#FBAA55",
   "Brush rabbit"            = "#7C9A5E",
   "Native ungulate"         = "darkgreen", 
-  "Other terrestrial"       = "#7e7e5d",
+  "Other terrestrial"       = "#C8C8C8",
   "Livestock/anthropogenic" = "pink", 
   "Other marine"            = "#9ECAE1",
   "Seabird"                 = "#2B7BBA",
@@ -357,6 +365,7 @@ carnivore_diet_seasonality_plot <- ggplot(plot_df,
     strip.text         = element_text(face = "bold", size = 12),
     axis.title.y       = element_text(face = "bold")
   )
+carnivore_diet_seasonality_plot
 
 ggsave("output/extra_plots/carnivore_diet_seasonality.png", carnivore_diet_seasonality_plot, 
        width=7, height=6, units="in", dpi=600)
