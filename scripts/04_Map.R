@@ -34,7 +34,7 @@ PORE_sites <- read_csv("data/raw/PORE_sites.csv")
 
 #Import scat data
 
-PR_scat <- read_csv("data/raw/PR_scat.csv") %>% 
+PR_scat <- read_csv("data/processed/scat_data_clean.csv") %>% 
   clean_names()
 
 ########################
@@ -141,42 +141,44 @@ ggsave("output/map/california.png", california,
 # Part 5: Scat Map ######
 #########################
 
+defecator_cols <- c("darkgreen", "#F27F0C")
 
-inset_scat <- ggplot() +
+strip_cols <- strip_themed(
+  background_x = elem_list_rect(fill = defecator_cols),
+  text_x       = elem_list_text(colour = "white", face = "bold"))
+
+
+scat_map <- ggplot() +
   geom_sf(data = counties, fill="#FAEED9")+
   geom_sf(data=PORE_land, fill = "#D1E3B3")+
-  geom_point(data = PR_scat, 
-             mapping = aes(longitude, latitude),
-             color = "grey50", alpha = .7, shape = 16)+ 
-  geom_point(data = PORE_sites, 
-             mapping = aes(longitude, latitude, color = site_type))+
+  geom_point(data = PR_scat, aes(x=longitude, y=latitude, color=defecator), 
+             alpha = .5, shape = 16)+ 
   coord_sf(crs = st_crs(4326),
-           xlim = c(-123.05, -122.88),
-           ylim = c(37.98, 38.1),
+           xlim = c(-123.04, -122.91),
+           ylim = c(37.98, 38.09),
            expand = FALSE)+
-  theme_bw()+
-  theme(panel.background = element_rect(fill = "#BDE8FE"))+
-  scale_x_continuous(breaks=c(-123, -122.9), name = "")+ # Sets the x (longitude) labels 
-  scale_y_continuous(breaks = c(38.0, 38.05), name = "")+
-  scale_color_manual(values = c("darkgreen",  "#F27F0C"), 
-                     labels = c("Non-Rookery", "Rookery"))+
-  labs(color = c("Camera Trap\nSite Type"))+
-  theme(legend.position = "inside", 
-        legend.position.inside = c(.18, .82),
-        legend.box.background = element_rect(color = "black", linewidth = 1),
-        panel.border = element_rect(linewidth = 2))+
+  facet_wrap2(vars(defecator), ncol = 1, strip = strip_cols) +
   # Add scale bar
-  annotation_scale(location = "bl", width_hint = 0.2)+
+  annotation_scale(location = "tl", width_hint = 0.2)+
   # Add north arrow
   annotation_north_arrow(
-    location = "bl", which_north = "true",
+    location = "tl", which_north = "true",
     height = unit(1, "cm"), width = unit(1, "cm"),
     pad_y = unit(.75, "cm"),
-    style = north_arrow_fancy_orienteering())
-inset_scat
+    style = north_arrow_fancy_orienteering())+
+  theme_bw()+
+  theme(panel.background = element_rect(fill = "#BDE8FE"))+
+  scale_x_continuous(breaks=c(-123, -122.95), name = "")+ 
+  scale_y_continuous(breaks = c(38.0, 38.05), name = "")+
+  scale_color_manual(values = c("darkgreen",  "#F27F0C"))+ 
+  theme(legend.position = "none", 
+        panel.border = element_rect(linewidth = 2),
+        strip.text = element_text(face="bold"))
+
+scat_map
 
 #Export Map
 
-ggsave("output/map/inset_scat.png", inset_scat, 
-       width = 5, height = 4, units = "in", dpi = 600)
+ggsave("output/extra_plots/scat_map.png", inset_scat, 
+       width = 3, height = 6, units = "in", dpi = 600)
 

@@ -24,8 +24,9 @@ PR_scat <- read_csv("data/raw/PR_scat.csv") %>%
 
 scat_data <- read_csv("data/raw/sequencing_12S.csv") |> 
   filter(Percentage_filter == "0.5") |> 
-  filter(!Sample %in% c("PRB9", "PRB10"))
-
+  filter(!Sample %in% c("PRB9", "PRB10")) |> #Filter scats with mistranslation of ID codes
+  filter(!Sample %in% c("PR055", "PR093", "PR134", "PR065"))
+  
 ##################
 # Data Clean #####
 ##################
@@ -197,6 +198,7 @@ scat_data_clean <- scat_data |>
   left_join(PR_scat |> select(sample, season, year, date, latitude, longitude), by = "sample") |> 
   left_join(group_lookup)
 
+write_csv(scat_data_clean, "data/processed/scat_data_clean.csv")
 
 ################################################
 # Data summarization and diet visualization ####

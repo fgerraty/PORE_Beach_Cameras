@@ -1,0 +1,532 @@
+sample,defecator,species,common_name,season,year,date,latitude,longitude,group,megagroup
+PR008,Bobcat,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2022,2022-12-19,38.0225,-122.97273,Botta's pocket gopher,Botta's pocket gopher
+PR011,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2022,2022-12-19,38.02187,-122.97119000000001,Cormorant,Seabird
+PR018,Bobcat,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2022,2022-12-19,38.01753,-122.97848,Botta's pocket gopher,Botta's pocket gopher
+PR019,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2022,2022-12-19,38.01641,-122.9775,Deer mouse,Other small mammal
+PR019,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2022,2022-12-19,38.01641,-122.9775,California vole,California vole
+PR023,Bobcat,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2022,2022-12-19,38.01087,-122.98167,Botta's pocket gopher,Botta's pocket gopher
+PR027,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2022,2022-12-20,38.03121,-122.95066,California vole,California vole
+PR027,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2022,2022-12-20,38.03121,-122.95066,Botta's pocket gopher,Botta's pocket gopher
+PR030,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2022,2022-12-20,38.02865,-122.96172,Deer mouse,Other small mammal
+PR030,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2022,2022-12-20,38.02865,-122.96172,California vole,California vole
+PR031,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2022,2022-12-20,37.99722,-122.98165,Botta's pocket gopher,Botta's pocket gopher
+PR037,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2023,2023-01-28,38.029902,-122.961994,Botta's pocket gopher,Botta's pocket gopher
+PR038,Bobcat,Callipepla californica,California quail,Winter (Jan-Mar),2023,2023-01-28,38.029944,-122.956526,Landbird,Other terrestrial
+PR038,Bobcat,Neotoma fuscipes,Dusky-footed woodrat,Winter (Jan-Mar),2023,2023-01-28,38.029944,-122.956526,Other rodent,Other small mammal
+PR038,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2023,2023-01-28,38.029944,-122.956526,Botta's pocket gopher,Botta's pocket gopher
+PR049,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2023,2023-01-29,37.99238,-122.97066,Northern elephant seal,Elephant seal
+PR049,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2023,2023-01-29,37.99238,-122.97066,Botta's pocket gopher,Botta's pocket gopher
+PR049,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2023,2023-01-29,37.99238,-122.97066,Deer mouse,Other small mammal
+PR051,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2023,2023-01-29,37.991,-122.9692,Botta's pocket gopher,Botta's pocket gopher
+PR053,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2023,2023-01-29,37.99426,-122.97718,Northern elephant seal,Elephant seal
+PR054,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2023,2023-01-29,37.99474,-122.97917,Northern elephant seal,Elephant seal
+PR061,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2023,2023-09-05,38.02796,-122.95863,Deer mouse,Other small mammal
+PR061,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-05,38.02796,-122.95863,California vole,California vole
+PR063,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-05,38.02164,-122.97128,California vole,California vole
+PR066,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2023,2023-09-24,38.03236,-122.93722,Botta's pocket gopher,Botta's pocket gopher
+PR066,Coyote,Zalophus californianus,California sea lion,Summer (Jul-Sep),2023,2023-09-24,38.03236,-122.93722,Other pinniped,Other marine
+PR066,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.03236,-122.93722,California vole,California vole
+PR067,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.0209,-122.97179,California vole,California vole
+PR069,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.01092,-122.98161,California vole,California vole
+PR069,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2023,2023-09-24,38.01092,-122.98161,Deer mouse,Other small mammal
+PR069,Coyote,Engraulis mordax,Northern anchovy,Summer (Jul-Sep),2023,2023-09-24,38.01092,-122.98161,Marine fish,Other marine
+PR069,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2023,2023-09-24,38.01092,-122.98161,Botta's pocket gopher,Botta's pocket gopher
+PR070,Bobcat,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.01078,-122.98112,California vole,California vole
+PR071,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.01073,-122.98112,California vole,California vole
+PR071,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2023,2023-09-24,38.01073,-122.98112,Deer mouse,Other small mammal
+PR073,Bobcat,Mustela frenata,Long-tailed weasel,Summer (Jul-Sep),2023,2023-09-24,38.01203,-122.98079,Mesocarnivore,Other terrestrial
+PR073,Bobcat,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.01203,-122.98079,California vole,California vole
+PR074,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.01332,-122.97986,California vole,California vole
+PR075,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.01358,-122.97977,California vole,California vole
+PR075,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2023,2023-09-24,38.01358,-122.97977,Deer mouse,Other small mammal
+PR075,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2023,2023-09-24,38.01358,-122.97977,Botta's pocket gopher,Botta's pocket gopher
+PR075,Coyote,Nannopterum auritum,Double-crested cormorant,Summer (Jul-Sep),2023,2023-09-24,38.01358,-122.97977,Cormorant,Seabird
+PR075,Coyote,Mephitis mephitis,Striped skunk,Summer (Jul-Sep),2023,2023-09-24,38.01358,-122.97977,Mesocarnivore,Other terrestrial
+PR077,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.02175,-122.97121,California vole,California vole
+PR077,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2023,2023-09-24,38.02175,-122.97121,Deer mouse,Other small mammal
+PR077,Coyote,Bos taurus,Domestic cow,Summer (Jul-Sep),2023,2023-09-24,38.02175,-122.97121,Domestic cow,Livestock/anthropogenic
+PR080,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.02768,-122.9637,California vole,California vole
+PR081,Bobcat,Sylvilagus bachmani,Brush rabbit,Summer (Jul-Sep),2023,2023-09-24,38.02813,-122.96343,Brush rabbit,Brush rabbit
+PR081,Bobcat,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.02813,-122.96343,California vole,California vole
+PR082,Bobcat,Microtus californicus,California vole,Summer (Jul-Sep),2023,2023-09-24,38.0281,-122.96342,California vole,California vole
+PR085,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2023,2023-10-24,38.03422,-122.9470423,Botta's pocket gopher,Botta's pocket gopher
+PR085,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-10-24,38.03422,-122.9470423,California vole,California vole
+PR085,Coyote,Sylvilagus bachmani,Brush rabbit,Fall (Oct-Dec),2023,2023-10-24,38.03422,-122.9470423,Brush rabbit,Brush rabbit
+PR086,Coyote,Sylvilagus bachmani,Brush rabbit,Fall (Oct-Dec),2023,2023-10-24,38.03417,-122.9467611,Brush rabbit,Brush rabbit
+PR088,Coyote,Sylvilagus bachmani,Brush rabbit,Fall (Oct-Dec),2023,2023-10-24,38.03417,-122.9463655,Brush rabbit,Brush rabbit
+PR088,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-10-24,38.03417,-122.9463655,California vole,California vole
+PR089,Coyote,Sylvilagus bachmani,Brush rabbit,Fall (Oct-Dec),2023,2023-10-24,38.03422,-122.9455447,Brush rabbit,Brush rabbit
+PR090,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2023,2023-10-24,38.03415,-122.9442911,Botta's pocket gopher,Botta's pocket gopher
+PR091,Coyote,Sylvilagus bachmani,Brush rabbit,Fall (Oct-Dec),2023,2023-10-24,38.03415,-122.944233,Brush rabbit,Brush rabbit
+PR091,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-10-24,38.03415,-122.944233,California vole,California vole
+PR092,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-10-24,38.03601,-122.9636392,Deer mouse,Other small mammal
+PR092,Coyote,Cervus canadensis,Elk,Fall (Oct-Dec),2023,2023-10-24,38.03601,-122.9636392,Elk,Native ungulate
+PR099,Bobcat,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-04,38.02825,-122.96106,California vole,California vole
+PR101,Coyote,Passeriformes,Passerine bird,Spring (Apr-Jun),2023,2023-06-29,38.04561,-122.97221,Landbird,Other terrestrial
+PR101,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.04561,-122.97221,California vole,California vole
+PR104,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2023,2023-06-29,38.02712,-122.96243,Brush rabbit,Brush rabbit
+PR104,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.02712,-122.96243,California vole,California vole
+PR107,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2023,2023-06-29,38.01598,-122.97703,Botta's pocket gopher,Botta's pocket gopher
+PR107,Coyote,Peromyscus spp.,Deer mouse,Spring (Apr-Jun),2023,2023-06-29,38.01598,-122.97703,Deer mouse,Other small mammal
+PR107,Coyote,Bos taurus,Domestic cow,Spring (Apr-Jun),2023,2023-06-29,38.01598,-122.97703,Domestic cow,Livestock/anthropogenic
+PR109,Bobcat,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2023,2023-06-29,38.02801,-122.96345,Botta's pocket gopher,Botta's pocket gopher
+PR109,Bobcat,Neotoma fuscipes,Dusky-footed woodrat,Spring (Apr-Jun),2023,2023-06-29,38.02801,-122.96345,Other rodent,Other small mammal
+PR109,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.02801,-122.96345,California vole,California vole
+PR109,Bobcat,Callipepla californica,California quail,Spring (Apr-Jun),2023,2023-06-29,38.02801,-122.96345,Landbird,Other terrestrial
+PR110,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.02801,-122.96346,California vole,California vole
+PR113,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.02805,-122.96342,California vole,California vole
+PR113,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2023,2023-06-29,38.02805,-122.96342,Brush rabbit,Brush rabbit
+PR114,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2023,2023-06-29,38.02805,-122.96343,Brush rabbit,Brush rabbit
+PR114,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.02805,-122.96343,California vole,California vole
+PR114,Bobcat,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2023,2023-06-29,38.02805,-122.96343,Botta's pocket gopher,Botta's pocket gopher
+PR115,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.02805,-122.96343,California vole,California vole
+PR115,Bobcat,Peromyscus spp.,Deer mouse,Spring (Apr-Jun),2023,2023-06-29,38.02805,-122.96343,Deer mouse,Other small mammal
+PR116,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2023,2023-06-29,38.02805,-122.96344,Brush rabbit,Brush rabbit
+PR118,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2023,2023-06-29,38.03202,-122.9519,Botta's pocket gopher,Botta's pocket gopher
+PR118,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.03202,-122.9519,California vole,California vole
+PR119,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2023,2023-06-29,38.03131,-122.94781,Brush rabbit,Brush rabbit
+PR120,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.03162,-122.94743,California vole,California vole
+PR121,Coyote,Cervus canadensis,Elk,Spring (Apr-Jun),2023,2023-06-29,38.03422,-122.94536,Elk,Native ungulate
+PR121,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2023,2023-06-29,38.03422,-122.94536,Brush rabbit,Brush rabbit
+PR121,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-29,38.03422,-122.94536,California vole,California vole
+PR121,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2023,2023-06-29,38.03422,-122.94536,Botta's pocket gopher,Botta's pocket gopher
+PR122,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2023,2023-06-29,38.03431,-122.9437,Brush rabbit,Brush rabbit
+PR126,Coyote,Gallus gallus,Domestic chicken,Spring (Apr-Jun),2023,2023-06-29,38.03134,-122.94777,Other anthropogenic,Livestock/anthropogenic
+PR126,Coyote,Sus scrofa,Domestic pig,Spring (Apr-Jun),2023,2023-06-29,38.03134,-122.94777,Other anthropogenic,Livestock/anthropogenic
+PR135,Bobcat,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2023,2023-06-30,38.02894,-122.96214,Botta's pocket gopher,Botta's pocket gopher
+PR135,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-30,38.02894,-122.96214,California vole,California vole
+PR135,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2023,2023-06-30,38.02894,-122.96214,Brush rabbit,Brush rabbit
+PR136,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2023,2023-06-30,38.02897,-122.96211,California vole,California vole
+PR136,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2023,2023-06-30,38.02897,-122.96211,Brush rabbit,Brush rabbit
+PR140,Bobcat,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-04,38.02824,-122.96047,California vole,California vole
+PR140,Bobcat,Sylvilagus bachmani,Brush rabbit,Fall (Oct-Dec),2023,2023-11-04,38.02824,-122.96047,Brush rabbit,Brush rabbit
+PR141,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-04,38.02819,-122.96017,California vole,California vole
+PR141,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-04,38.02819,-122.96017,Deer mouse,Other small mammal
+PR144,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-04,38.03434,-122.93966,California vole,California vole
+PR144,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-04,38.03434,-122.93966,Deer mouse,Other small mammal
+PR148,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-04,37.9981,-122.98397,Cormorant,Seabird
+PR149,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-04,37.99809,-122.98404,Cormorant,Seabird
+PR149,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-04,37.99809,-122.98404,Deer mouse,Other small mammal
+PR149,Coyote,Nannopterum auritum,Double-crested cormorant,Fall (Oct-Dec),2023,2023-11-04,37.99809,-122.98404,Cormorant,Seabird
+PR151,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-04,37.99812,-122.98512,Cormorant,Seabird
+PR151,Coyote,Nannopterum auritum,Double-crested cormorant,Fall (Oct-Dec),2023,2023-11-04,37.99812,-122.98512,Cormorant,Seabird
+PR152,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-04,37.99937,-122.98481,Cormorant,Seabird
+PR152,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-04,37.99937,-122.98481,Deer mouse,Other small mammal
+PR154,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-04,37.99965,-122.98492,Deer mouse,Other small mammal
+PR154,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-04,37.99965,-122.98492,California vole,California vole
+PR156,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-04,38.00187,-122.98521,Cormorant,Seabird
+PR156,Coyote,Larus spp.,Gull,Fall (Oct-Dec),2023,2023-11-04,38.00187,-122.98521,Other seabird,Seabird
+PR158,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-05,38.02088,-122.97215,California vole,California vole
+PR158,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2023,2023-11-05,38.02088,-122.97215,Botta's pocket gopher,Botta's pocket gopher
+PR159,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-05,38.01942,-122.97371,California vole,California vole
+PR161,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-05,38.02306,-122.96995,California vole,California vole
+PR163,Bobcat,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-05,38.02617,-122.96426,California vole,California vole
+PR163,Bobcat,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2023,2023-11-05,38.02617,-122.96426,Botta's pocket gopher,Botta's pocket gopher
+PR170,Coyote,Gavia spp.,Loon,Fall (Oct-Dec),2023,2023-11-05,37.99389,-122.97611,Other seabird,Seabird
+PR170,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-05,37.99389,-122.97611,Deer mouse,Other small mammal
+PR170,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-05,37.99389,-122.97611,California vole,California vole
+PR171,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-05,37.99346,-122.97427,Deer mouse,Other small mammal
+PR172,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-05,37.99317,-122.97189,Cormorant,Seabird
+PR172,Coyote,Tyto alba,Barn owl,Fall (Oct-Dec),2023,2023-11-05,37.99317,-122.97189,Landbird,Other terrestrial
+PR173,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-05,37.99222,-122.97028,Cormorant,Seabird
+PR173,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2023,2023-11-05,37.99222,-122.97028,Botta's pocket gopher,Botta's pocket gopher
+PR173,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-05,37.99222,-122.97028,California vole,California vole
+PR174,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2023,2023-11-05,37.99194,-122.96944,California vole,California vole
+PR174,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-05,37.99194,-122.96944,Deer mouse,Other small mammal
+PR174,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-05,37.99194,-122.96944,Cormorant,Seabird
+PR175,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-05,37.99222,-122.96944,Cormorant,Seabird
+PR175,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-05,37.99222,-122.96944,Deer mouse,Other small mammal
+PR177,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2023,2023-11-05,37.99056,-122.96583,Botta's pocket gopher,Botta's pocket gopher
+PR177,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-05,37.99056,-122.96583,Cormorant,Seabird
+PR177,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2023,2023-11-05,37.99056,-122.96583,Deer mouse,Other small mammal
+PR177,Coyote,Gavia spp.,Loon,Fall (Oct-Dec),2023,2023-11-05,37.99056,-122.96583,Other seabird,Seabird
+PR178,Bobcat,Odocoileus hemionus,Mule deer,Fall (Oct-Dec),2023,2023-11-05,37.99083,-122.96778,Mule deer,Native ungulate
+PR179,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-05,37.99083,-122.96806,Cormorant,Seabird
+PR180,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2023,2023-11-05,37.99222,-122.97194,Botta's pocket gopher,Botta's pocket gopher
+PR180,Coyote,Odocoileus hemionus,Mule deer,Fall (Oct-Dec),2023,2023-11-05,37.99222,-122.97194,Mule deer,Native ungulate
+PR182,Coyote,Nannopterum auritum,Double-crested cormorant,Fall (Oct-Dec),2023,2023-11-05,37.99651,-122.97962,Cormorant,Seabird
+PR182,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Fall (Oct-Dec),2023,2023-11-05,37.99651,-122.97962,Cormorant,Seabird
+PR185,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.02825,-122.96013,California vole,California vole
+PR186,Bobcat,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2024,2024-01-13,38.02904,-122.95766,Brush rabbit,Brush rabbit
+PR187,Coyote,Fulmarus glacialis,Northern fulmar,Winter (Jan-Mar),2024,2024-01-13,38.03181,-122.9475,Other seabird,Seabird
+PR187,Coyote,Larus spp.,Gull,Winter (Jan-Mar),2024,2024-01-13,38.03181,-122.9475,Other seabird,Seabird
+PR187,Coyote,Oceanodroma spp.,Storm-Petrel,Winter (Jan-Mar),2024,2024-01-13,38.03181,-122.9475,Other seabird,Seabird
+PR187,Coyote,Sea duck (unidentified),Sea duck,Winter (Jan-Mar),2024,2024-01-13,38.03181,-122.9475,Other seabird,Seabird
+PR189,Coyote,Phalacrocorax spp.,Cormorant (Brandt's / Pelagic),Winter (Jan-Mar),2024,2024-01-13,38.03192,-122.9474,Cormorant,Seabird
+PR189,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.03192,-122.9474,California vole,California vole
+PR190,Coyote,Callipepla californica,California quail,Winter (Jan-Mar),2024,2024-01-13,38.03185,-122.94839,Landbird,Other terrestrial
+PR190,Coyote,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2024,2024-01-13,38.03185,-122.94839,Brush rabbit,Brush rabbit
+PR190,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.03185,-122.94839,California vole,California vole
+PR193,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.03416,-122.94663,California vole,California vole
+PR193,Coyote,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2024,2024-01-13,38.03416,-122.94663,Brush rabbit,Brush rabbit
+PR196,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.03525,-122.94216,California vole,California vole
+PR197,Coyote,Larus spp.,Gull,Winter (Jan-Mar),2024,2024-01-13,38.03303,-122.93806,Other seabird,Seabird
+PR198,Coyote,Larus spp.,Gull,Winter (Jan-Mar),2024,2024-01-13,38.03217,-122.93608,Other seabird,Seabird
+PR198,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.03217,-122.93608,California vole,California vole
+PR200,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.02227,-122.97066,California vole,California vole
+PR200,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-01-13,38.02227,-122.97066,Botta's pocket gopher,Botta's pocket gopher
+PR201,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.02227,-122.97066,California vole,California vole
+PR201,Bobcat,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2024,2024-01-13,38.02227,-122.97066,Brush rabbit,Brush rabbit
+PR202,Bobcat,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2024,2024-01-13,38.02227,-122.97066,Brush rabbit,Brush rabbit
+PR202,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.02227,-122.97066,California vole,California vole
+PR203,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.02227,-122.97066,California vole,California vole
+PR203,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-01-13,38.02227,-122.97066,Botta's pocket gopher,Botta's pocket gopher
+PR204,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.01875,-122.97668,California vole,California vole
+PR205,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-13,38.02237,-122.97045,California vole,California vole
+PR206,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2024,2024-01-27,38.02681,-122.96333,Northern elephant seal,Elephant seal
+PR206,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.02681,-122.96333,California vole,California vole
+PR206,Coyote,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2024,2024-01-27,38.02681,-122.96333,Brush rabbit,Brush rabbit
+PR208,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.02227,-122.97063,California vole,California vole
+PR210,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.02221,-122.97069,California vole,California vole
+PR210,Bobcat,Odocoileus hemionus,Mule deer,Winter (Jan-Mar),2024,2024-01-27,38.02221,-122.97069,Mule deer,Native ungulate
+PR212,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-01-27,38.02183,-122.97104,Botta's pocket gopher,Botta's pocket gopher
+PR212,Coyote,Bos taurus,Domestic cow,Winter (Jan-Mar),2024,2024-01-27,38.02183,-122.97104,Domestic cow,Livestock/anthropogenic
+PR212,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-01-27,38.02183,-122.97104,Deer mouse,Other small mammal
+PR214,Bobcat,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-01-27,38.01854,-122.97517,Deer mouse,Other small mammal
+PR214,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-01-27,38.01854,-122.97517,Botta's pocket gopher,Botta's pocket gopher
+PR215,Bobcat,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-01-27,38.01854,-122.97517,Deer mouse,Other small mammal
+PR215,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-01-27,38.01854,-122.97517,Botta's pocket gopher,Botta's pocket gopher
+PR215,Bobcat,Bos taurus,Domestic cow,Winter (Jan-Mar),2024,2024-01-27,38.01854,-122.97517,Domestic cow,Livestock/anthropogenic
+PR215,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.01854,-122.97517,California vole,California vole
+PR216,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-01-27,38.01844,-122.97537,Botta's pocket gopher,Botta's pocket gopher
+PR216,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.01844,-122.97537,California vole,California vole
+PR216,Bobcat,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-01-27,38.01844,-122.97537,Deer mouse,Other small mammal
+PR217,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-01-27,38.01842,-122.97538,Botta's pocket gopher,Botta's pocket gopher
+PR217,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.01842,-122.97538,California vole,California vole
+PR218,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.0175,-122.97656,California vole,California vole
+PR218,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-01-27,38.0175,-122.97656,Botta's pocket gopher,Botta's pocket gopher
+PR219,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.01616,-122.9772,California vole,California vole
+PR219,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-01-27,38.01616,-122.9772,Deer mouse,Other small mammal
+PR219,Coyote,Bos taurus,Domestic cow,Winter (Jan-Mar),2024,2024-01-27,38.01616,-122.9772,Domestic cow,Livestock/anthropogenic
+PR220,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.01604,-122.97706,California vole,California vole
+PR220,Coyote,Bos taurus,Domestic cow,Winter (Jan-Mar),2024,2024-01-27,38.01604,-122.97706,Domestic cow,Livestock/anthropogenic
+PR221,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-01-27,38.02202,-122.97084,California vole,California vole
+PR222,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-02-10,38.01949,-122.97477,Botta's pocket gopher,Botta's pocket gopher
+PR222,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-02-10,38.01949,-122.97477,California vole,California vole
+PR222,Bobcat,Odocoileus hemionus,Mule deer,Winter (Jan-Mar),2024,2024-02-10,38.01949,-122.97477,Mule deer,Native ungulate
+PR224,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-02-10,38.02932,-122.9565,Deer mouse,Other small mammal
+PR224,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-02-10,38.02932,-122.9565,California vole,California vole
+PR225,Coyote,Cervus canadensis,Elk,Winter (Jan-Mar),2024,2024-02-10,38.03156,-122.94044,Elk,Native ungulate
+PR225,Coyote,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2024,2024-02-10,38.03156,-122.94044,Brush rabbit,Brush rabbit
+PR228,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2024,2024-02-11,37.99428,-122.97442,Northern elephant seal,Elephant seal
+PR229,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.02827,-122.96053,California vole,California vole
+PR229,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-03-09,38.02827,-122.96053,Botta's pocket gopher,Botta's pocket gopher
+PR230,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.02822,-122.9601,California vole,California vole
+PR230,Coyote,Cervus canadensis,Elk,Winter (Jan-Mar),2024,2024-03-09,38.02822,-122.9601,Elk,Native ungulate
+PR231,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.02821,-122.9599,California vole,California vole
+PR232,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.02933,-122.95647,California vole,California vole
+PR232,Coyote,Cervus canadensis,Elk,Winter (Jan-Mar),2024,2024-03-09,38.02933,-122.95647,Elk,Native ungulate
+PR232,Coyote,Odocoileus hemionus,Mule deer,Winter (Jan-Mar),2024,2024-03-09,38.02933,-122.95647,Mule deer,Native ungulate
+PR234,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2024,2024-03-09,38.03153,-122.95149,Northern elephant seal,Elephant seal
+PR234,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.03153,-122.95149,California vole,California vole
+PR235,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.03131,-122.95092,California vole,California vole
+PR235,Coyote,Cervus canadensis,Elk,Winter (Jan-Mar),2024,2024-03-09,38.03131,-122.95092,Elk,Native ungulate
+PR237,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-03-09,38.03154,-122.94719,Botta's pocket gopher,Botta's pocket gopher
+PR237,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.03154,-122.94719,California vole,California vole
+PR238,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.0334,-122.94717,California vole,California vole
+PR239,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.03394,-122.96744,California vole,California vole
+PR240,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.03418,-122.9467,California vole,California vole
+PR240,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2024,2024-03-09,38.03418,-122.9467,Northern elephant seal,Elephant seal
+PR241,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.03418,-122.94653,California vole,California vole
+PR242,Coyote,Vulpes vulpes,Red fox,Winter (Jan-Mar),2024,2024-03-09,38.0342,-122.94621,Mesocarnivore,Other terrestrial
+PR242,Coyote,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2024,2024-03-09,38.0342,-122.94621,Brush rabbit,Brush rabbit
+PR243,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.03419,-122.94521,California vole,California vole
+PR243,Coyote,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2024,2024-03-09,38.03419,-122.94521,Brush rabbit,Brush rabbit
+PR244,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.03535,-122.94296,California vole,California vole
+PR245,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2024,2024-03-09,38.02158,-122.9711,Northern elephant seal,Elephant seal
+PR247,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-03-09,38.0167,-122.97636,Botta's pocket gopher,Botta's pocket gopher
+PR247,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-03-09,38.0167,-122.97636,Deer mouse,Other small mammal
+PR248,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.01618,-122.97713,California vole,California vole
+PR249,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-03-09,38.01064,-122.98124,Botta's pocket gopher,Botta's pocket gopher
+PR249,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.01064,-122.98124,California vole,California vole
+PR250,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-03-09,37.99638,-122.98,Botta's pocket gopher,Botta's pocket gopher
+PR250,Bobcat,Odocoileus hemionus,Mule deer,Winter (Jan-Mar),2024,2024-03-09,37.99638,-122.98,Mule deer,Native ungulate
+PR250,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,37.99638,-122.98,California vole,California vole
+PR252,Coyote,Odocoileus hemionus,Mule deer,Winter (Jan-Mar),2024,2024-03-09,37.99569,-122.97903,Mule deer,Native ungulate
+PR252,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,37.99569,-122.97903,California vole,California vole
+PR252,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-03-09,37.99569,-122.97903,Botta's pocket gopher,Botta's pocket gopher
+PR253,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2024,2024-03-09,37.99488,-122.97935,Northern elephant seal,Elephant seal
+PR253,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,37.99488,-122.97935,California vole,California vole
+PR254,Bobcat,Odocoileus hemionus,Mule deer,Winter (Jan-Mar),2024,2024-03-09,37.9974,-122.98373,Mule deer,Native ungulate
+PR254,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,37.9974,-122.98373,California vole,California vole
+PR256,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-03-09,38.00027,-122.98413,Botta's pocket gopher,Botta's pocket gopher
+PR256,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-03-09,38.00027,-122.98413,Deer mouse,Other small mammal
+PR256,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-09,38.00027,-122.98413,California vole,California vole
+PR258,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-10,38.00201,-122.98513,California vole,California vole
+PR261,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-10,38.00632,-122.98392,California vole,California vole
+PR262,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-03-10,38.01255,-122.98119,Deer mouse,Other small mammal
+PR262,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-10,38.01255,-122.98119,California vole,California vole
+PR264,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-10,38.00198,-122.98517,California vole,California vole
+PR264,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-03-10,38.00198,-122.98517,Deer mouse,Other small mammal
+PR266,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2024,2024-03-10,37.99667,-122.98165,Botta's pocket gopher,Botta's pocket gopher
+PR266,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2024,2024-03-10,37.99667,-122.98165,Northern elephant seal,Elephant seal
+PR266,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2024,2024-03-10,37.99667,-122.98165,California vole,California vole
+PR266,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2024,2024-03-10,37.99667,-122.98165,Deer mouse,Other small mammal
+PR267,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-04-06,38.02687,-122.96332,California vole,California vole
+PR267,Coyote,Bos taurus,Domestic cow,Spring (Apr-Jun),2024,2024-04-06,38.02687,-122.96332,Domestic cow,Livestock/anthropogenic
+PR268,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-04-06,38.02228,-122.97065,California vole,California vole
+PR269,Coyote,Mirounga angustirostris,Northern elephant seal,Spring (Apr-Jun),2024,2024-04-06,38.02225,-122.97066,Northern elephant seal,Elephant seal
+PR269,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-04-06,38.02225,-122.97066,California vole,California vole
+PR272,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-04-06,38.01223,-122.9813,California vole,California vole
+PR272,Coyote,Mirounga angustirostris,Northern elephant seal,Spring (Apr-Jun),2024,2024-04-06,38.01223,-122.9813,Northern elephant seal,Elephant seal
+PR273,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-04-06,38.01149,-122.98042,California vole,California vole
+PR273,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-04-06,38.01149,-122.98042,Botta's pocket gopher,Botta's pocket gopher
+PR273,Coyote,Peromyscus spp.,Deer mouse,Spring (Apr-Jun),2024,2024-04-06,38.01149,-122.98042,Deer mouse,Other small mammal
+PR274,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-04-06,38.01577,-122.9771,California vole,California vole
+PR274,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-04-06,38.01577,-122.9771,Botta's pocket gopher,Botta's pocket gopher
+PR274,Coyote,Rattus rattus,Black rat,Spring (Apr-Jun),2024,2024-04-06,38.01577,-122.9771,Other rodent,Other small mammal
+PR275,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-04-06,38.01578,-122.9771,California vole,California vole
+PR281,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.02335,-122.96946,California vole,California vole
+PR281,Coyote,Oceanodroma spp.,Storm-Petrel,Spring (Apr-Jun),2024,2024-05-04,38.02335,-122.96946,Other seabird,Seabird
+PR281,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-04,38.02335,-122.96946,Botta's pocket gopher,Botta's pocket gopher
+PR282,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.02274,-122.97102,California vole,California vole
+PR284,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.02275,-122.97083,California vole,California vole
+PR285,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.02296,-122.97104,California vole,California vole
+PR285,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-05-04,38.02296,-122.97104,Brush rabbit,Brush rabbit
+PR286,Bobcat,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-04,38.02294,-122.97105,Botta's pocket gopher,Botta's pocket gopher
+PR286,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.02294,-122.97105,California vole,California vole
+PR287,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.02299,-122.97111,California vole,California vole
+PR290,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.01999,-122.9741,California vole,California vole
+PR290,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-04,38.01999,-122.9741,Botta's pocket gopher,Botta's pocket gopher
+PR291,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.02002,-122.97411,California vole,California vole
+PR292,Coyote,Bos taurus,Domestic cow,Spring (Apr-Jun),2024,2024-05-04,38.0199,-122.9743,Domestic cow,Livestock/anthropogenic
+PR292,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.0199,-122.9743,California vole,California vole
+PR292,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-04,38.0199,-122.9743,Botta's pocket gopher,Botta's pocket gopher
+PR295,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.02057,-122.97648,California vole,California vole
+PR295,Coyote,Odocoileus hemionus,Mule deer,Spring (Apr-Jun),2024,2024-05-04,38.02057,-122.97648,Mule deer,Native ungulate
+PR296,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-05,38.03595,-122.96371,California vole,California vole
+PR296,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-05-05,38.03595,-122.96371,Brush rabbit,Brush rabbit
+PR296,Bobcat,Mustela frenata,Long-tailed weasel,Spring (Apr-Jun),2024,2024-05-05,38.03595,-122.96371,Mesocarnivore,Other terrestrial
+PR296,Bobcat,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-05,38.03595,-122.96371,Botta's pocket gopher,Botta's pocket gopher
+PR296,Bobcat,Odocoileus hemionus,Mule deer,Spring (Apr-Jun),2024,2024-05-05,38.03595,-122.96371,Mule deer,Native ungulate
+PR298,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-05,38.02892,-122.96217,California vole,California vole
+PR300,Coyote,Odocoileus hemionus,Mule deer,Spring (Apr-Jun),2024,2024-05-04,38.0316571,-122.95214,Mule deer,Native ungulate
+PR300,Coyote,Cervus canadensis,Elk,Spring (Apr-Jun),2024,2024-05-04,38.0316571,-122.95214,Elk,Native ungulate
+PR301,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.031339,-122.95277,California vole,California vole
+PR301,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-04,38.031339,-122.95277,Botta's pocket gopher,Botta's pocket gopher
+PR301,Coyote,Peromyscus spp.,Deer mouse,Spring (Apr-Jun),2024,2024-05-04,38.031339,-122.95277,Deer mouse,Other small mammal
+PR301,Coyote,Bos taurus,Domestic cow,Spring (Apr-Jun),2024,2024-05-04,38.031339,-122.95277,Domestic cow,Livestock/anthropogenic
+PR302,Coyote,Phoca vitulina,Harbor seal,Spring (Apr-Jun),2024,2024-05-04,38.0323503,-122.93831,Other pinniped,Other marine
+PR303,Coyote,Cervus canadensis,Elk,Spring (Apr-Jun),2024,2024-05-04,38.0313615,-122.95005,Elk,Native ungulate
+PR303,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.0313615,-122.95005,California vole,California vole
+PR303,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-04,38.0313615,-122.95005,Botta's pocket gopher,Botta's pocket gopher
+PR304,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.0332,-122.93827,California vole,California vole
+PR304,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-04,38.0332,-122.93827,Botta's pocket gopher,Botta's pocket gopher
+PR305,Coyote,Bos taurus,Domestic cow,Spring (Apr-Jun),2024,2024-05-04,38.03304,-122.93858,Domestic cow,Livestock/anthropogenic
+PR305,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.03304,-122.93858,California vole,California vole
+PR306,Coyote,Pelecanus occidentalis,Brown pelican,Spring (Apr-Jun),2024,2024-05-04,38.01633,-122.9767,Other seabird,Seabird
+PR306,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-04,38.01633,-122.9767,California vole,California vole
+PR306,Coyote,Mirounga angustirostris,Northern elephant seal,Spring (Apr-Jun),2024,2024-05-04,38.01633,-122.9767,Northern elephant seal,Elephant seal
+PR307,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-05,38.02814,-122.96342,California vole,California vole
+PR307,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-05-05,38.02814,-122.96342,Brush rabbit,Brush rabbit
+PR308,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-05,37.99418,-122.97764,California vole,California vole
+PR308,Coyote,Mirounga angustirostris,Northern elephant seal,Spring (Apr-Jun),2024,2024-05-05,37.99418,-122.97764,Northern elephant seal,Elephant seal
+PR308,Coyote,Odocoileus hemionus,Mule deer,Spring (Apr-Jun),2024,2024-05-05,37.99418,-122.97764,Mule deer,Native ungulate
+PR309,Coyote,Odocoileus hemionus,Mule deer,Spring (Apr-Jun),2024,2024-05-05,37.9935,-122.97513,Mule deer,Native ungulate
+PR309,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-05,37.9935,-122.97513,California vole,California vole
+PR309,Coyote,Mirounga angustirostris,Northern elephant seal,Spring (Apr-Jun),2024,2024-05-05,37.9935,-122.97513,Northern elephant seal,Elephant seal
+PR310,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-05,37.99659,-122.98111,California vole,California vole
+PR310,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-05,37.99659,-122.98111,Botta's pocket gopher,Botta's pocket gopher
+PR311,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-05,38.00198,-122.98515,California vole,California vole
+PR312,Coyote,Odocoileus hemionus,Mule deer,Spring (Apr-Jun),2024,2024-05-05,38.00227,-122.98491,Mule deer,Native ungulate
+PR313,Bobcat,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-05-05,38.00467,-122.98411,Botta's pocket gopher,Botta's pocket gopher
+PR313,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-05,38.00467,-122.98411,California vole,California vole
+PR314,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-05-05,38.00306,-122.98529,California vole,California vole
+PR318,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.01067,-122.98193,California vole,California vole
+PR318,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-06-26,38.01067,-122.98193,Botta's pocket gopher,Botta's pocket gopher
+PR319,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.03108,-122.95025,California vole,California vole
+PR320,Coyote,Cervus canadensis,Elk,Spring (Apr-Jun),2024,2024-06-26,38.03109,-122.9502,Elk,Native ungulate
+PR322,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.03133,-122.95158,California vole,California vole
+PR322,Coyote,Zalophus californianus,California sea lion,Spring (Apr-Jun),2024,2024-06-26,38.03133,-122.95158,Other pinniped,Other marine
+PR322,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-26,38.03133,-122.95158,Brush rabbit,Brush rabbit
+PR323,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.03173,-122.95226,California vole,California vole
+PR323,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-26,38.03173,-122.95226,Brush rabbit,Brush rabbit
+PR324,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.02856,-122.96303,California vole,California vole
+PR324,Bobcat,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-06-26,38.02856,-122.96303,Botta's pocket gopher,Botta's pocket gopher
+PR325,Bobcat,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-06-26,38.03407,-122.96292,Botta's pocket gopher,Botta's pocket gopher
+PR325,Bobcat,Sturnus vulgaris,European starling,Spring (Apr-Jun),2024,2024-06-26,38.03407,-122.96292,Landbird,Other terrestrial
+PR325,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-26,38.03407,-122.96292,Brush rabbit,Brush rabbit
+PR325,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.03407,-122.96292,California vole,California vole
+PR326,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.03447,-122.96307,California vole,California vole
+PR326,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-26,38.03447,-122.96307,Brush rabbit,Brush rabbit
+PR326,Bobcat,Ondatra zibethicus,Muskrat,Spring (Apr-Jun),2024,2024-06-26,38.03447,-122.96307,Other rodent,Other small mammal
+PR328,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.03449,-122.96308,California vole,California vole
+PR328,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-26,38.03449,-122.96308,Brush rabbit,Brush rabbit
+PR329,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-06-26,38.04763,-122.97363,Botta's pocket gopher,Botta's pocket gopher
+PR329,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.04763,-122.97363,California vole,California vole
+PR330,Coyote,Passeriformes,Passerine bird,Spring (Apr-Jun),2024,2024-06-26,38.07573,-122.97107,Landbird,Other terrestrial
+PR330,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.07573,-122.97107,California vole,California vole
+PR331,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-26,38.07605,-122.9688,California vole,California vole
+PR331,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-26,38.07605,-122.9688,Brush rabbit,Brush rabbit
+PR331,Coyote,Passeriformes,Passerine bird,Spring (Apr-Jun),2024,2024-06-26,38.07605,-122.9688,Landbird,Other terrestrial
+PR332,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-04,38.03127,-122.95301,California vole,California vole
+PR332,Coyote,Sylvilagus bachmani,Brush rabbit,Summer (Jul-Sep),2024,2024-08-04,38.03127,-122.95301,Brush rabbit,Brush rabbit
+PR333,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-04,38.03143,-122.95246,Botta's pocket gopher,Botta's pocket gopher
+PR333,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-04,38.03143,-122.95246,California vole,California vole
+PR334,Coyote,Passeriformes,Passerine bird,Summer (Jul-Sep),2024,2024-08-04,38.03172,-122.95232,Landbird,Other terrestrial
+PR335,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-04,38.03164,-122.95169,California vole,California vole
+PR337,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2024,2024-08-04,38.03239,-122.93597,Deer mouse,Other small mammal
+PR337,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-04,38.03239,-122.93597,California vole,California vole
+PR338,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-04,38.03169,-122.93719,California vole,California vole
+PR339,Coyote,Cervus canadensis,Elk,Summer (Jul-Sep),2024,2024-08-04,38.03205,-122.93679,Elk,Native ungulate
+PR339,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-04,38.03205,-122.93679,California vole,California vole
+PR340,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-04,38.01057,-122.9814,California vole,California vole
+PR340,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-04,38.01057,-122.9814,Botta's pocket gopher,Botta's pocket gopher
+PR342,Coyote,Bos taurus,Domestic cow,Summer (Jul-Sep),2024,2024-08-04,38.01083,-122.98161,Domestic cow,Livestock/anthropogenic
+PR342,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-04,38.01083,-122.98161,California vole,California vole
+PR342,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-04,38.01083,-122.98161,Botta's pocket gopher,Botta's pocket gopher
+PR343,Bobcat,Odocoileus hemionus,Mule deer,Summer (Jul-Sep),2024,2024-08-04,38.01083,-122.98161,Mule deer,Native ungulate
+PR344,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,37.99567,-122.97892,California vole,California vole
+PR344,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2024,2024-08-05,37.99567,-122.97892,Deer mouse,Other small mammal
+PR346,Coyote,Mephitis mephitis,Striped skunk,Summer (Jul-Sep),2024,2024-08-05,37.9947,-122.97643,Mesocarnivore,Other terrestrial
+PR347,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,37.99466,-122.97618,California vole,California vole
+PR347,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-05,37.99466,-122.97618,Botta's pocket gopher,Botta's pocket gopher
+PR348,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-05,37.99395,-122.97343,Botta's pocket gopher,Botta's pocket gopher
+PR348,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,37.99395,-122.97343,California vole,California vole
+PR349,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-05,37.99411,-122.974,Botta's pocket gopher,Botta's pocket gopher
+PR349,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,37.99411,-122.974,California vole,California vole
+PR349,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2024,2024-08-05,37.99411,-122.974,Deer mouse,Other small mammal
+PR350,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,37.99357,-122.97404,California vole,California vole
+PR350,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-05,37.99357,-122.97404,Botta's pocket gopher,Botta's pocket gopher
+PR351,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-05,37.99328,-122.97361,Botta's pocket gopher,Botta's pocket gopher
+PR351,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,37.99328,-122.97361,California vole,California vole
+PR351,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2024,2024-08-05,37.99328,-122.97361,Deer mouse,Other small mammal
+PR352,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-05,37.99466,-122.97893,Botta's pocket gopher,Botta's pocket gopher
+PR352,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2024,2024-08-05,37.99466,-122.97893,Deer mouse,Other small mammal
+PR352,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,37.99466,-122.97893,California vole,California vole
+PR353,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,37.99845,-123.00059,California vole,California vole
+PR354,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,38.00297,-123.01105,California vole,California vole
+PR355,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2024,2024-08-05,38.00425,-123.00457,Deer mouse,Other small mammal
+PR355,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,38.00425,-123.00457,California vole,California vole
+PR355,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-05,38.00425,-123.00457,Botta's pocket gopher,Botta's pocket gopher
+PR355,Coyote,Bos taurus,Domestic cow,Summer (Jul-Sep),2024,2024-08-05,38.00425,-123.00457,Domestic cow,Livestock/anthropogenic
+PR356,Bobcat,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,38.00201,-123.00114,California vole,California vole
+PR356,Bobcat,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-05,38.00201,-123.00114,Botta's pocket gopher,Botta's pocket gopher
+PR356,Bobcat,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2024,2024-08-05,38.00201,-123.00114,Deer mouse,Other small mammal
+PR356,Bobcat,Callipepla californica,California quail,Summer (Jul-Sep),2024,2024-08-05,38.00201,-123.00114,Landbird,Other terrestrial
+PR357,Bobcat,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2024,2024-08-05,38.0013,-123.00003,Deer mouse,Other small mammal
+PR357,Bobcat,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,38.0013,-123.00003,California vole,California vole
+PR359,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,38.07604,-122.9696,California vole,California vole
+PR359,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-08-05,38.07604,-122.9696,Botta's pocket gopher,Botta's pocket gopher
+PR360,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-08-05,38.076,-122.96892,California vole,California vole
+PR360,Coyote,Mus musculus,House mouse,Summer (Jul-Sep),2024,2024-08-05,38.076,-122.96892,Other rodent,Other small mammal
+PR360,Coyote,Peromyscus spp.,Deer mouse,Summer (Jul-Sep),2024,2024-08-05,38.076,-122.96892,Deer mouse,Other small mammal
+PR361,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-09-06,38.06036,-122.9735,California vole,California vole
+PR362,Coyote,Scapanus latimanus,Northern broad-footed mole,Summer (Jul-Sep),2024,2024-09-06,38.06059,-122.97341,Mole/shrew,Other small mammal
+PR362,Coyote,Neurotrichus gibbsii,American shrew mole,Summer (Jul-Sep),2024,2024-09-06,38.06059,-122.97341,Mole/shrew,Other small mammal
+PR364,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-09-06,38.00491,-122.98383,California vole,California vole
+PR365,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-09-06,38.00491,-122.98383,Botta's pocket gopher,Botta's pocket gopher
+PR365,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-09-06,38.00491,-122.98383,California vole,California vole
+PR366,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-09-06,38.00491,-122.98383,California vole,California vole
+PR366,Coyote,Zalophus californianus,California sea lion,Summer (Jul-Sep),2024,2024-09-06,38.00491,-122.98383,Other pinniped,Other marine
+PR367,Coyote,Thomomys bottae,Botta's pocket gopher,Summer (Jul-Sep),2024,2024-09-06,38.00533,-122.98367,Botta's pocket gopher,Botta's pocket gopher
+PR367,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-09-06,38.00533,-122.98367,California vole,California vole
+PR368,Coyote,Microtus californicus,California vole,Summer (Jul-Sep),2024,2024-09-06,38.00533,-122.98367,California vole,California vole
+PR372,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-10-07,37.99619,-122.97891,California vole,California vole
+PR373,Bobcat,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2024,2024-10-07,37.99619,-122.9787,Botta's pocket gopher,Botta's pocket gopher
+PR373,Bobcat,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-10-07,37.99619,-122.9787,California vole,California vole
+PR374,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-10-07,37.99492,-122.97739,California vole,California vole
+PR374,Coyote,Gavia spp.,Loon,Fall (Oct-Dec),2024,2024-10-07,37.99492,-122.97739,Other seabird,Seabird
+PR375,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-10-07,37.9948,-122.97688,California vole,California vole
+PR376,Coyote,Gavia spp.,Loon,Fall (Oct-Dec),2024,2024-10-07,37.99467,-122.97614,Other seabird,Seabird
+PR376,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-10-07,37.99467,-122.97614,California vole,California vole
+PR376,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2024,2024-10-07,37.99467,-122.97614,Deer mouse,Other small mammal
+PR377,Coyote,Gavia spp.,Loon,Fall (Oct-Dec),2024,2024-10-07,37.9946,-122.97585,Other seabird,Seabird
+PR378,Coyote,Gavia spp.,Loon,Fall (Oct-Dec),2024,2024-10-07,37.99447,-122.97503,Other seabird,Seabird
+PR378,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-10-07,37.99447,-122.97503,California vole,California vole
+PR378,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2024,2024-10-07,37.99447,-122.97503,Botta's pocket gopher,Botta's pocket gopher
+PR379,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2024,2024-12-20,38.0613,-122.9733,Deer mouse,Other small mammal
+PR379,Coyote,Bos taurus,Domestic cow,Fall (Oct-Dec),2024,2024-12-20,38.0613,-122.9733,Domestic cow,Livestock/anthropogenic
+PR380,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2024,2024-12-20,38.06149,-122.97329,Botta's pocket gopher,Botta's pocket gopher
+PR380,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-12-20,38.06149,-122.97329,California vole,California vole
+PR380,Coyote,Ovis aries,Domestic sheep,Fall (Oct-Dec),2024,2024-12-20,38.06149,-122.97329,Other anthropogenic,Livestock/anthropogenic
+PR382,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-12-20,38.04147,-122.9918,California vole,California vole
+PR382,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2024,2024-12-20,38.04147,-122.9918,Deer mouse,Other small mammal
+PR383,Coyote,Callorhinus ursinus,Northern fur seal,Fall (Oct-Dec),2024,2024-12-21,38.01561,-122.97836,Other pinniped,Other marine
+PR383,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2024,2024-12-21,38.01561,-122.97836,Deer mouse,Other small mammal
+PR383,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-12-21,38.01561,-122.97836,California vole,California vole
+PR384,Coyote,Bos taurus,Domestic cow,Fall (Oct-Dec),2024,2024-12-21,38.01082,-122.98148,Domestic cow,Livestock/anthropogenic
+PR384,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-12-21,38.01082,-122.98148,California vole,California vole
+PR384,Coyote,Mus musculus,House mouse,Fall (Oct-Dec),2024,2024-12-21,38.01082,-122.98148,Other rodent,Other small mammal
+PR384,Coyote,Thomomys bottae,Botta's pocket gopher,Fall (Oct-Dec),2024,2024-12-21,38.01082,-122.98148,Botta's pocket gopher,Botta's pocket gopher
+PR384,Coyote,Peromyscus spp.,Deer mouse,Fall (Oct-Dec),2024,2024-12-21,38.01082,-122.98148,Deer mouse,Other small mammal
+PR385,Coyote,Microtus californicus,California vole,Fall (Oct-Dec),2024,2024-12-21,38.01082,-122.98148,California vole,California vole
+PR386,Coyote,Bos taurus,Domestic cow,Fall (Oct-Dec),2024,2024-12-21,38.01375,-122.98005,Domestic cow,Livestock/anthropogenic
+PR387,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2025,2025-01-04,38.00698,-123.0071,Deer mouse,Other small mammal
+PR387,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-01-04,38.00698,-123.0071,California vole,California vole
+PR388,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-01-04,38.00764,-123.0051,California vole,California vole
+PR388,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2025,2025-01-04,38.00764,-123.0051,Deer mouse,Other small mammal
+PR388,Coyote,Odocoileus hemionus,Mule deer,Winter (Jan-Mar),2025,2025-01-04,38.00764,-123.0051,Mule deer,Native ungulate
+PR389,Coyote,Engraulis mordax,Northern anchovy,Winter (Jan-Mar),2025,2025-01-04,38.03189,-122.93519,Marine fish,Other marine
+PR389,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2025,2025-01-04,38.03189,-122.93519,Deer mouse,Other small mammal
+PR390,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2025,2025-01-05,38.01622,-122.97713,Botta's pocket gopher,Botta's pocket gopher
+PR390,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-01-05,38.01622,-122.97713,California vole,California vole
+PR391,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2025,2025-01-05,38.01709,-122.97539,Northern elephant seal,Elephant seal
+PR392,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-01,38.03525,-122.99439,California vole,California vole
+PR392,Coyote,Sparrow (unidentified),Sparrow,Winter (Jan-Mar),2025,2025-02-01,38.03525,-122.99439,Landbird,Other terrestrial
+PR392,Coyote,Callipepla californica,California quail,Winter (Jan-Mar),2025,2025-02-01,38.03525,-122.99439,Landbird,Other terrestrial
+PR393,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-01,38.03523,-122.99439,California vole,California vole
+PR393,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2025,2025-02-01,38.03523,-122.99439,Deer mouse,Other small mammal
+PR394,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-01,38.03506,-122.9945,California vole,California vole
+PR394,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2025,2025-02-01,38.03506,-122.9945,Botta's pocket gopher,Botta's pocket gopher
+PR395,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2025,2025-02-01,38.03532,-122.99352,Northern elephant seal,Elephant seal
+PR396,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2025,2025-02-01,38.00775,-122.99827,Northern elephant seal,Elephant seal
+PR396,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-01,38.00775,-122.99827,California vole,California vole
+PR402,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2025,2025-02-02,38.00629,-122.98403,Botta's pocket gopher,Botta's pocket gopher
+PR402,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-02,38.00629,-122.98403,California vole,California vole
+PR405,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-02,38.02234,-122.97039,California vole,California vole
+PR405,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2025,2025-02-02,38.02234,-122.97039,Botta's pocket gopher,Botta's pocket gopher
+PR406,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2025,2025-02-02,38.02341,-122.96938,Northern elephant seal,Elephant seal
+PR407,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-02,38.02353,-122.96915,California vole,California vole
+PR408,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-15,38.02758,-122.96343,California vole,California vole
+PR408,Bobcat,Sparrow (unidentified),Sparrow,Winter (Jan-Mar),2025,2025-02-15,38.02758,-122.96343,Landbird,Other terrestrial
+PR409,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-15,38.03024,-122.95393,California vole,California vole
+PR409,Coyote,Cervus canadensis,Elk,Winter (Jan-Mar),2025,2025-02-15,38.03024,-122.95393,Elk,Native ungulate
+PR409,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2025,2025-02-15,38.03024,-122.95393,Deer mouse,Other small mammal
+PR410,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-16,38.03514,-122.99251,California vole,California vole
+PR410,Coyote,Zalophus californianus,California sea lion,Winter (Jan-Mar),2025,2025-02-16,38.03514,-122.99251,Other pinniped,Other marine
+PR410,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2025,2025-02-16,38.03514,-122.99251,Deer mouse,Other small mammal
+PR411,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-16,38.035,-122.99212,California vole,California vole
+PR411,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2025,2025-02-16,38.035,-122.99212,Deer mouse,Other small mammal
+PR412,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-16,38.03495,-122.99208,California vole,California vole
+PR412,Coyote,Zalophus californianus,California sea lion,Winter (Jan-Mar),2025,2025-02-16,38.03495,-122.99208,Other pinniped,Other marine
+PR413,Coyote,Bos taurus,Domestic cow,Winter (Jan-Mar),2025,2025-02-16,38.03051,-122.99251,Domestic cow,Livestock/anthropogenic
+PR413,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-16,38.03051,-122.99251,California vole,California vole
+PR414,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2025,2025-02-16,38.00709,-123.00759,Northern elephant seal,Elephant seal
+PR414,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2025,2025-02-16,38.00709,-123.00759,Deer mouse,Other small mammal
+PR415,Coyote,Bos taurus,Domestic cow,Winter (Jan-Mar),2025,2025-02-16,38.00805,-122.99871,Domestic cow,Livestock/anthropogenic
+PR416,Coyote,Phoca vitulina,Harbor seal,Spring (Apr-Jun),2025,2025-04-25,38.00488,-122.98381,Other pinniped,Other marine
+PR418,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2025,2025-04-26,38.00785,-123.00764,Botta's pocket gopher,Botta's pocket gopher
+PR418,Coyote,Bos taurus,Domestic cow,Spring (Apr-Jun),2025,2025-04-26,38.00785,-123.00764,Domestic cow,Livestock/anthropogenic
+PR419,Coyote,Bos taurus,Domestic cow,Spring (Apr-Jun),2025,2025-04-26,38.01372,-123.00487,Domestic cow,Livestock/anthropogenic
+PR421,Coyote,Bos taurus,Domestic cow,Spring (Apr-Jun),2025,2025-04-26,38.01394,-123.00471,Domestic cow,Livestock/anthropogenic
+PR422,Coyote,Cervus canadensis,Elk,Spring (Apr-Jun),2025,2025-06-03,38.03139,-122.94509,Elk,Native ungulate
+PR500,Bobcat,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2025,2025-02-15,38.030373,-122.961066,Botta's pocket gopher,Botta's pocket gopher
+PR500,Bobcat,Sylvilagus bachmani,Brush rabbit,Winter (Jan-Mar),2025,2025-02-15,38.030373,-122.961066,Brush rabbit,Brush rabbit
+PR508,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2025,2025-02-16,38.033441,-122.98973,Northern elephant seal,Elephant seal
+PR508,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-16,38.033441,-122.98973,California vole,California vole
+PR509,Coyote,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-15,38.02625,-122.96405,California vole,California vole
+PR509,Coyote,Cervus canadensis,Elk,Winter (Jan-Mar),2025,2025-02-15,38.02625,-122.96405,Elk,Native ungulate
+PR509,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2025,2025-02-15,38.02625,-122.96405,Northern elephant seal,Elephant seal
+PR510,Bobcat,Microtus californicus,California vole,Winter (Jan-Mar),2025,2025-02-15,38.02485,-122.96718,California vole,California vole
+PR513,Coyote,Mirounga angustirostris,Northern elephant seal,Winter (Jan-Mar),2025,2025-02-15,38.027044,-122.96298,Northern elephant seal,Elephant seal
+PR513,Coyote,Thomomys bottae,Botta's pocket gopher,Winter (Jan-Mar),2025,2025-02-15,38.027044,-122.96298,Botta's pocket gopher,Botta's pocket gopher
+PR516,Coyote,Peromyscus spp.,Deer mouse,Winter (Jan-Mar),2025,2025-02-16,38.033937,-122.990752,Deer mouse,Other small mammal
+PR525,Coyote,Bos taurus,Domestic cow,Summer (Jul-Sep),2025,2025-09-12,38.01677,-123.00555,Domestic cow,Livestock/anthropogenic
+PR060,Coyote,Sylvilagus bachmani,Brush rabbit,Summer (Jul-Sep),2023,2023-09-05,38.03228,-122.93929,Brush rabbit,Brush rabbit
+PR607,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-01,38.0315947,-122.95226,California vole,California vole
+PR608,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-01,38.0317313,-122.95227,California vole,California vole
+PR608,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-01,38.0317313,-122.95227,Brush rabbit,Brush rabbit
+PR609,Coyote,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-01,38.0319138,-122.95197,Brush rabbit,Brush rabbit
+PR609,Coyote,Odocoileus hemionus,Mule deer,Spring (Apr-Jun),2024,2024-06-01,38.0319138,-122.95197,Mule deer,Native ungulate
+PR612,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-01,38.02225,-122.97067,Brush rabbit,Brush rabbit
+PR612,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-01,38.02225,-122.97067,California vole,California vole
+PR613,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-01,38.02225,-122.97067,Brush rabbit,Brush rabbit
+PR613,Bobcat,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-06-01,38.02225,-122.97067,Botta's pocket gopher,Botta's pocket gopher
+PR613,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-01,38.02225,-122.97067,California vole,California vole
+PR616,Coyote,Peromyscus spp.,Deer mouse,Spring (Apr-Jun),2024,2024-06-01,38.0166,-122.97635,Deer mouse,Other small mammal
+PR616,Coyote,Thomomys bottae,Botta's pocket gopher,Spring (Apr-Jun),2024,2024-06-01,38.0166,-122.97635,Botta's pocket gopher,Botta's pocket gopher
+PR616,Coyote,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-01,38.0166,-122.97635,California vole,California vole
+PR616,Coyote,Bos taurus,Domestic cow,Spring (Apr-Jun),2024,2024-06-01,38.0166,-122.97635,Domestic cow,Livestock/anthropogenic
+PR617,Bobcat,Microtus californicus,California vole,Spring (Apr-Jun),2024,2024-06-01,38.02711,-122.96242,California vole,California vole
+PR617,Bobcat,Sylvilagus bachmani,Brush rabbit,Spring (Apr-Jun),2024,2024-06-01,38.02711,-122.96242,Brush rabbit,Brush rabbit
