@@ -29,8 +29,7 @@ monthly_SEM_data <- PORE_sites %>%
   replace_na(list(
     pup = 0,
     non_pup_seals = 0)) %>% 
-  select(placename, year_month, sampling_days, bobcat, coyote, human, domestic_dog,
-         mule_deer, northern_raccoon, pup, non_pup_seals) %>% 
+  select(placename, site_type, year_month, sampling_days, bobcat, coyote, human, domestic_dog,mule_deer, northern_raccoon, pup, non_pup_seals) %>% 
   mutate(placename = factor(placename),
          time_num = as.numeric(factor(year_month, levels = sort(unique(year_month)))),
          times = numFactor(time_num),
@@ -38,7 +37,8 @@ monthly_SEM_data <- PORE_sites %>%
          log1p_seal = log1p(non_pup_seals),
          log1p_pup = log1p(pup)) %>% 
   mutate(month_num = month(ym(year_month)),
-         season = if_else(month_num %in% c(1,2,3), "seal", "non-seal"))
+         season = if_else(month_num %in% c(1,2,3), "seal", "non-seal")) |> 
+  filter(site_type == "seal")
 
 
 ggpairs(monthly_SEM_data[,c(4:9, 15, 16)], #subset predictor columns at data for ggpairs function
@@ -62,22 +62,30 @@ temp <- monthly_SEM_data %>%
             mean_raccoon = mean(northern_raccoon), 
             se_raccoon = sd(northern_raccoon/sqrt(n())),
             mean_deer = mean(mule_deer), 
-            se_deer = sd(mule_deer/sqrt(n())))
+            se_deer = sd(mule_deer/sqrt(n())),
+            .groups = "drop")
 
 ggplot(monthly_SEM_data, aes(x=human, y=coyote))+
     geom_point()
        
 ggplot(temp, aes(x=mean_coyote, y=mean_deer, color=season))+
-  geom_point()+
-  geom_smooth(method = "lm")
+  geom_point()
 
-ggplot(monthly_SEM_data, aes(x=coyote, y=northern_raccoon))+
-  geom_point()+
-  geom_smooth(method = "lm")
+ggplot(temp, aes(x=mean_coyote, y=mean_bobcat, color=season))+
+  geom_point()
 
-ggplot(monthly_SEM_data, aes(x=coyote, y=mule_deer))+
+ggplot(temp, aes(x=mean_coyote, y=mean_raccoon, color=season, group=placename))+
   geom_point()+
-  geom_smooth(method = "lm")
+  geom_line()
+
+ggplot(monthly_SEM_data, aes(x=coyote, y=mule_deer, color=season))+
+  geom_point()
+
+ggplot(monthly_SEM_data, aes(x=coyote, y=northern_raccoon, color=season))+
+  geom_point()
+
+ggplot(monthly_SEM_data, aes(x=coyote, y=bobcat, color=season))+
+  geom_point()
 
 
 
