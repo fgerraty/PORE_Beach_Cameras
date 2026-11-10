@@ -1,13 +1,6 @@
 ###############################
 
 #Import data
-summarized_detection_rate_monthly_wide <- read_csv("data/processed/summarized_detection_rate_monthly_wide.csv") %>% 
-  group_by(placename) %>%
-  mutate(site_level_sampling_days = sum(sampling_days)) %>% 
-  ungroup() #%>% 
-  filter(site_level_sampling_days > 250) %>% 
-  filter(sampling_days > 10)
-
 summarized_detection_count_monthly_wide <- read_csv("data/processed/summarized_detection_count_monthly_wide.csv") %>% 
   group_by(placename) %>%
   mutate(site_level_sampling_days = sum(sampling_days)) %>% 
@@ -51,7 +44,8 @@ monthly_SEM_data <- PORE_sites %>%
            month_num %in% c(7:9) ~ "Summer", 
            month_num %in% c(10:12) ~ "Fall"),
          season4 = factor(season4, levels = c("Winter", "Spring", "Summer", "Fall")),
-         year = year(ym(year_month))) 
+         year = year(ym(year_month)),
+         coyote_rate = coyote/sampling_days) 
 
 
 ggpairs(monthly_SEM_data[,c(5:12, 16, 17)], #subset predictor columns at data for ggpairs function
@@ -75,16 +69,7 @@ coyote_mod2 <- glmmTMB(coyote ~ site_type * season +
                       family = nbinom2, 
                       data = monthly_SEM_data)
 
-summary(coyote_mod)
-
-
-coyote_mod3 <- glmmTMB(coyote ~ site_type*season +
-                         offset(log_sampling_days)+
-                         (1 | placename),
-                       family = nbinom2, 
-                       data = monthly_SEM_data)
-
-summary(coyote_mod3)
+summary(coyote_mod2)
 
 
 temp <- monthly_SEM_data |> 
@@ -105,7 +90,7 @@ ggplot(temp, aes(x=season, y=mean_coyote, group=placename))+
 
 
 
-bobcat_mod <- glmmTMB(bobcat ~ site_type * season +
+bobcat_mod <- glmmTMB(bobcat ~ site_type * season + 
                          offset(log_sampling_days)+
                          (1 | placename),
                        family = nbinom2, 
@@ -115,16 +100,14 @@ summary(bobcat_mod)
 
 raccoon_mod <- glmmTMB(northern_raccoon ~ site_type * season +
                         offset(log_sampling_days)+
-                        (1 | placename) + 
-                        ou(times + 0 | placename),
+                        (1 | placename),
                       family = nbinom2, 
                       data = monthly_SEM_data)
 summary(raccoon_mod)
 
 deer_mod <- glmmTMB(mule_deer ~ site_type * season +
                          offset(log_sampling_days)+
-                         (1 | placename) + 
-                         ou(times + 0 | placename),
+                         (1 | placename),
                        family = nbinom2, 
                        data = monthly_SEM_data)
 summary(deer_mod)

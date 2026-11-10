@@ -14,6 +14,29 @@ species_cols <- c(
   "north_american_river_otter", "northern_raccoon", "striped_skunk",
   "brush_rabbit", "black_tailed_jackrabbit", "elk")
 
+
+
+all_data <- summarized_detection_rate_monthly_wide  |> 
+  group_by(placename) |> 
+  mutate(site_level_sampling_days = sum(sampling_days)) |> 
+  ungroup() |> 
+  filter(site_level_sampling_days > 250) |> 
+  filter(sampling_days > 10) |> 
+  left_join(PORE_sites) |> 
+  mutate(
+    season = case_when(
+      month %in% c("01", "02", "03") ~ "Winter",
+      month %in% c("04", "05", "06") ~ "Spring",
+      month %in% c("07", "08", "09") ~ "Summer",
+      month %in% c("10", "11", "12") ~ "Fall"),
+    season = factor(season, levels = c("Winter", "Spring", "Summer", "Fall")),
+    year = factor(year),
+    placename = factor(placename)) |> 
+  filter(rowSums(across(all_of(species_cols))) > 0) 
+
+
+
+
 seal_data <- summarized_detection_rate_monthly_wide  |> 
   group_by(placename) |> 
   mutate(site_level_sampling_days = sum(sampling_days)) |> 
@@ -58,9 +81,11 @@ non_seal_data <- summarized_detection_rate_monthly_wide  |>
 nrow(summarized_detection_rate_monthly_wide) - (nrow(seal_data) + nrow(non_seal_data))
 
 #Community dataset, square-root transformed
-seal_comm <- seal_data %>%
-  select(all_of(species_cols)) %>%
-  mutate(across(everything(), sqrt))
+all_comm <- vegdist(all_data %>%
+  select(all_of(species_cols))) 
+
+seal_comm <- vegdist(seal_data %>%
+  select(all_of(species_cols)))
 
 non_seal_comm <- non_seal_data |> 
   select(all_of(species_cols)) %>%
@@ -68,6 +93,11 @@ non_seal_comm <- non_seal_data |>
 
 
 #NMDS
+
+all_nmds <- metaMDS(all_comm, distance = "bray", k = 3, trymax = 2000, autotransform = FALSE)
+all_nmds$stress   # < 0.2 is generally acceptable; < 0.1 is good
+
+
 seal_nmds <- metaMDS(seal_comm, distance = "bray", k = 2, trymax = 1000, autotransform = FALSE)
 seal_nmds$stress   # < 0.2 is generally acceptable; < 0.1 is good
 stressplot(seal_nmds)
@@ -77,9 +107,15 @@ non_seal_nmds$stress   # < 0.2 is generally acceptable; < 0.1 is good
 stressplot(non_seal_nmds)
 
 # --- 3. PERMANOVA (restricted within site) + dispersion ----------------------
+
+perm <- how(nperm = 999, blocks = all_data$placename) 
+
+adonis2(all_comm ~ site_type*season, data = all_data, method = "bray",
+        permutations = perm, by="terms")
+
 perm <- how(nperm = 999, blocks = seal_data$placename) 
 
-adonis2(seal_comm ~ year + season, data = seal_data, method = "bray",
+adonis2(seal_comm ~ season, data = seal_data, method = "bray",
         permutations = perm, by = "margin")
 
 bd <- betadisper(vegdist(seal_comm, method = "bray"), seal_data$season)
@@ -101,7 +137,7 @@ permutest(bd, permutations = 999)
 
 seal_comm_ef <- seal_comm[, colSums(seal_comm) > 0]
 
-ef1 <- envfit(seal_nmds, seal_comm_ef, permutations = 999, strata = seal_data$placename)
+ef1 <- envfit(seal_nmds, seal_comm, permutations = 999, strata = seal_data$placename)
 ef1
 
 
@@ -109,7 +145,7 @@ spp_vec1 <- as_tibble(scores(ef1, display = "vectors"), rownames = "species") %>
   mutate(r2 = ef1$vectors$r, p = ef1$vectors$pvals) %>%
   filter(p < 0.05)
 
-seal_site_scores <- as_tibble(scores(seal_nmds, display = "sites")) %>%
+seal_site_scores <- as_tibble(scores(seal_nmds, display = "species")) %>%
   bind_cols(seal_data %>% select(placename, year, season, site_type)) |> 
   arrange(placename, year, season)
 

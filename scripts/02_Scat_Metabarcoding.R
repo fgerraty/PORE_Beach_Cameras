@@ -413,14 +413,14 @@ coyote_marine_seasonality <- ggplot(coyote_marine_wpoo, aes(x=season, y=wPOO_pct
                             "Summer\n(Jul-Sep)", 
                             "Fall\n(Oct-Dec)"))+
   scale_y_continuous(breaks =  seq(0, 25, 5))+
-  labs(x = NULL, y = "Weighted Proportion of Occurrence (wPOO)", 
+  labs(x = NULL, y = "Weighted Percentage of Occurrence (wPOO)", 
        fill = "Prey item")+
   scale_fill_manual(values = group_cols)+
   theme_custom()
 coyote_marine_seasonality
 
 ggsave("output/extra_plots/coyote_marine_seasonality.png", coyote_marine_seasonality, 
-       width=7, height=5, units="in", dpi=600)
+       width=8, height=5, units="in", dpi=600)
 
 
 #########################################

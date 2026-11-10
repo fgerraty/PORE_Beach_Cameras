@@ -13,11 +13,6 @@ summarized_detection_rate_monthly <- read_csv("data/processed/summarized_detecti
     month %in% c("07","08","09") ~ "Summer (Jul-Sep)", 
     month %in% c(10:12) ~ "Fall (Oct-Dec)"))
 summarized_detection_rate_monthly_wide <- read_csv("data/processed/summarized_detection_rate_monthly_wide.csv")   
-summarized_detection_rate_weekly <- read_csv("data/processed/summarized_detection_rate_weekly.csv") %>% 
-  mutate(season = if_else(week %in% c(51,52,1:15), "seal", "non-seal"))
-summarized_detection_rate_weekly_wide <- read_csv("data/processed/summarized_detection_rate_weekly_wide.csv")   %>% 
-  mutate(season = if_else(week %in% c(51,52,1:15), "seal", "non-seal"))
-
 
 #Coyote and bobcat seasonality plot
 
@@ -35,42 +30,37 @@ season_levels <- c("Winter (Jan-Mar)", "Spring (Apr-Jun)",
                    "Summer (Jul-Sep)", "Fall (Oct-Dec)")
 
 
-plot_df <- summarized_detection_rate_monthly |> 
-  left_join(PORE_sites) |> 
-  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer")) |> 
-  group_by(season, common_name, site_type) |> 
-  summarise(mean = mean(detection_rate), 
-            se = sd(detection_rate)/sqrt(n()), 
-            .groups = "drop") |> 
-  mutate(common_name = factor(common_name, levels = c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer")),
-         season = factor(season, levels = season_levels))
 
 
 plot_df <- summarized_detection_rate_monthly %>% 
   left_join(PORE_sites) %>% 
-  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer")) %>% 
+  filter(common_name %in% c("Coyote", "Bobcat")) %>% 
   group_by(season, common_name, site_type) %>% 
   summarise(mean = mean(detection_rate), 
             se = sd(detection_rate)/sqrt(n()),
             .groups = "drop") %>% 
-  mutate(common_name = factor(common_name, levels = c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer")),
-         season = factor(season, levels = season_levels))
+  mutate(common_name = factor(common_name, levels = c("Coyote", "Bobcat")),
+         season = factor(season, levels = season_levels),
+         site_type = factor(site_type, levels = c("seal", "non-seal")))
 
 
-ggplot(plot_df, aes(x=season, y=mean, fill = site_type))+
+coyote_bobcat_activity_season <- ggplot(plot_df, aes(x=season, y=mean, fill = site_type))+
   geom_bar(stat = "identity", position = "dodge")+
   geom_linerange(aes(ymin = mean-se, ymax = mean+se), 
                  position = position_dodge(width = .9),
-                 color = "grey60")+
+                 color = "grey40")+
   facet_wrap(facets = "common_name", ncol=1, scales = "free_y")+
-#  scale_x_discrete(labels = month.name)+
-  labs(x = "Month", y = "Detection Rate\n(# Detections / Trap Night)",
+  scale_fill_manual(labels = c("Rookery", "Non-rookery"), 
+                    values = c("#e89a50","#608cf7"))+
+  scale_x_discrete(labels = c("Winter\n(Jan-Mar)", "Spring\n(Apr-Jun)",
+                              "Summer\n(Jul-Sep)", "Fall\n(Oct-Dec)")) +
+  labs(x = "", y = "Detection Rate\n(# detections / day)",
        fill = "Site Type")+
   theme_custom()+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1),
-  #      legend.position = "inside",
-  #      legend.position.inside = c(.88,.87),
-        legend.box.background = element_rect(color = "black", linewidth = 1.5))
+  theme(strip.text = element_text(face = "bold", size = 12),)
+
+ggsave("output/extra_plots/coyote_bobcat_activity_season.png", coyote_bobcat_activity_season, 
+       width=8, height=6, units="in", dpi=600)
 
 
 
