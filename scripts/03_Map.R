@@ -147,6 +147,10 @@ strip_cols <- strip_themed(
   background_x = elem_list_rect(fill = defecator_cols),
   text_x       = elem_list_text(colour = "white", face = "bold"))
 
+custom_labels <- c(
+  "Bobcat" = "Bobcat (n = 68 scats)",
+  "Coyote" = "Coyote (n = 202 scats)")
+
 
 scat_map <- ggplot() +
   geom_sf(data = counties, fill="#FAEED9")+
@@ -157,7 +161,8 @@ scat_map <- ggplot() +
            xlim = c(-123.04, -122.91),
            ylim = c(37.98, 38.09),
            expand = FALSE)+
-  facet_wrap2(vars(defecator), ncol = 1, strip = strip_cols) +
+  facet_wrap2(vars(defecator), ncol = 1, strip = strip_cols,
+             labeller = as_labeller(custom_labels)) +
   # Add scale bar
   annotation_scale(location = "tl", width_hint = 0.2)+
   # Add north arrow
@@ -179,6 +184,6 @@ scat_map
 
 #Export Map
 
-ggsave("output/extra_plots/scat_map.png", inset_scat, 
+ggsave("output/extra_plots/scat_map.png", scat_map, 
        width = 3, height = 6, units = "in", dpi = 600)
 

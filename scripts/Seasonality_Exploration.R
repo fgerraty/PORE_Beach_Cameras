@@ -6,7 +6,12 @@
 #Import data
 
 PORE_sites <- read_csv("data/raw/PORE_sites.csv") 
-summarized_detection_rate_monthly <- read_csv("data/processed/summarized_detection_rate_monthly.csv")   
+summarized_detection_rate_monthly <- read_csv("data/processed/summarized_detection_rate_monthly.csv") |> 
+  mutate(season = case_when(
+    month %in% c("01","02","03") ~ "Winter (Jan-Mar)", 
+    month %in% c("04","05","06") ~ "Spring (Apr-Jun)", 
+    month %in% c("07","08","09") ~ "Summer (Jul-Sep)", 
+    month %in% c(10:12) ~ "Fall (Oct-Dec)"))
 summarized_detection_rate_monthly_wide <- read_csv("data/processed/summarized_detection_rate_monthly_wide.csv")   
 summarized_detection_rate_weekly <- read_csv("data/processed/summarized_detection_rate_weekly.csv") %>% 
   mutate(season = if_else(week %in% c(51,52,1:15), "seal", "non-seal"))
@@ -14,6 +19,58 @@ summarized_detection_rate_weekly_wide <- read_csv("data/processed/summarized_det
   mutate(season = if_else(week %in% c(51,52,1:15), "seal", "non-seal"))
 
 
+#Coyote and bobcat seasonality plot
+
+defecator_cols <- c("darkgreen", "#F27F0C")
+
+strip_cols <- strip_themed(
+  background_x = elem_list_rect(fill = defecator_cols),
+  text_x       = elem_list_text(colour = "white", face = "bold"))
+
+custom_labels <- c(
+  "Bobcat" = "Bobcat (n = 461 independent detections)",
+  "Coyote" = "Coyote (n = 3650 independent detections)")
+
+season_levels <- c("Winter (Jan-Mar)", "Spring (Apr-Jun)",
+                   "Summer (Jul-Sep)", "Fall (Oct-Dec)")
+
+
+plot_df <- summarized_detection_rate_monthly |> 
+  left_join(PORE_sites) |> 
+  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer")) |> 
+  group_by(season, common_name, site_type) |> 
+  summarise(mean = mean(detection_rate), 
+            se = sd(detection_rate)/sqrt(n()), 
+            .groups = "drop") |> 
+  mutate(common_name = factor(common_name, levels = c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer")),
+         season = factor(season, levels = season_levels))
+
+
+plot_df <- summarized_detection_rate_monthly %>% 
+  left_join(PORE_sites) %>% 
+  filter(common_name %in% c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer")) %>% 
+  group_by(season, common_name, site_type) %>% 
+  summarise(mean = mean(detection_rate), 
+            se = sd(detection_rate)/sqrt(n()),
+            .groups = "drop") %>% 
+  mutate(common_name = factor(common_name, levels = c("Coyote", "Bobcat", "Northern Raccoon","Mule Deer")),
+         season = factor(season, levels = season_levels))
+
+
+ggplot(plot_df, aes(x=season, y=mean, fill = site_type))+
+  geom_bar(stat = "identity", position = "dodge")+
+  geom_linerange(aes(ymin = mean-se, ymax = mean+se), 
+                 position = position_dodge(width = .9),
+                 color = "grey60")+
+  facet_wrap(facets = "common_name", ncol=1, scales = "free_y")+
+#  scale_x_discrete(labels = month.name)+
+  labs(x = "Month", y = "Detection Rate\n(# Detections / Trap Night)",
+       fill = "Site Type")+
+  theme_custom()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+  #      legend.position = "inside",
+  #      legend.position.inside = c(.88,.87),
+        legend.box.background = element_rect(color = "black", linewidth = 1.5))
 
 
 
